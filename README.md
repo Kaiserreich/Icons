@@ -23,7 +23,7 @@ An item has the following form:
 ```
 - **name**: The in-game name used in a focus tree or idea file, this name will be copied when a user clicks on the icon.
 - **image**: The name of the PNG image (including .png!) that was added in the `images` folder.
-- **tags**: Each tag needs to be on it's own line.
+- **tags**: Each tag needs to be on it's own line, indented by two spaces.
 
 :exclamation: Make sure there is a dash (`-`) before each item (above the name), and that the `name`, `image` and `tag` are indented by one space.
 
