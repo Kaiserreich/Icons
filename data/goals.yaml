@@ -3457,4 +3457,90 @@ goals:
   - Economy
   - Treaty    
    
+- 
+ name: GFX_goal_DEI_focus_disband_volksraad
+ image: DEI_focus_disband_volksraad.png
+ tags:
+  - political
+  - force
+
+- 
+ name: GFX_goal_DOM_Call_Special_Election
+ image: DOM_Call_Special_Election.png
+ tags:
+  - political
+  - election
+  - democracy
+
+- 
+ name: GFX_goal_DOM_End_Judicial_Corruption
+ image: DOM_End_Judicial_Corruption.png
+ tags:
+  - political
+  - democracy  
+  
+- 
+ name: GFX_goal_DOM_The_Trial
+ image: DOM_The_Trial.png
+ tags:
+  - political
+  - democracy   
+  
+- 
+ name: GFX_focus_empty_coffers
+ image: empty_coffers.png
+ tags:
+  - economy   
+     
+- 
+ name: GFX_goal_Fix_Shitty_Rails
+ image: Fix_Shitty_Rails.png
+ tags:
+  - infrastructure
+  - industry
    
+- 
+ name: GFX_BEL_Confederalism
+ image: focus_BEL_Confederalism.png
+ tags:
+  - political
+  - church
+  - catholic
+  
+- 
+ name: GFX_BEL_Federalism
+ image: focus_BEL_Federalism.png
+ tags:
+  - political
+  - church
+  - catholic
+   
+- 
+ name: GFX_BEL_Improve_Catholic_Relations
+ image: focus_BEL_Improve_Catholic_Relations.png
+ tags:
+  - political
+  - church
+  - catholic
+ 
+- 
+ name: GFX_focus_HOL_deal_with_right
+ image: focus_HOL_deal_with_right.png
+ tags:
+  - political
+  - national populist
+  
+- 
+ name: GFX_GEA_status_of_admirality
+ image: GEA_status_of_the_Admirality.png
+ tags:
+  - navy
+   
+- 
+ name: GFX_goal_no_compromises
+ image: GER_no_compromises.png
+ tags:
+  - germany
+  - military
+  - africa
+     
