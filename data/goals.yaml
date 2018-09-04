@@ -3399,3 +3399,62 @@ goals:
   - vanilla
   - wtt
   - research
+ 
+- 
+ name: GFX_goal_USA_american_industry
+ image: america_goal_american_industry.png
+ tags:
+  - usa
+  - america
+  - industry
+  
+ - 
+  name: GFX_america_goal_eagle_deal
+  image: america_goal_eagle_deal.png
+  tags:
+   - usa
+   - america
+
+ - 
+  name: GFX_focus_AUS_agriculture
+  image: AUS_agriculture.png
+  tags:
+   - agriculture
+   - farming
+   
+ - 
+  name: Co_Prosperity_Sphere
+  image: Co_Prosperity_Sphere.png
+  tags:
+   - Japan
+   - Co-Prosperity Sphere
+
+ - 
+  name: GFX_goal_COS_American_Staff
+  image: COS_American_Staff.png
+  tags:
+   - USA
+   - America
+   - Military
+   
+ - 
+  name: GFX_goal_COS_Ferrer_Coup
+  image: COS_Ferrer_Coup.png
+  tags:
+   - Democracy
+   
+ - 
+  name: GFX_goal_COS_German_Bailout
+  image: COS_German_Bailout.png
+  tags:
+   - Germany
+   - Treaty  
+   
+ - 
+  name: GFX_DAH_Topke
+  image: DAH_Topke.png
+  tags:
+   - Economy
+   - Treaty    
+   
+   
