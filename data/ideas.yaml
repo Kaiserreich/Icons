@@ -2674,3 +2674,969 @@ ideas:
  tags:
   - generated
 
+-
+ name: SWE_conservative_army_idea
+ image: SWE_conservative_army.png
+ tags:
+  - generated
+
+-
+ name: SWE_holmquist_army_idea
+ image: SWE_holmquist_army_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWE_douglas_army_idea
+ image: SWE_douglas_army_spirit.png
+ tags:
+  - generated
+
+-
+ name: command_economy
+ image: idea_generic_command_economy.png
+ tags:
+  - generated
+
+-
+ name: generic_coins
+ image: idea_generic_coins.png
+ tags:
+  - generated
+
+-
+ name: generic_isolation
+ image: idea_generic_isolation.png
+ tags:
+  - generated
+
+-
+ name: profits_legation_cities
+ image: profits_legation_cities.png
+ tags:
+  - generated
+
+-
+ name: KTG_Colonial_Aversion
+ image: KTG_Colonial_Aversion.png
+ tags:
+  - generated
+
+-
+ name: KTG_Gold_Trade
+ image: KTG_Gold_Trade.png
+ tags:
+  - generated
+
+-
+ name: KTG_Industrial_Crisis_Factories
+ image: KTG_Industrial_Crisis_Factories.png
+ tags:
+  - generated
+
+-
+ name: KTG_Industrial_Crisis_Town
+ image: KTG_Industrial_Crisis_Town.png
+ tags:
+  - generated
+
+-
+ name: KTG_Mitteleuropean_Industrial_Support
+ image: KTG_Mitteleuropean_Industrial_Support.png
+ tags:
+  - generated
+
+-
+ name: KTG_Technological_Backwater
+ image: KTG_Technological_Backwater.png
+ tags:
+  - generated
+
+-
+ name: MAF_Opium
+ image: MAF_Opium.png
+ tags:
+  - generated
+
+-
+ name: NFA_darlan_plan
+ image: NFA_darlan_plan.png
+ tags:
+  - generated
+
+-
+ name: NFA_degaulle_plan
+ image: NFA_degaulle_plan.png
+ tags:
+  - generated
+
+-
+ name: NFA_anti_communard
+ image: NFA_anti_communard.png
+ tags:
+  - generated
+
+-
+ name: SAF_apartheid_idea
+ image: SAF_apartheid_idea.png
+ tags:
+  - generated
+
+-
+ name: SAF_broederbond_idea
+ image: SAF_broederbond_idea.png
+ tags:
+  - generated
+
+-
+ name: SAF_native_service
+ image: SAF_native_service.png
+ tags:
+  - generated
+
+-
+ name: USA_fighting_for_america
+ image: USA_fighting_for_america.png
+ tags:
+  - generated
+
+-
+ name: monroe_doctrine
+ image: idea_monroe_doctrine.png
+ tags:
+  - generated
+
+-
+ name: backward_industry
+ image: idea_backward_industry.png
+ tags:
+  - generated
+
+-
+ name: FNG_dominant_mantetsu
+ image: FNG_dominant_mantetsu.png
+ tags:
+  - generated
+
+-
+ name: FNG_expel_japanese_bandits
+ image: FNG_expel_japanese_bandits.png
+ tags:
+  - generated
+
+-
+ name: FNG_mantetsu_influence
+ image: FNG_mantetsu_influence.png
+ tags:
+  - generated
+
+-
+ name: FNG_pervasive_mantetsu
+ image: FNG_pervasive_mantetsu.png
+ tags:
+  - generated
+
+-
+ name: FNG_xinhai_order
+ image: FNG_xinhai_order.png
+ tags:
+  - generated
+
+-
+ name: JAP_co_prosper
+ image: JAP_co_prosper.png
+ tags:
+  - generated
+
+-
+ name: JAP_democracy
+ image: JAP_democracy.png
+ tags:
+  - generated
+
+-
+ name: JAP_fengtian_exploitation
+ image: JAP_fengtian_exploitation.png
+ tags:
+  - generated
+
+-
+ name: JAP_kohoda
+ image: JAP_kohoda.png
+ tags:
+  - generated
+
+-
+ name: JAP_toseiha
+ image: JAP_toseiha.png
+ tags:
+  - generated
+
+-
+ name: JAP_yen
+ image: JAP_yen.png
+ tags:
+  - generated
+
+-
+ name: niigata_revolt_icon
+ image: niigata_revolt_icon.png
+ tags:
+  - generated
+
+-
+ name: LEC_Passport
+ image: LEC_Passport.png
+ tags:
+  - generated
+
+-
+ name: MON_conscript_conquered
+ image: MON_conscript_conquered.png
+ tags:
+  - generated
+
+-
+ name: MON_conscript_tribesmen
+ image: MON_conscript_tribesmen.png
+ tags:
+  - generated
+
+-
+ name: MON_scourge_of_the_steppes
+ image: MON_scourge_of_the_steppes.png
+ tags:
+  - generated
+
+-
+ name: MON_founded_the_empire
+ image: MON_founded_the_empire.png
+ tags:
+  - generated
+
+-
+ name: SIA_rearmement
+ image: SIA_rearmement_idea.png
+ tags:
+  - generated
+
+-
+ name: AUS_bohemia_mad
+ image: AUS_bohemia_mad_idea.png
+ tags:
+  - generated
+
+-
+ name: AUS_galicia_mad
+ image: AUS_galicia_mad_idea.png
+ tags:
+  - generated
+
+-
+ name: AUS_hungary_mad
+ image: AUS_hungary_mad_idea.png
+ tags:
+  - generated
+
+-
+ name: AUS_illyria_mad
+ image: AUS_illyria_mad_idea.png
+ tags:
+  - generated
+
+-
+ name: AUS_part_of_the_Empire
+ image: AUS_part_of_the_Empire.png
+ tags:
+  - generated
+
+-
+ name: BEL_Flanders_Lost
+ image: BEL_Flanders_Lost.png
+ tags:
+  - generated
+
+-
+ name: BEL_Flemish_Council
+ image: BEL_Flemish_Council.png
+ tags:
+  - generated
+
+-
+ name: BEL_King_Exile
+ image: BEL_King_Exile.png
+ tags:
+  - generated
+
+-
+ name: BEL_Lion_Roars
+ image: BEL_Lion_Roars.png
+ tags:
+  - generated
+
+-
+ name: BEL_NIR
+ image: BEL_NIR.png
+ tags:
+  - generated
+
+-
+ name: BEL_Repairing
+ image: BEL_Repairing_Flanders.png
+ tags:
+  - generated
+
+-
+ name: BEL_Schelle
+ image: BEL_Schelle.png
+ tags:
+  - generated
+
+-
+ name: BEL_Vlaamse_Leeuw
+ image: BEL_Vlaamse_Leeuw.png
+ tags:
+  - generated
+
+-
+ name: belgian_general_staff
+ image: BEL_idea_belgian_general_staff.png
+ tags:
+  - generated
+
+-
+ name: diamond_trade
+ image: BEL_Diamond_Trade.png
+ tags:
+  - generated
+
+-
+ name: flemish_economy
+ image: FLN_flemish_economy.png
+ tags:
+  - generated
+
+-
+ name: UoB_isolation_idea
+ image: UoB_isolation_idea.png
+ tags:
+  - generated
+
+-
+ name: UoB_women_soldiers
+ image: UoB_women_soldiers.png
+ tags:
+  - generated
+
+-
+ name: FRA_communard_spirit
+ image: communard_spirit.png
+ tags:
+  - generated
+
+-
+ name: UK_economy_syn_idea
+ image: UK_economy_syn_idea.png
+ tags:
+  - generated
+
+-
+ name: UK_military_syn_idea
+ image: UK_military_syn_idea.png
+ tags:
+  - generated
+
+-
+ name: UK_politics_syn_idea
+ image: UK_politics_syn_idea.png
+ tags:
+  - generated
+
+-
+ name: GER_europamark_idea
+ image: GER_europamark_idea.png
+ tags:
+  - generated
+
+-
+ name: GER_colonial_government
+ image: GER_colonial_government.png
+ tags:
+  - generated
+
+-
+ name: GER_flag_idea
+ image: GER_flag_idea.png
+ tags:
+  - generated
+
+-
+ name: HOL_abandoned_goldstandard
+ image: HOL_abandoned_goldstandard.png
+ tags:
+  - generated
+
+-
+ name: HOL_banned_unions
+ image: HOL_abandoned_goldstandard.png
+ tags:
+  - generated
+
+-
+ name: HOL_black_monday
+ image: HOL_black_monday.png
+ tags:
+  - generated
+
+-
+ name: HOL_black_monday_recovery
+ image: HOL_black_monday_recovery.png
+ tags:
+  - generated
+
+-
+ name: HOL_booming_economy
+ image: HOL_booming_economy.png
+ tags:
+  - generated
+
+-
+ name: HOL_defense_spending_spree
+ image: HOL_defense_spending_spree.png
+ tags:
+  - generated
+
+-
+ name: HOL_dutch_militia
+ image: HOL_dutch_militia.png
+ tags:
+  - generated
+
+-
+ name: HOL_high_debt
+ image: HOL_greece.png
+ tags:
+  - generated
+
+-
+ name: HOL_labor_camps
+ image: HOL_labor_camps.png
+ tags:
+  - generated
+
+-
+ name: HOL_market_syndicalism
+ image: HOL_market_syndicalism.png
+ tags:
+  - generated
+
+-
+ name: HOL_mass_collectivisation
+ image: HOL_mass_collectivisation.png
+ tags:
+  - generated
+
+-
+ name: HOL_negotiating_with_extremists
+ image: HOL_negotiating_with_extremists.png
+ tags:
+  - generated
+
+-
+ name: HOL_negotiations_succeeded_left
+ image: HOL_negotiations_succeeded_left.png
+ tags:
+  - generated
+
+-
+ name: HOL_negotiations_succeeded_right
+ image: HOL_negotiations_succeeded_right.png
+ tags:
+  - generated
+
+-
+ name: HOL_order_of_orange_nassau
+ image: HOL_order_of_orange_nassau.png
+ tags:
+  - generated
+
+-
+ name: HOL_rampant_inflation
+ image: HOL_rampant_inflation.png
+ tags:
+  - generated
+
+-
+ name: HOL_Staatsvakbond
+ image: HOL_Staatsvakbond.png
+ tags:
+  - generated
+
+-
+ name: HOL_syndicalist_neutrality
+ image: HOL_syndicalist_neutrality.png
+ tags:
+  - generated
+
+-
+ name: HOL_totalist_military
+ image: HOL_totalist_military.png
+ tags:
+  - generated
+
+-
+ name: HOL_transition_to_fair_economy
+ image: HOL_transition_to_fair_economy.png
+ tags:
+  - generated
+
+-
+ name: HOL_unemployed_conscription
+ image: HOL_unemployed_conscription.png
+ tags:
+  - generated
+
+-
+ name: HOL_unemployment_subs_cut
+ image: HOL_unemployment_subs_cut.png
+ tags:
+  - generated
+
+-
+ name: HOL_unionized_military
+ image: HOL_unionized_military.png
+ tags:
+  - generated
+
+-
+ name: HOL_welfare_state
+ image: HOL_welfare_state.png
+ tags:
+  - generated
+
+-
+ name: HOL_werkverschaffing
+ image: HOL_werkverschaffing.png
+ tags:
+  - generated
+
+-
+ name: HOL_workplace_democracy
+ image: HOL_workplace_democracy.png
+ tags:
+  - generated
+
+-
+ name: HOL_workspace_regulation_cut
+ image: HOL_workspace_regulation_cut.png
+ tags:
+  - generated
+
+-
+ name: IRE_defense
+ image: IRE_defense.png
+ tags:
+  - generated
+
+-
+ name: IRE_atheist
+ image: IRE_atheist.png
+ tags:
+  - generated
+
+-
+ name: IRE_catholic
+ image: IRE_catholic.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_bproblematic
+ image: IRE_debt_bproblematic.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_dangerous
+ image: IRE_debt_dangerous.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_edangerous
+ image: IRE_debt_edangerous.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_iproblematic
+ image: IRE_debt_iproblematic.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_low
+ image: IRE_debt_low.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_mproblematic
+ image: IRE_debt_mproblematic.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_ruin
+ image: IRE_debt_ruin.png
+ tags:
+  - generated
+
+-
+ name: IRE_debt_vlow
+ image: IRE_debt_vlow.png
+ tags:
+  - generated
+
+-
+ name: IRE_gaelic
+ image: IRE_gaelic.png
+ tags:
+  - generated
+
+-
+ name: IRE_heavy_industry
+ image: IRE_heavy_industry.png
+ tags:
+  - generated
+
+-
+ name: IRE_medium_industry
+ image: IRE_medium_industry.png
+ tags:
+  - generated
+
+-
+ name: IRE_mining
+ image: IRE_mining.png
+ tags:
+  - generated
+
+-
+ name: IRE_NIIF
+ image: IRE_NIIF.png
+ tags:
+  - generated
+
+-
+ name: IRE_secular
+ image: IRE_secular.png
+ tags:
+  - generated
+
+-
+ name: IRE_tank_focus
+ image: IRE_tank_focus.png
+ tags:
+  - generated
+
+-
+ name: IRE_taxation
+ image: IRE_taxation.png
+ tags:
+  - generated
+
+-
+ name: IRE_train_idea
+ image: IRE_train_idea.png
+ tags:
+  - generated
+
+-
+ name: IRE_wind
+ image: IRE_wind.png
+ tags:
+  - generated
+
+-
+ name: SRI_sanfedisti
+ image: SRI_sanfedisti.png
+ tags:
+  - generated
+
+-
+ name: PAP_Legionary_Spirit
+ image: PAP_Legionary_Spirit.png
+ tags:
+  - generated
+
+-
+ name: PAP_holy_see
+ image: PAP_holy_see.png
+ tags:
+  - generated
+
+-
+ name: PAP_tenth_crusade
+ image: PAP_tenth_crusade.png
+ tags:
+  - generated
+
+-
+ name: NOR_divided_airforce_idea
+ image: NOR_divided_airforce.png
+ tags:
+  - generated
+
+-
+ name: NOR_DNL_idea
+ image: NOR_DNL_spirit.png
+ tags:
+  - generated
+
+-
+ name: NOR_fleischer_army_idea_1
+ image: NOR_fleischer_army_spirit.png
+ tags:
+  - generated
+
+-
+ name: NOR_monetary_union_idea
+ image: NOR_nordic_economy.png
+ tags:
+  - generated
+
+-
+ name: NOR_nordic_council
+ image: NOR_nordic_council_idea.png
+ tags:
+  - generated
+
+-
+ name: NOR_ns_arbeidstjeneste_idea
+ image: NOR_arbeidstjeneste.png
+ tags:
+  - generated
+
+-
+ name: NOR_oslo_analyzer_idea
+ image: NOR_oslo_analyzer.png
+ tags:
+  - generated
+
+-
+ name: NOR_passport_union_idea
+ image: NOR_passport_convention.png
+ tags:
+  - generated
+
+-
+ name: NOR_progressive_agreement_idea
+ image: NOR_labour_agreement.png
+ tags:
+  - generated
+
+-
+ name: NOR_rikshird_army
+ image: NOR_rikshird.png
+ tags:
+  - generated
+
+-
+ name: NOR_ruge_army_idea_1
+ image: NOR_ruge_army_spirit.png
+ tags:
+  - generated
+
+-
+ name: NOR_statspolitiet_idea
+ image: NOR_statspolitiet.png
+ tags:
+  - generated
+
+-
+ name: NOR_syndicalist_industry_idea
+ image: NOR_planned_economy.png
+ tags:
+  - generated
+
+-
+ name: NOR_syndicalist_norway_idea_1
+ image: NOR_syndicalist_constitution.png
+ tags:
+  - generated
+
+-
+ name: NOR_united_airforce_idea
+ image: NOR_united_airforce.png
+ tags:
+  - generated
+
+-
+ name: NOR_weak_economy_1
+ image: NOR_weak_economy.png
+ tags:
+  - generated
+
+-
+ name: ahmed_izzet_pasha
+ image: ahmed_izzet.png
+ tags:
+  - generated
+
+-
+ name: osman_besim_bey
+ image: osman_besim.png
+ tags:
+  - generated
+
+-
+ name: OTT_autocracy_idea
+ image: OTT_autocracy_idea.png
+ tags:
+  - generated
+
+-
+ name: OTT_compromise_idea
+ image: OTT_compromise_idea.png
+ tags:
+  - generated
+
+-
+ name: OTT_solid_idea
+ image: OTT_solid_idea.png
+ tags:
+  - generated
+
+-
+ name: santuri_mustafa_bey
+ image: santuri_mustafa.png
+ tags:
+  - generated
+
+-
+ name: yakup_sevki_pasha
+ image: yakup_sevki.png
+ tags:
+  - generated
+
+-
+ name: POL_regency_council
+ image: POL_regency_council_idea.png
+ tags:
+  - generated
+
+-
+ name: POL_german_industry
+ image: POL_german_industry.png
+ tags:
+  - generated
+
+-
+ name: general_school
+ image: RUS_general_school.png
+ tags:
+  - generated
+
+-
+ name: planning_school
+ image: RUS_planning_school.png
+ tags:
+  - generated
+
+-
+ name: rus_yunarmiya_focus
+ image: RUS_Yunarmiya.png
+ tags:
+  - generated
+
+-
+ name: tank_academy
+ image: RUS_tank_academy.png
+ tags:
+  - generated
+
+-
+ name: training_barracks
+ image: RUS_training_barracks.png
+ tags:
+  - generated
+
+-
+ name: memories_of_the_republic
+ image: idea_memories_of_the_republic.png
+ tags:
+  - generated
+
+-
+ name: SWE_kth_idea
+ image: SWE_kth_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWE_landstormen_idea
+ image: SWE_landstormen_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWE_kompani_linge_idea
+ image: SWE_kompani_linge.png
+ tags:
+  - generated
+
+-
+ name: SWE_conservative_army_idea
+ image: SWE_conservative_army.png
+ tags:
+  - generated
+
+-
+ name: SWE_holmquist_army_idea
+ image: SWE_holmquist_army_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWE_douglas_army_idea
+ image: SWE_douglas_army_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWE_nordenskiold_idea
+ image: SWE_nordenskiold_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWE_tamm_idea
+ image: SWE_tamm_spirit.png
+ tags:
+  - generated
+
+-
+ name: SWI_conscription
+ image: SWI_conscription_idea.png
+ tags:
+  - generated
+
+-
+ name: SWI_neutrality
+ image: SWI_neutrality_idea.png
+ tags:
+  - generated
+
+-
+ name: SWI_new_order
+ image: SWI_new_order.png
+ tags:
+  - generated
+
+-
+ name: SWI_FRA_coop
+ image: SWI_FRA_coop.png
+ tags:
+  - generated
+
