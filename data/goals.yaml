@@ -8602,3 +8602,45 @@ goals:
  tags:
   - generated
 
+-
+ name: GFX_Georgia_Flag_icon
+ image: Georgia_Flag_icon.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_geo_georgian_king
+ image: focus_geo_georgian_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_georgian_navy
+ image: goal_georgian_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_georgian_air_force
+ image: goal_georgian_air_force.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_georgian_army
+ image: goal_georgian_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_GEO_air_investments
+ image: goal_GEO_air_investments.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_GEO_wine
+ image: goal_GEO_wine.png
+ tags:
+  - generated
+
