@@ -5872,3 +5872,2733 @@ goals:
  tags:
   - generated
 
+-
+ name: GFX_goal_continuous_political
+ image: goal_continuous_political.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_AUS_tanks
+ image: AUS_tank.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_AUS_naturfreunde
+ image: AUS_naturfreunde.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_AUS_federation
+ image: AUS_federation.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_air_armada
+ image: goal_air_armada.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_new_airforce
+ image: goal_new_airforce.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_FRA_savoie
+ image: goal_FRA_savoie.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_AUS_step_on_skull
+ image: goal_AUS_step_on_skull.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HUN_step_on_skull
+ image: goal_HUN_step_on_skull.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_defense
+ image: goal_SWI_defense.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_flagship
+ image: goal_SWI_flagship.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_guisan
+ image: goal_SWI_guisan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_bircher
+ image: goal_SWI_bircher.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_prosperity
+ image: goal_SWI_prosperity.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_reduit
+ image: goal_SWI_reduit.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_oerlikon
+ image: goal_SWI_oerlikon.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_steel
+ image: goal_SWI_steel.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_austria
+ image: goal_SWI_austria.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_germany
+ image: goal_SWI_germany.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_black_spot
+ image: goal_SWI_black_spot.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWI_greater_switzerland
+ image: SWI_greater_switzerland.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_coastal_navy
+ image: goal_generic_coastal_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_japanese_democracy
+ image: goal_japanese_democracy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_shadow_government
+ image: shadow_government.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_paneuropa
+ image: GER_paneuropa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_rights_for_service
+ image: GER_rights_for_service.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_crush_france
+ image: GER_crush_france.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_our_continent
+ image: GER_our_continent.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_dcgb
+ image: GER_dcgb.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_renewed_militarism
+ image: GER_renewed_militarism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_democracy_in_prussia
+ image: GER_democracy_in_prussia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_europamark
+ image: GER_europamark.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ceylon
+ image: GER_ceylon.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_art_propaganda
+ image: UK_art_propaganda.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_secret_police
+ image: MAF_secret_police.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_demobilization
+ image: UoB_demobilization.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_coat_of_arms
+ image: OTT_coat_of_arms.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_ferman
+ image: OTT_ferman.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_constitution
+ image: OTT_constitution.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_reform
+ image: OTT_reform.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_caliph
+ image: OTT_caliph.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_opda
+ image: OTT_opda.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_army
+ image: OTT_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_camels
+ image: OTT_camels.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_gendarmerie
+ image: OTT_gendarmerie.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_art_avantgarde
+ image: UK_art_avantgarde.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_forever_eyes_program
+ image: UK_forever_eyes_program.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_AIB
+ image: BRA_AIB.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_faith_and_state
+ image: BRA_faith_and_state.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_integralism
+ image: BRA_integralism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_bananas
+ image: GUA_bananas.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_wheat
+ image: GUA_wheat.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_syndicalist_congress
+ image: BRA_congress.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_brazilian_syndicalism
+ image: BRA_brazilian_syndicalism.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_Ulster
+ image: IRE_Ulster.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_RTN
+ image: IRE_RTN.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_Capital
+ image: IRE_capital.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_women_pilots
+ image: IRE_women_pilots.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_taxation
+ image: IRE_Taxation.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_farms
+ image: IRE_farms.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_church
+ image: IRE_Church.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_church2
+ image: IRE_Church2.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_gaelic
+ image: IRE_gaelic.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_ulsterscots
+ image: IRE_ulsterscots.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_peoples_army
+ image: IRE_peoples_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_honorable_army
+ image: IRE_honorable_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_heavy_industry
+ image: IRE_heavy_industry.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_medium_industry
+ image: IRE_medium_industry.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_sanctuary
+ image: IRE_sanctuary.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_defence
+ image: IRE_defence.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_integrate_irish_americans
+ image: IRE_integrate_irish_americans.png
+ tags:
+  - generated
+
+-
+ name: GFX_IRE_youth
+ image: IRE_youth.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_doctrine_fire_superiority
+ image: doctrine_fire_superiority.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_RUS_Yunarmiya
+ image: RUS_Yunarmiya.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_RUS_local_baracks
+ image: RUS_local_baracks.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_RUS_armored_school
+ image: RUS_tank.png
+ tags:
+  - generated
+
+-
+ name: GFX_human_tsunami
+ image: Human_tsunami.png
+ tags:
+  - generated
+
+-
+ name: GFX_JAP_tank
+ image: JAP_tank.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_president_reed
+ image: USA_goal_reed.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_president_long
+ image: USA_goal_long.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_president_garner
+ image: USA_goal_garner.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_president_curtis
+ image: USA_goal_curtis.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_general_macarthur
+ image: USA_goal_macarthur.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_new_deal
+ image: USA_goal_new_deal.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_liberty_ships
+ image: USA_goal_liberty_ships.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_coast_guard
+ image: america_goal_coast_guard.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_national_guard
+ image: america_goal_national_guard.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_navy
+ image: america_goal_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_nra
+ image: america_goal_nra.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_screaming_eagles
+ image: america_goal_screaming_eagles.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_usaaf
+ image: america_goal_usaaf.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_usmc
+ image: america_goal_usmc.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_UKR_ukranian_king
+ image: focus_UKR_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_commonwealth
+ image: focus_plc_commonwealth_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_polish_king
+ image: focus_pol_polish_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_russian_alliance
+ image: POL_Russian_Alliance.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_austrian_king
+ image: focus_pol_austrian_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_ruthenian_king
+ image: focus_pol_ruthenian_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_german_king
+ image: focus_pol_german_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_lithuanian_king
+ image: focus_pol_lithuanian_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_polish_crest
+ image: POL_regency_council_focus.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_militarism
+ image: POL_focus_militarism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_a_firm_hand
+ image: POL_focus_a_firm_hand.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_winged_hussars
+ image: goal_POL_hussars.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POL_mendog
+ image: PLC_mendog.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_japanese_imperialism
+ image: goal_japanese_imperialism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_JAP_kohoda
+ image: goal_JAP_kohoda.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_JAP_toseiha
+ image: goal_JAP_toseiha.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_JAP_yen
+ image: goal_JAP_yen.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_JAP_REF
+ image: goal_JAP_REF.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_JAP_PAR
+ image: goal_JAP_PAR.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_JAP_WAY
+ image: goal_JAP_WAY.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_japanese_democracy
+ image: goal_japanese_democracy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_police1
+ image: goal_LEC_police1.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_police2
+ image: goal_LEC_police2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_police3
+ image: goal_LEC_police3.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_shanghai_volunteers
+ image: LEC_shanghai_volunteers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_shanghai_yuan
+ image: LEC_shanghai_yuan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_monkey
+ image: goal_LEC_monkey.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_establish
+ image: goal_LEC_establish.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_armsBRA
+ image: goal_LEC_armsBRA.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_armsUSA
+ image: goal_LEC_armsUSA.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_armsSPA
+ image: goal_LEC_armsSPA.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_armsRUS
+ image: goal_LEC_armsRUS.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_triads
+ image: goal_LEC_triads.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_jiang
+ image: goal_LEC_jiang.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_huang
+ image: goal_LEC_huang.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_du
+ image: goal_LEC_du.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_positive_trade_relations_gold
+ image: goal_generic_positive_trade_relations_gold.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_strikeAOG
+ image: goal_LEC_strikeAOG.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_strikeJAP
+ image: goal_LEC_strikeJAP.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_strikePOR
+ image: goal_LEC_strikePOR.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_big_trouble
+ image: goal_LEC_big_trouble.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_UK_ban_unions
+ image: UK_ban_unions.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_panafrica
+ image: goal_africa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_national_populism
+ image: goal_national_populism.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_aut
+ image: BAT_aut.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_emancipation
+ image: BAT_emancipation.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_air
+ image: BAT_air.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_army
+ image: BAT_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_conscript
+ image: BAT_conscript.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_navy
+ image: BAT_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_ostwall
+ image: BAT_ostwall.png
+ tags:
+  - generated
+
+-
+ name: GFX_BAT_trade
+ image: BAT_trade.png
+ tags:
+  - generated
+
+-
+ name: GFX_HOL_daf
+ image: goal_HOL_daf.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_invest_philips
+ image: goal_HOL_invest_philips.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_dutch_navy
+ image: goal_HOL_dutch_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_dutch_army
+ image: goal_HOL_dutch_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_korps_mariniers
+ image: goal_HOL_korps_mariniers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_india_united
+ image: goal_india_united.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_red_star_gold_wreath
+ image: goal_red_star_gold_wreath.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_india_council
+ image: goal_india_council.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_india_hyderabad
+ image: goal_india_hyderabad.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_india_kaisar
+ image: goal_india_kaisar.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_italy_pius
+ image: ITA_goal_Pius.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_italy_stephen
+ image: ITA_goal_Stephen.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_italy_john
+ image: ITA_goal_John.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_uobritain
+ image: goal_flag_uobritain.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_italianfed
+ image: goal_flag_italianfed.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_illyria
+ image: goal_flag_illyria.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_yamato_hotel
+ image: goal_yamato_hotel.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_zhang_rifle
+ image: goal_zhang_rifle.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_beiyang_flags
+ image: goal_beiyang_flags.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_model_cities
+ image: goal_model_cities.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_develop_provinces
+ image: goal_develop_provinces.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_civil_service
+ image: goal_civil_service.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_anl_continues
+ image: goal_anl_continues.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_coffee_boom
+ image: goal_coffee_boom.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_coffee_exports
+ image: goal_coffee_exports.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_conquistador_legacy
+ image: goal_conquistador_legacy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_entente_arms_trade
+ image: goal_entente_arms_trade.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_imperial_legacy
+ image: goal_imperial_legacy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_integrate_workers_militia
+ image: goal_integrate_workers_militia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_leopardo_government
+ image: goal_leopardo_government.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_mittel_arms_trade
+ image: goal_mittel_arms_trade.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_native_integration
+ image: goal_native_integration.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_plantation_grants
+ image: goal_plantation_grants.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_recall_mittel_mission
+ image: goal_recall_mittel_mission.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_revolution_arms
+ image: goal_revolution_arms.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_vargas_victorious
+ image: goal_vargas_victorious.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_japanese_instructors
+ image: goal_japanese_instructors.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_chinese_instructors
+ image: goal_chinese_instructors.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_mantetsu_collaboration
+ image: goal_mantetsu_collaboration.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_mantetsu_projects
+ image: goal_mantetsu_projects.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_japanese_investment
+ image: goal_japanese_investment.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_chinese_investment
+ image: goal_chinese_investment.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_golden_dragon
+ image: goal_golden_dragon.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_grand_marshal
+ image: goal_grand_marshal.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_japanese_tank_import
+ image: goal_japanese_tank_import.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_silver_reserve
+ image: goal_silver_reserve.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_yanshan
+ image: goal_yanshan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_shanhaiguan
+ image: goal_shanhaiguan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_beijing_begonia
+ image: goal_beijing_begonia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_fengtian_light_metals
+ image: goal_fengtian_light_metals.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_shenyang_arsenal
+ image: goal_shenyang_arsenal.png
+ tags:
+  - generated
+
+-
+ name: GFX_RUS_tsar_kyril
+ image: RUS_tsar_kyril.png
+ tags:
+  - generated
+
+-
+ name: GFX_RUS_tsar_dmitri
+ image: RUS_tsar_dmitri.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_saotome
+ image: goal_POR_saotome.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_angola
+ image: goal_POR_angola.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_capeverde
+ image: goal_POR_capeverde.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_goa
+ image: goal_POR_goa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_macau
+ image: goal_POR_macau.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_mozambique
+ image: goal_POR_mozambique.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_FFI
+ image: goal_NOR_FFI.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_army
+ image: goal_NOR_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_navy
+ image: goal_NOR_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_airforce
+ image: goal_NOR_airforce.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_army_airforce
+ image: goal_NOR_army_airforce.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_navy_airforce
+ image: goal_NOR_navy_airforce.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_DNL
+ image: goal_NOR_DNL.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_syndicalist
+ image: goal_NOR_syndicalist.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_secret_police
+ image: goal_NOR_secret_police.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_kompani_linge
+ image: goal_NOR_kompani_linge.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_democratic
+ image: goal_NOR_democratic.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_royal_guards
+ image: goal_NOR_royal_guards.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_new_police
+ image: goal_NOR_new_police.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_SAS
+ image: goal_NOR_SAS.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_scandinavia
+ image: goal_NOR_scandinavia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_nordic_council
+ image: goal_NOR_nordic_council.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_defense_union
+ image: goal_NOR_defense_union.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_passport_convention
+ image: goal_NOR_passport_convention.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_scandi_research
+ image: goal_NOR_scandi_research.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_arbeidstjenesten
+ image: goal_NOR_arbeidstjenesten.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_greenland
+ image: goal_NOR_greenland.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_hirden
+ image: goal_NOR_hirden.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_hirdens_flykorps
+ image: goal_NOR_hirdens_flykorps.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_hirdmarinen
+ image: goal_NOR_hirdmarinen.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_NS
+ image: goal_NOR_NS.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_quisling_guard
+ image: goal_NOR_quisling_guard.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_statspolitiet
+ image: goal_NOR_statspolitiet.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_iceland
+ image: goal_NOR_iceland.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_norgesveldet
+ image: goal_NOR_norgesveldet.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_NOR_orkney_shetland
+ image: goal_NOR_orkney_shetland.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_railroads
+ image: goal_SWE_railroads.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_landstormen
+ image: goal_SWE_landstormen.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_bofors
+ image: goal_SWE_bofors.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_husqvarna
+ image: goal_SWE_husqvarna.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_kth
+ image: goal_SWE_kth.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_lkab
+ image: goal_SWE_lkab.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_foa
+ image: goal_SWE_foa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_army
+ image: goal_SWE_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_jagers
+ image: goal_SWE_jagers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_landsverk
+ image: goal_SWE_landsverk.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_pansartrupperna
+ image: goal_SWE_pansartrupperna.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_karl_XII
+ image: goal_SWE_karl_XII.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_saab
+ image: goal_SWE_saab.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_airforce_1
+ image: goal_SWE_airforce_1.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_airforce_2
+ image: goal_SWE_airforce_2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SWE_navy
+ image: goal_SWE_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_WIP
+ image: goal_WIP.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_caribbean
+ image: goal_Caribbean.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SOM_stand_ready
+ image: goal_SOM_stand_ready.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SOM_pacify_som
+ image: goal_SOM_pacify_som.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_zambia
+ image: goal_POR_zambia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_pink_map
+ image: goal_POR_pink_map.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_ban_republic
+ image: goal_POR_ban_republic.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_autonomy
+ image: goal_POR_autonomy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_caribbean
+ image: goal_Caribbean.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_canadian_monarchy
+ image: CAN_canadian_monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_british_monarchy
+ image: CAN_british_monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_british_flag
+ image: CAN_british_monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_psa_flag
+ image: PSA.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_new_england_flag
+ image: New_England.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_new_england_crown
+ image: new_england_2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_australasia_flag
+ image: Australasia.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_HOL_abandon_gold_standard
+ image: focus_HOL_abandon_gold_standard.png
+ tags:
+  - generated
+
+-
+ name: GFX_HOL_red_scare
+ image: HOL_red_scare.png
+ tags:
+  - generated
+
+-
+ name: GFX_SIA_parliment
+ image: SIA_parliment.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_ban_paramilitary_left
+ image: goal_HOL_ban_paramilitary_left.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_radsoc_paradise
+ image: goal_HOL_radsoc_paradise.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_thriving_socdem
+ image: goal_HOL_thriving_socdem.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_foreign_policy
+ image: goal_HOL_foreign_policy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_guyana_for_alliance
+ image: goal_HOL_guyana_for_alliance.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_indonesian_dominion
+ image: goal_HOL_indonesian_dominion.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_surinamese_dominion
+ image: goal_HOL_surinamese_dominion.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_a_new_era
+ image: goal_HOL_a_new_era.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_apartheid
+ image: goal_HOL_apartheid.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_luchtvaartafdeling
+ image: goal_HOL_luchtvaartafdeling.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_three_dragons
+ image: goal_LEC_three_dragons.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_flag_of_kongo
+ image: goal_POR_flag_of_kongo.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_imperial_irregular_navy
+ image: goal_POR_imperial_irregular_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_imperial_navy
+ image: goal_POR_imperial_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_knights_of_portugal
+ image: goal_POR_knights_of_portugal.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_matters_of_realm
+ image: goal_POR_matters_of_realm.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_portugal_shield
+ image: goal_POR_portugal_shield.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_portugese_youth
+ image: goal_POR_portugese_youth.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_the_moderating_power
+ image: goal_POR_the_moderating_power.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_POR_the_tarrafal
+ image: goal_POR_the_tarrafal.png
+ tags:
+  - generated
+
+-
+ name: GFX_MAF_focus
+ image: MAF_focus.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SAF_national
+ image: goal_SAF_national_party.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SAF_dominion
+ image: goal_SAF_dominion_party.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_isolation
+ image: goal_generic_isolation.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_united_kingdom
+ image: goal_flag_united_kingdom.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SAF_federation
+ image: goal_SAF_federation.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_align_russia
+ image: goal_align_russia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_align_germany
+ image: goal_align_germany.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_align_japan
+ image: goal_align_japan.png
+ tags:
+  - generated
+
+-
+ name: GFX_PRF_unite_princes
+ image: PRF_unite_princes.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_elections
+ image: goal_generic_elections.png
+ tags:
+  - generated
+
+-
+ name: GFX_PRF_address_council
+ image: PRF_address_council.png
+ tags:
+  - generated
+
+-
+ name: GFX_PRF_new_india
+ image: PRF_new_india.png
+ tags:
+  - generated
+
+-
+ name: GFX_PRF_integrate_BHC
+ image: PRF_integrate_BHC.png
+ tags:
+  - generated
+
+-
+ name: GFX_PRF_integrate_DEH
+ image: PRF_integrate_DEH.png
+ tags:
+  - generated
+
+-
+ name: GFX_DEH_integrate_PRF
+ image: DEH_integrate_PRF.png
+ tags:
+  - generated
+
+-
+ name: GFX_BHC_invite_ho_chi_minh
+ image: BHC_invite_ho_chi_minh.png
+ tags:
+  - generated
+
+-
+ name: GFX_BHC_indochina_revolution
+ image: BHC_indochina_revolution.png
+ tags:
+  - generated
+
+-
+ name: GFX_BHC_lucknow_summit
+ image: BHC_lucknow_summit.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MAF_Tanzania_to_Uganda
+ image: goal_MAF_Tanzania_to_Uganda.png
+ tags:
+  - generated
+
+-
+ name: GFX_generic_home_defense_bel
+ image: goal_generic_home_defense_bel.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Choose_BWP
+ image: Choose_BWP.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Choose_Verdinaso
+ image: Choose_Verdinaso.png
+ tags:
+  - generated
+
+-
+ name: GFX_flanders
+ image: goal_flanders.png
+ tags:
+  - generated
+
+-
+ name: GFX_Cooperative
+ image: goal_BEL_Cooperative.png
+ tags:
+  - generated
+
+-
+ name: GFX_wallonia
+ image: goal_wallonia.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_support_democracy
+ image: goal_BEL_support_democracy.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Catholic_Education
+ image: focus_Catholic_Education.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Economic_Regions
+ image: goal_Economic_Regions.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Reinforce_Belgicism
+ image: goal_Reinforce_Belgicism.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Improve_Spanish_Relations
+ image: focus_BEL_Improve_Spanish_Relations.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Improve_American_Relations
+ image: focus_BEL_Improve_American_Relations.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Catholic_Construction
+ image: goal_Catholic_construction.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Reclaim_Netherlands
+ image: goal_Reclaim_Netherlands.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Reclaim_France
+ image: goal_Reclaim_France.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Groote_Kuisch
+ image: Groote_Kuisch.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Belgium_Flag
+ image: Belgium_Flag.png
+ tags:
+  - generated
+
+-
+ name: GFX_BEL_Belgium_Monarchy
+ image: goal_BEL_belgium_first.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_light_tanks
+ image: goal_light_tanks.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_BEL_belgian_rearmement
+ image: goal_BEL_belgian_rearmement.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Belgian_Cooperative
+ image: goal_Belgian_Cooperative.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Guldensporenslag
+ image: guldensporenslag.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tblra_union_agreement
+ image: tblra_union_agreement.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_VLA_lion_constitution
+ image: goal_VLA_lion_constitution.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_VLA_Strijdvlag
+ image: goal_VLA_Strijdvlag.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_VLA_AVV_VVK
+ image: goal_VLA_AVV_VVK.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_abolish_flanders_council
+ image: focus_abolish_flanders_council.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_flanders_wallonia_monarchy
+ image: focus_flanders_wallonia_monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Reclaim_Place
+ image: goal_Reclaim_Place.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Arms_Export
+ image: goal_arms_export.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Schelle
+ image: goal_Schelle.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_military_research
+ image: goal_military_research.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_the_lion_roars
+ image: BEL_The_Lion_Roars.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_AST_new_guard
+ image: goal_AST_new_guard.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_natpop_success
+ image: goal_HOL_natpop_success.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_overthrow_the_system
+ image: goal_HOL_overthrow_the_system.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_pataut_success
+ image: goal_HOL_pataut_success.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_abandon_the_boers
+ image: goal_HOL_abandon_the_boers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_baerle_talks
+ image: goal_HOL_baerle_talks.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_cna_rules_alone
+ image: goal_HOL_cna_rules_alone.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_dutch_pannationalism
+ image: goal_HOL_dutch_pannationalism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_fires_of_revolution_faux
+ image: goal_HOL_fires_of_revolution.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_friendship_with_belgium
+ image: goal_HOL_friendship_with_belgium.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_friendship_with_the_boers
+ image: goal_HOL_friendship_with_the_boers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_order_of_orange_nassau
+ image: goal_HOL_order_of_orange_nassau.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_rebuild_binnenhof
+ image: goal_HOL_rebuild_binnenhof.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_policy_belgium
+ image: goal_HOL_policy_belgium.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_policy_south_africa
+ image: goal_HOL_policy_south_africa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_plan_helfrich
+ image: goal_HOL_plan_helfrich.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_plan_doorman
+ image: goal_HOL_plan_doorman.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_plan_furstner
+ image: goal_HOL_plan_furstner.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_plan_winkelman
+ image: goal_HOL_plan_winkelman.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_plan_reijnders
+ image: goal_HOL_plan_reijnders.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_koolhoven
+ image: goal_HOL_koolhoven.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_fokker
+ image: goal_HOL_fokker.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_kms
+ image: goal_HOL_kms.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_wf
+ image: goal_HOL_wf.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_rdm
+ image: goal_HOL_rdm.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_D21
+ image: goal_HOL_D21.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_luchtkruiser
+ image: goal_HOL_luchtkruiser.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_jachtkruiser
+ image: goal_HOL_jachtkruiser.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HOL_night_fighter
+ image: goal_HOL_night_fighter.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_EST_Estonian_Eagle_Focus
+ image: EST_Estonian_Eagle_Focus.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_EST_Hjalmar_Mae_Focus
+ image: EST_Hjalmar_Mae_Focus.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_EST_Pats_Focus
+ image: EST_Pats_Focus.png
+ tags:
+  - generated
+
+-
+ name: GFX_EST_Vapsid_Focus
+ image: EST_Vapsid_Focus.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_accord_with_pope
+ image: goal_accord_with_pope.png
+ tags:
+  - generated
+
+-
+ name: GFX_PAP_roman_army
+ image: PAP_roman_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_PAP_palatine_guard
+ image: PAP_palatine_guard.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PAP_crusade
+ image: PAP_crusade.png
+ tags:
+  - generated
+
+-
+ name: GFX_DAH_stand_our_own
+ image: DAH_stand_our_own.png
+ tags:
+  - generated
+
+-
+ name: GFX_DAH_No_German
+ image: DAH_No_German.png
+ tags:
+  - generated
+
+-
+ name: GFX_DAH_FR_Prod
+ image: DAH_FR_Prod.png
+ tags:
+  - generated
+
+-
+ name: GFX_DAH_Uni
+ image: DAH_Uni.png
+ tags:
+  - generated
+
+-
+ name: DAH_Thicc_Navy
+ image: DAH_Thicc_Navy.png
+ tags:
+  - generated
+
+-
+ name: DAH_Fra_Cop
+ image: DAH_Fra_Cop.png
+ tags:
+  - generated
+
+-
+ name: DAH_Agaja
+ image: DAH_Agaja.png
+ tags:
+  - generated
+
+-
+ name: DAH_arms_trade
+ image: DAH_arms_trade.png
+ tags:
+  - generated
+
+-
+ name: DAH_Amazons
+ image: DAH_Amazons.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_africa
+ image: NATFRA_africa.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_attackgermany
+ image: NATFRA_attackgermany.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_conscription
+ image: NATFRA_conscription.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_dealwiththedevil
+ image: NATFRA_dealwiththedevil.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_fire
+ image: NATFRA_fire.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_flagalone
+ image: NATFRA_flagalone.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_flags1
+ image: NATFRA_flags1.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_flags2
+ image: NATFRA_flags2.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_flags3
+ image: NATFRA_flags3.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_francefirst
+ image: NATFRA_francefirst.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_friendwithpoland
+ image: NATFRA_friendwithpoland.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_naturalborders
+ image: NATFRA_naturalborders.png
+ tags:
+  - generated
+
+-
+ name: GFX_NATFRA_rightfullborders
+ image: NATFRA_rightfullborders.png
+ tags:
+  - generated
+
+-
+ name: GFX_LOM_IronCrown
+ image: LOM_IronCrown.png
+ tags:
+  - generated
+
+-
+ name: GFX_LOM_Milan
+ image: LOM_milan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_flag_siam
+ image: goal_flag_siam.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PRU_focus_dying_the_inca_red
+ image: PRU_focus_dying_the_inca_red.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PRU_focus_teachings_of_amauta
+ image: PRU_focus_teachings_of_amauta.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PRU_focus_Caudillo_Flores
+ image: PRU_focus_Caudillo_Flores.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PRU_focus_Caudillo_Miro_Quesada
+ image: PRU_focus_Caudillo_Miro_Quesada.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PRU_focus_Caudillo_Odria
+ image: PRU_focus_Caudillo_Odria.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_PRU_focus_Caudillo_Ureta
+ image: PRU_focus_Caudillo_Ureta.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_United_Arab_Emirates
+ image: United_Arab_Emirates.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Elect_an_Al_Nahyan
+ image: Elect_an_Al_Nahyan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Elect_a_Howleitat
+ image: Elect_a_Howleitat.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Elect_a_Sabah
+ image: Elect_a_Sabah.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Elect_a_Hashemite
+ image: Elect_a_Hashemite.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Elect_a_Rashidi
+ image: Elect_a_Rashidi.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Pan_Arabism
+ image: goal_Pan_Arabism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Unite_Arabia
+ image: goal_Unite_Arabia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_consolidating_coalitionv2
+ image: goal_consolidating_coalitionv2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Settling_Nomads
+ image: Settling_Nomads.png
+ tags:
+  - generated
+
+-
+ name: GFX_JBS_goal_iraq
+ image: JBS_goal_iraq.png
+ tags:
+  - generated
+
+-
+ name: GFX_JBS_goal_syria
+ image: JBS_goal_syria.png
+ tags:
+  - generated
+
+-
+ name: GFX_JBS_goal_syria_coins
+ image: JBS_goal_syria_coins.png
+ tags:
+  - generated
+
+-
+ name: GFX_JBS_goal_yemen
+ image: JBS_goal_yemen.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SRD_kingdom_of_italy
+ image: SRD_kingdom_of_italy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SRD_kingdom_of_sardinia
+ image: SRD_kingdom_of_sardinia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SIC_kingdom_of_two_sicilies
+ image: SIC_kingdom_of_two_sicilies.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_CUB_Blackbeard
+ image: CUB_Blackbeard.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_DOM_Air_Fuel
+ image: DOM_Air_Fuel.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_DOM_Recon
+ image: DOM_Recon.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_syndicalist_workers
+ image: goal_syndicalist_workers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_workers_rights
+ image: goal_workers_rights.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_manage_industries
+ image: goal_manage_industries.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_trees
+ image: goal_trees.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_agricultural_aid
+ image: goal_agricultural_aid.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Workers_Paradise
+ image: goal_Workers_Paradise.png
+ tags:
+  - generated
+
+-
+ name: GFX_Socialist_Law
+ image: Socialist_Law.png
+ tags:
+  - generated
+
+-
+ name: GFX_socialist_constitution
+ image: socialist_constitution.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_intergrate_the_militia
+ image: goal_intergrate_the_militia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_reform_socialist_army
+ image: goal_reform_socialist_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_GER_red_baron
+ image: GER_red_baron.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_crispy_bbq
+ image: goal_crispy_bbq.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_American_Armor
+ image: American_Armor.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Desert_Officers_2
+ image: Desert_Officers_2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Agarian_Soldiers
+ image: Agarian_Soldiers.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Communist_Discourse
+ image: Communist_Discourse.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Combined_Bomber_Offensive
+ image: Combined_Bomber_Offensive.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Automobile_Production
+ image: Automobile_Production.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_USA_america_economic_miracle
+ image: goal_USA_america_economic_miracle.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_GFX_ITA_psdi
+ image: GFX_ITA_psdi.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_air_red
+ image: goal_air_red.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_GFX_ITA_pli
+ image: GFX_ITA_pli.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_GFX_ITA_pp
+ image: GFX_ITA_pp.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_American_Service
+ image: American_Service.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Focus_Military_Mobilisation
+ image: Focus_Military_Mobilisation.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SVK_revive_matica_slovenska
+ image: SVK_revive_matica_slovenska.png
+ tags:
+  - generated
+
