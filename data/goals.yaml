@@ -8752,3 +8752,645 @@ goals:
  tags:
   - generated
 
+-
+ name: GFX_goal_unknown
+ image: goal_unknown.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_shine_test
+ image: goal_generic_production.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_fortify_the_westwall
+ image: goal_generic_construct_military.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_reichsautobahn
+ image: goal_generic_construct_civilian.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_panzerwaffe
+ image: goal_generic_build_tank.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_expand_the_luftwaffe
+ image: goal_generic_build_airforce.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_molotov_ribbentrop_pact
+ image: goal_molotov_ribbentrop_pact.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_anschluss
+ image: goal_anschluss.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_rhineland
+ image: goal_rhineland.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_poland_goal
+ image: goal_poland_goal.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_demand_sudetenland
+ image: goal_demand_sudetenland.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tripartite_pact
+ image: goal_tripartite_pact.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_anti_comintern_pact
+ image: goal_anti_comintern_pact.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_sever_ties_with_uk
+ image: goal_tfv_sever_ties_with_uk.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_strengthen_commonwealth_ties
+ image: goal_tfv_strengthen_commonwealth_ties.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_generic_tech_sharing
+ image: goal_tfv_generic_tech_sharing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_burn_the_royal_portraits
+ image: goal_tfv_burn_the_royal_portraits.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_can_forced_quebec_conscription
+ image: goal_tfv_can_forced_quebec_conscription.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_can_compromise_with_quebec
+ image: goal_tfv_can_compromise_with_quebec.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_AST_never_gallipoli
+ image: focus_AST_never_gallipoli.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_AST_rats_tobruk
+ image: focus_AST_rats_tobruk.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_AST_squander_bug
+ image: focus_AST_squander_bug.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_AST_war_japan
+ image: focus_AST_war_japan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_saf_anti_colonialist_crusade
+ image: focus_SAF_colonialist_crusade.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_saf_support_german_coup
+ image: focus_SAF_german_coup.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_saf_secure_interests_in_africa
+ image: focus_SAF_secure_africa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_tfv_saf_support_ossebrandwag
+ image: focus_SAF_support_ossewabrandwag.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_proclaim_the_restauration_of_Austria_Hungary
+ image: focus_proclaim_the_restauration_of_austria_hungary.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_renounce_the_treaty_of_trianon
+ image: focus_renounce_the_treaty_of_triannon.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_CZE_military_aeronautical_institute
+ image: focus_cze_military_aeronautical_institute.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_CZE_german_puppet
+ image: focus_cze_german_puppet.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_CZE_military_research_institute
+ image: focus_cze_military_research_institute.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_YUG_zmaj
+ image: focus_yug_zmaj.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_YUG_rogozarski
+ image: focus_yug_rogozarski.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_YUG_ikarus
+ image: focus_yug_ikarus.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_YUG_banovina_of_croatia
+ image: focus_yug_banovina_of_croatia.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_YUG_pan_slavic_congress
+ image: focus_yug_pan_slavic_congress.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_RAJ_all_india_forward_bloc
+ image: focus_RAJ_all_india_forward_bloc.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_RAJ_british_investors
+ image: focus_RAJ_british_investors.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_RAJ_clamp_down_on_corruption
+ image: focus_RAJ_clamp_down_on_corruption.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_RAJ_indian_gentlemen_offcers
+ image: focus_RAJ_indian_gentlemen_offcers.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_RAJ_indian_gurkhas
+ image: focus_RAJ_indian_gurkhas.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_restore_the_army_of_christ
+ image: focus_mex_restore_the_army_of_christ.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_soldaderas
+ image: focus_mex_soldaderas.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_jefe_maximo
+ image: focus_mex_jefe_maximo.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_exile_calles
+ image: focus_mex_exile_calles.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_triumph_over_the_cristeros
+ image: focus_mex_triumph_over_the_cristeros.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_support_general_cedillo
+ image: focus_mex_support_general_cedillo.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_arrest_general_cedillo
+ image: focus_mex_arrest_general_cedillo.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_caudillo_private_armies
+ image: focus_mex_caudillo_private_armies.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_redeem_aztlan
+ image: focus_mex_redeem_aztlan.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_mex_privatisation
+ image: focus_mex_privatisation.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_special_air_service
+ image: focus_eng_special_air_service.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_chiefs_of_staff_committee
+ image: focus_eng_chiefs_of_staff_committee.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_decolonization
+ image: focus_eng_decolonization.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_global_defense
+ image: focus_eng_global_defense.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_motion_of_no_confidence
+ image: focus_eng_motion_of_no_confidence.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_the_kings_party
+ image: focus_eng_the_kings_party.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_unite_the_anglosphere
+ image: focus_eng_unite_the_anglosphere.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_the_sun_never_sets
+ image: focus_eng_the_sun_never_sets.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_liberate_the_home_of_marx
+ image: focus_eng_liberate_the_home_of_marx.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_expose_the_belly_of_the_bear
+ image: focus_eng_expose_the_belly_of_the_bear.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_move_to_secure_the_dominions
+ image: focus_eng_move_to_secure_the_dominions.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_crush_the_dream
+ image: focus_eng_crush_the_dream.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_organise_the_blackshirts
+ image: focus_eng_organise_the_blackshirts.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_concessions_to_the_trade_unions
+ image: focus_eng_concessions_to_the_trade_unions.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_bring_the_dominions_back_into_the_fold
+ image: focus_eng_bring_the_dominions_back_into_the_fold.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_god_save_the_king
+ image: focus_eng_god_save_the_king.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_eng_imperial_federation
+ image: focus_eng_imperial_federation.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_reestablish_the_gold_standard
+ image: focus_usa_reestablish_the_gold_standard.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_focus_on_europe
+ image: focus_usa_focus_on_europe.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_focus_on_asia
+ image: focus_usa_focus_on_asia.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_escort_fighters
+ image: focus_usa_escort_fighters.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_build_the_pentagon
+ image: focus_usa_build_the_pentagon.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_voter_registration_act
+ image: focus_usa_voter_registration_act.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_union_representation_act
+ image: focus_usa_union_representation_act.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_honor_the_confederacy
+ image: focus_usa_honor_the_confederacy.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_guarantee_the_american_dream
+ image: focus_usa_guarantee_the_american_dream.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_recruit_the_free_corps
+ image: focus_usa_recruit_the_free_corps.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_usa_tank_destroyer_doctrine
+ image: focus_usa_tank_destroyer_doctrine.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_britain
+ image: focus_attack_britain.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_germany
+ image: focus_attack_germany.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_japan
+ image: focus_attack_japan.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_italy
+ image: focus_usa_attack_italy.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_soviet
+ image: focus_attack_soviet.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_france
+ image: focus_attack_france.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_mexico
+ image: focus_attack_mexico.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_china
+ image: focus_attack_china.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_australia
+ image: focus_attack_australia.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_india
+ image: focus_attack_india.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_attack_canada
+ image: focus_attack_canada.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_abandon_the_gold_standard
+ image: focus_hol_abandon_the_gold_standard.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_continue_the_war_in_batavia
+ image: focus_hol_continue_the_war_in_batavia.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_war_on_pacifism
+ image: focus_hol_war_on_pacifism.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_philips
+ image: focus_hol_philips.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_fokker
+ image: focus_hol_fokker.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_daf
+ image: focus_hol_daf.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_prepare_the_inundation_lines
+ image: focus_hol_prepare_the_inundation_lines.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_gateway_to_europe
+ image: focus_hol_gateway_to_europe.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_united_netherlands
+ image: focus_hol_united_netherlands.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_legacy_of_the_de_zeven_provincien_mutiny
+ image: focus_hol_legacy_of_the_de_zeven_provincien_mutiny.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_oranje_boven
+ image: focus_hol_oranje_boven.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_the_only_man_in_the_dutch_government
+ image: focus_hol_the_only_man_in_the_dutch_government.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_the_fourth_ally
+ image: focus_hol_the_fourth_ally.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_the_zuiderzee_works
+ image: focus_hol_the_zuiderzee_works.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_the_foundations_of_defense
+ image: focus_hol_the_foundations_of_defense.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_hol_liberation
+ image: focus_hol_liberation.png
+ tags:
+  - generated
+

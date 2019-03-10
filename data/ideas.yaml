@@ -3718,3 +3718,3987 @@ ideas:
  tags:
   - generated
 
+-
+ name: traits_strip
+ image: idea_traits_strip.png
+ tags:
+  - generated
+
+-
+ name: raj_quit_india_movement
+ image: idea_raj_quit_india_movement.png
+ tags:
+  - generated
+
+-
+ name: ger_wilhelm_iii
+ image: idea_ger_wilhelm_iii.png
+ tags:
+  - generated
+
+-
+ name: combined_bomber_offensive
+ image: combined_bomber_offensive.png
+ tags:
+  - generated
+
+-
+ name: received_attache
+ image: idea_send_attache.png
+ tags:
+  - generated
+
+-
+ name: generic_king_handled
+ image: idea_generic_king_handled.png
+ tags:
+  - generated
+
+-
+ name: closed_economy
+ image: idea_generic_closed_economy.png
+ tags:
+  - generated
+
+-
+ name: limited_exports
+ image: idea_generic_limited_exports.png
+ tags:
+  - generated
+
+-
+ name: free_trade
+ image: idea_generic_free_trade.png
+ tags:
+  - generated
+
+-
+ name: export_focus
+ image: idea_generic_export_focus.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_western_european_2d
+ image: idea_generic_communist_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_western_european_2d
+ image: idea_generic_democratic_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_western_european_2d
+ image: idea_generic_fascist_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_western_european_2d
+ image: idea_generic_political_advisor_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_western_european_2d
+ image: idea_generic_political_advisor_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_western_european_2d
+ image: idea_generic_political_advisor_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_western_european_2d
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_western_european_2d
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_western_european_2d
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_western_european_2d
+ image: idea_generic_navy_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_western_european_2d
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_western_european_2d
+ image: idea_generic_army_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_western_european_2d
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_western_european_2d
+ image: idea_generic_navy_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_western_european_2d
+ image: idea_generic_air_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_western_european_2d
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_western_european_2d
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_western_european_2d
+ image: idea_generic_air_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_chief_all_weather_western_european_2d
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_commonwealth_2d
+ image: idea_generic_communist_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_commonwealth_2d
+ image: idea_generic_democratic_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_commonwealth_2d
+ image: idea_generic_fascist_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_commonwealth_2d
+ image: idea_generic_political_advisor_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_commonwealth_2d
+ image: idea_generic_political_advisor_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_commonwealth_2d
+ image: idea_generic_political_advisor_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_commonwealth_2d
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_commonwealth_2d
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_commonwealth_2d
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_commonwealth_2d
+ image: idea_generic_navy_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_commonwealth_2d
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_commonwealth_2d
+ image: idea_generic_army_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_commonwealth_2d
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_commonwealth_2d
+ image: idea_generic_navy_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_commonwealth_2d
+ image: idea_generic_air_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_commonwealth_2d
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_commonwealth_2d
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_commonwealth_2d
+ image: idea_generic_air_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_chief_all_weather_commonwealth_2d
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_eastern_european_2d
+ image: idea_generic_communist_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_eastern_european_2d
+ image: idea_generic_democratic_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_eastern_european_2d
+ image: idea_generic_fascist_europe.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_eastern_european_2d
+ image: idea_generic_political_advisor_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_eastern_european_2d
+ image: idea_generic_political_advisor_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_eastern_european_2d
+ image: idea_generic_political_advisor_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_eastern_european_2d
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_eastern_european_2d
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_eastern_european_2d
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_eastern_european_2d
+ image: idea_generic_navy_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_eastern_european_2d
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_eastern_european_2d
+ image: idea_generic_army_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_eastern_european_2d
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_eastern_european_2d
+ image: idea_generic_navy_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_eastern_european_2d
+ image: idea_generic_air_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_eastern_european_2d
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_eastern_european_2d
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_eastern_european_2d
+ image: idea_generic_air_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_chief_all_weather_eastern_european_2d
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_europe_1
+ image: idea_generic_political_advisor_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_europe_2
+ image: idea_generic_political_advisor_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_europe_3
+ image: idea_generic_political_advisor_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_europe_4
+ image: idea_generic_political_advisor_europe_4.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_europe_5
+ image: idea_generic_political_advisor_europe_5.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_europe_6
+ image: idea_generic_political_advisor_europe_6.png
+ tags:
+  - generated
+
+-
+ name: generic_army_europe_1
+ image: idea_generic_army_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_army_europe_2
+ image: idea_generic_army_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_europe_3
+ image: idea_generic_army_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_europe_4
+ image: idea_generic_army_europe_4.png
+ tags:
+  - generated
+
+-
+ name: generic_army_europe_5
+ image: idea_generic_army_europe_5.png
+ tags:
+  - generated
+
+-
+ name: generic_army_europe_6
+ image: idea_generic_army_europe_6.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_europe_1
+ image: idea_generic_navy_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_europe_2
+ image: idea_generic_navy_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_europe_3
+ image: idea_generic_navy_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_europe_1
+ image: idea_generic_air_europe_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_europe_2
+ image: idea_generic_air_europe_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_europe_3
+ image: idea_generic_air_europe_3.png
+ tags:
+  - generated
+
+-
+ name: generic_tank_manufacturer_1
+ image: idea_generic_tank_manufacturer_1.png
+ tags:
+  - generated
+
+-
+ name: generic_tank_manufacturer_2
+ image: idea_generic_tank_manufacturer_2.png
+ tags:
+  - generated
+
+-
+ name: generic_tank_manufacturer_3
+ image: idea_generic_tank_manufacturer_3.png
+ tags:
+  - generated
+
+-
+ name: generic_motorized_equipment_manufacturer_1
+ image: idea_generic_motorized_equipment_manufacturer_1.png
+ tags:
+  - generated
+
+-
+ name: generic_motorized_equipment_manufacturer_2
+ image: idea_generic_motorized_equipment_manufacturer_2.png
+ tags:
+  - generated
+
+-
+ name: generic_motorized_equipment_manufacturer_3
+ image: idea_generic_motorized_equipment_manufacturer_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_manufacturer_1
+ image: idea_generic_air_manufacturer_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_manufacturer_2
+ image: idea_generic_air_manufacturer_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_manufacturer_3
+ image: idea_generic_air_manufacturer_3.png
+ tags:
+  - generated
+
+-
+ name: generic_infantry_equipment_manufacturer_1
+ image: idea_generic_infantry_equipment_manufacturer_1.png
+ tags:
+  - generated
+
+-
+ name: generic_infantry_equipment_manufacturer_2
+ image: idea_generic_infantry_equipment_manufacturer_2.png
+ tags:
+  - generated
+
+-
+ name: generic_infantry_equipment_manufacturer_3
+ image: idea_generic_infantry_equipment_manufacturer_3.png
+ tags:
+  - generated
+
+-
+ name: generic_artillery_manufacturer_1
+ image: idea_generic_artillery_manufacturer_1.png
+ tags:
+  - generated
+
+-
+ name: generic_artillery_manufacturer_2
+ image: idea_generic_artillery_manufacturer_2.png
+ tags:
+  - generated
+
+-
+ name: generic_artillery_manufacturer_3
+ image: idea_generic_artillery_manufacturer_3.png
+ tags:
+  - generated
+
+-
+ name: generic_industrial_concern_1
+ image: idea_generic_industrial_concern_1.png
+ tags:
+  - generated
+
+-
+ name: generic_industrial_concern_2
+ image: idea_generic_industrial_concern_2.png
+ tags:
+  - generated
+
+-
+ name: generic_industrial_concern_3
+ image: idea_generic_industrial_concern_3.png
+ tags:
+  - generated
+
+-
+ name: generic_refining_concern_1
+ image: idea_generic_refining_concern_1.png
+ tags:
+  - generated
+
+-
+ name: generic_electronics_concern_1
+ image: idea_generic_electronics_concern_1.png
+ tags:
+  - generated
+
+-
+ name: generic_electronics_concern_2
+ image: idea_generic_electronics_concern_2.png
+ tags:
+  - generated
+
+-
+ name: generic_electronics_concern_3
+ image: idea_generic_electronics_concern_3.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_manufacturer_1
+ image: idea_generic_naval_manufacturer_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_manufacturer_2
+ image: idea_generic_naval_manufacturer_2.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_manufacturer_3
+ image: idea_generic_naval_manufacturer_3.png
+ tags:
+  - generated
+
+-
+ name: disarmed_nation
+ image: idea_disarmed_nation.png
+ tags:
+  - generated
+
+-
+ name: volunteer_only
+ image: idea_volunteer_only.png
+ tags:
+  - generated
+
+-
+ name: limited_conscription
+ image: idea_limited_conscription.png
+ tags:
+  - generated
+
+-
+ name: extensive_conscription
+ image: idea_extensive_conscription.png
+ tags:
+  - generated
+
+-
+ name: service_by_requirement
+ image: idea_service_by_requirement.png
+ tags:
+  - generated
+
+-
+ name: all_adults_serve
+ image: idea_all_adults_serve.png
+ tags:
+  - generated
+
+-
+ name: scraping_the_barrel
+ image: idea_scraping_the_barrel.png
+ tags:
+  - generated
+
+-
+ name: undisturbed_isolation
+ image: idea_undisturbed_isolation.png
+ tags:
+  - generated
+
+-
+ name: civilian_economy
+ image: idea_civilian_economy.png
+ tags:
+  - generated
+
+-
+ name: low_economic_mobilisation
+ image: idea_low_economic_mobilisation.png
+ tags:
+  - generated
+
+-
+ name: partial_economic_mobilisation
+ image: idea_partial_economic_mobilisation.png
+ tags:
+  - generated
+
+-
+ name: war_economy
+ image: idea_war_economy.png
+ tags:
+  - generated
+
+-
+ name: tot_economic_mobilisation
+ image: idea_tot_economic_mobilisation.png
+ tags:
+  - generated
+
+-
+ name: scania
+ image: idea_scania.png
+ tags:
+  - generated
+
+-
+ name: NOR_tandbergs_radiofabrikk
+ image: idea_NOR_tandbergs_radiofabrikk.png
+ tags:
+  - generated
+
+-
+ name: sour_loser
+ image: idea_sour_loser.png
+ tags:
+  - generated
+
+-
+ name: rheinmetall
+ image: idea_rheinmetall.png
+ tags:
+  - generated
+
+-
+ name: ferdinand_schorner
+ image: idea_ferdinand_schorner.png
+ tags:
+  - generated
+
+-
+ name: wilhelm_keitel
+ image: idea_wilhelm_keitel.png
+ tags:
+  - generated
+
+-
+ name: heinz_guderian
+ image: idea_heinz_guderian.png
+ tags:
+  - generated
+
+-
+ name: franz_halder
+ image: idea_franz_halder.png
+ tags:
+  - generated
+
+-
+ name: ludwig_beck
+ image: idea_ludwig_beck.png
+ tags:
+  - generated
+
+-
+ name: werner_von_fritsch
+ image: idea_werner_von_fritsch.png
+ tags:
+  - generated
+
+-
+ name: ernst_udet
+ image: idea_ernst_udet.png
+ tags:
+  - generated
+
+-
+ name: ritter_von_greim
+ image: idea_ritter_von_greim.png
+ tags:
+  - generated
+
+-
+ name: walther_wever
+ image: idea_walther_wever.png
+ tags:
+  - generated
+
+-
+ name: goering
+ image: idea_goering.png
+ tags:
+  - generated
+
+-
+ name: donitz
+ image: idea_donitz.png
+ tags:
+  - generated
+
+-
+ name: raeder
+ image: idea_raeder.png
+ tags:
+  - generated
+
+-
+ name: speer
+ image: idea_speer.png
+ tags:
+  - generated
+
+-
+ name: todt
+ image: idea_todt.png
+ tags:
+  - generated
+
+-
+ name: junkers
+ image: idea_junkers.png
+ tags:
+  - generated
+
+-
+ name: focke_wulf
+ image: idea_focke_wulf.png
+ tags:
+  - generated
+
+-
+ name: messerschmitt
+ image: idea_messerschmitt.png
+ tags:
+  - generated
+
+-
+ name: ig_faben
+ image: idea_ig_faben.png
+ tags:
+  - generated
+
+-
+ name: mauser
+ image: idea_mauser.png
+ tags:
+  - generated
+
+-
+ name: henschel
+ image: idea_henschel.png
+ tags:
+  - generated
+
+-
+ name: GER_MAN
+ image: idea_MAN.png
+ tags:
+  - generated
+
+-
+ name: hjalmar_schacht
+ image: idea_hjalmar_schacht.png
+ tags:
+  - generated
+
+-
+ name: walther_funk
+ image: idea_walther_funk.png
+ tags:
+  - generated
+
+-
+ name: ernst_thalmann
+ image: idea_ernst_thalmann.png
+ tags:
+  - generated
+
+-
+ name: kurt_schumacher
+ image: idea_kurt_schumacher.png
+ tags:
+  - generated
+
+-
+ name: joseph_goebbels
+ image: idea_joseph_goebbels.png
+ tags:
+  - generated
+
+-
+ name: rudolf_hess
+ image: idea_rudolf_hess.png
+ tags:
+  - generated
+
+-
+ name: heinrich_himmler
+ image: idea_heinrich_himmler.png
+ tags:
+  - generated
+
+-
+ name: martin_bormann
+ image: idea_martin_bormann.png
+ tags:
+  - generated
+
+-
+ name: joachim_von_ribbentrop
+ image: idea_joachim_von_ribbentrop.png
+ tags:
+  - generated
+
+-
+ name: konstantin_von_neurath
+ image: idea_konstantin_von_neurath.png
+ tags:
+  - generated
+
+-
+ name: von_braun
+ image: idea_von_braun.png
+ tags:
+  - generated
+
+-
+ name: heisenberg
+ image: idea_heisenberg.png
+ tags:
+  - generated
+
+-
+ name: manstein
+ image: idea_manstein.png
+ tags:
+  - generated
+
+-
+ name: wolfram_von_richthofen
+ image: idea_wolfram_von_richthofen.png
+ tags:
+  - generated
+
+-
+ name: alfred_saalwachter
+ image: idea_alfred_saalwachter.png
+ tags:
+  - generated
+
+-
+ name: otto_ciliax
+ image: idea_otto_ciliax.png
+ tags:
+  - generated
+
+-
+ name: hermann_gortz
+ image: generic_spy_coup.png
+ tags:
+  - generated
+
+-
+ name: elyesa_bazna
+ image: generic_spy_intel.png
+ tags:
+  - generated
+
+-
+ name: marina_lee
+ image: generic_spy_political.png
+ tags:
+  - generated
+
+-
+ name: albert_kesselring
+ image: idea_albert_kesselring.png
+ tags:
+  - generated
+
+-
+ name: erwin_rommel
+ image: idea_erwin_rommel.png
+ tags:
+  - generated
+
+-
+ name: gerd_von_rundstedt
+ image: idea_gerd_von_rundstedt.png
+ tags:
+  - generated
+
+-
+ name: erhard_milch
+ image: idea_erhard_milch.png
+ tags:
+  - generated
+
+-
+ name: kurt_student
+ image: idea_kurt_student.png
+ tags:
+  - generated
+
+-
+ name: gunther_lutjens
+ image: idea_gunther_lutjens.png
+ tags:
+  - generated
+
+-
+ name: walther_von_brauchitsch
+ image: idea_walther_von_brauchitsch.png
+ tags:
+  - generated
+
+-
+ name: hugo_sperrle
+ image: idea_hugo_sperrle.png
+ tags:
+  - generated
+
+-
+ name: erich_bey
+ image: idea_erich_bey.png
+ tags:
+  - generated
+
+-
+ name: viktor_schutze
+ image: idea_viktor_schutze.png
+ tags:
+  - generated
+
+-
+ name: porsche
+ image: idea_porsche.png
+ tags:
+  - generated
+
+-
+ name: germaniawerft
+ image: idea_germaniawerft.png
+ tags:
+  - generated
+
+-
+ name: blohm_und_voss
+ image: idea_blohm_und_voss.png
+ tags:
+  - generated
+
+-
+ name: krupp
+ image: idea_krupp.png
+ tags:
+  - generated
+
+-
+ name: heinkel
+ image: idea_heinkel.png
+ tags:
+  - generated
+
+-
+ name: dornier
+ image: idea_dornier.png
+ tags:
+  - generated
+
+-
+ name: siemens
+ image: idea_siemens.png
+ tags:
+  - generated
+
+-
+ name: opel
+ image: idea_opel.png
+ tags:
+  - generated
+
+-
+ name: earl_browder
+ image: idea_earl_browder.png
+ tags:
+  - generated
+
+-
+ name: harold_ickes
+ image: idea_harold_ickes.png
+ tags:
+  - generated
+
+-
+ name: charles_coughlin
+ image: idea_charles_coughlin.png
+ tags:
+  - generated
+
+-
+ name: george_marshall
+ image: idea_george_marshall.png
+ tags:
+  - generated
+
+-
+ name: dwight_eisenhower
+ image: idea_dwight_eisenhower.png
+ tags:
+  - generated
+
+-
+ name: henry_arnold
+ image: idea_henry_arnold.png
+ tags:
+  - generated
+
+-
+ name: douglas_macarthur
+ image: idea_douglas_macarthur.png
+ tags:
+  - generated
+
+-
+ name: carl_spaatz
+ image: idea_carl_spaatz.png
+ tags:
+  - generated
+
+-
+ name: george_kenney
+ image: idea_george_kenney.png
+ tags:
+  - generated
+
+-
+ name: ernest_king
+ image: idea_ernest_king.png
+ tags:
+  - generated
+
+-
+ name: chester_nimitz
+ image: idea_chester_nimitz.png
+ tags:
+  - generated
+
+-
+ name: william_halsey
+ image: idea_william_halsey.png
+ tags:
+  - generated
+
+-
+ name: courtney_hodges
+ image: idea_courtney_hodges.png
+ tags:
+  - generated
+
+-
+ name: joseph_stilwell
+ image: idea_joseph_stilwell.png
+ tags:
+  - generated
+
+-
+ name: mark_clark
+ image: idea_mark_clark.png
+ tags:
+  - generated
+
+-
+ name: jimmy_doolittle
+ image: idea_jimmy_doolittle.png
+ tags:
+  - generated
+
+-
+ name: raymond_spruance
+ image: idea_raymond_spruance.png
+ tags:
+  - generated
+
+-
+ name: frank_jack_fletcher
+ image: idea_frank_jack_fletcher.png
+ tags:
+  - generated
+
+-
+ name: john_cannon
+ image: idea_john_cannon.png
+ tags:
+  - generated
+
+-
+ name: claire_lee_chennault
+ image: idea_claire_lee_chennault.png
+ tags:
+  - generated
+
+-
+ name: thomas_kinkaid
+ image: idea_thomas_kinkaid.png
+ tags:
+  - generated
+
+-
+ name: omar_bradley
+ image: idea_omar_bradley.png
+ tags:
+  - generated
+
+-
+ name: george_patton
+ image: idea_george_patton.png
+ tags:
+  - generated
+
+-
+ name: dewitt_clinton_ramsey
+ image: idea_dewitt_clinton_ramsey.png
+ tags:
+  - generated
+
+-
+ name: marc_mitscher
+ image: idea_marc_mitscher.png
+ tags:
+  - generated
+
+-
+ name: curtis_lemay
+ image: idea_curtis_lemay.png
+ tags:
+  - generated
+
+-
+ name: harold_mcclelland
+ image: idea_harold_mcclelland.png
+ tags:
+  - generated
+
+-
+ name: robert_oppenheimer
+ image: idea_robert_oppenheimer.png
+ tags:
+  - generated
+
+-
+ name: robert_goddard
+ image: idea_robert_goddard.png
+ tags:
+  - generated
+
+-
+ name: marmon_herrington
+ image: idea_marmon_herrington.png
+ tags:
+  - generated
+
+-
+ name: chrysler
+ image: idea_chrysler.png
+ tags:
+  - generated
+
+-
+ name: army_ordnance_department
+ image: idea_army_ordnance_department.png
+ tags:
+  - generated
+
+-
+ name: electric_boat_company
+ image: idea_electric_boat_company.png
+ tags:
+  - generated
+
+-
+ name: newport_news_shipbuilding
+ image: idea_newport_news_shipbuilding.png
+ tags:
+  - generated
+
+-
+ name: north_american_aviation
+ image: idea_north_american_aviation.png
+ tags:
+  - generated
+
+-
+ name: bell
+ image: idea_bell.png
+ tags:
+  - generated
+
+-
+ name: lockheed
+ image: idea_lockheed.png
+ tags:
+  - generated
+
+-
+ name: douglas_aircraft_company
+ image: idea_douglas_aircraft_company.png
+ tags:
+  - generated
+
+-
+ name: boeing
+ image: idea_boeing.png
+ tags:
+  - generated
+
+-
+ name: springfield_armory
+ image: idea_springfield_armory.png
+ tags:
+  - generated
+
+-
+ name: ford_motor_company
+ image: idea_ford_motor_company.png
+ tags:
+  - generated
+
+-
+ name: standard_oil_california
+ image: idea_standard_oil_california.png
+ tags:
+  - generated
+
+-
+ name: general_electric
+ image: idea_general_electric.png
+ tags:
+  - generated
+
+-
+ name: rock_island_arsenal
+ image: idea_rock_island_arsenal.png
+ tags:
+  - generated
+
+-
+ name: grumman
+ image: idea_grumman.png
+ tags:
+  - generated
+
+-
+ name: brooklyn_naval_yard
+ image: idea_brooklyn_naval_yard.png
+ tags:
+  - generated
+
+-
+ name: consolidated_aircraft
+ image: idea_consolidated_aircraft.png
+ tags:
+  - generated
+
+-
+ name: norfolk_naval_yard
+ image: idea_norfolk_naval_yard.png
+ tags:
+  - generated
+
+-
+ name: usa_airborne_divisions
+ image: idea_usa_airborne_divisions.png
+ tags:
+  - generated
+
+-
+ name: usa_magic
+ image: idea_usa_magic.png
+ tags:
+  - generated
+
+-
+ name: usa_desegregation_2
+ image: idea_usa_desegregation_2.png
+ tags:
+  - generated
+
+-
+ name: usa_desegregation_1
+ image: idea_usa_desegregation_1.png
+ tags:
+  - generated
+
+-
+ name: usa_us_air_force
+ image: idea_usa_us_air_force.png
+ tags:
+  - generated
+
+-
+ name: usa_department_of_defense
+ image: idea_usa_department_of_defense.png
+ tags:
+  - generated
+
+-
+ name: usa_tank_destroyer_board
+ image: idea_usa_tank_destroyer_board.png
+ tags:
+  - generated
+
+-
+ name: usa_general_motors
+ image: idea_USA_general_motors.png
+ tags:
+  - generated
+
+-
+ name: usa_war_department
+ image: idea_usa_war_department.png
+ tags:
+  - generated
+
+-
+ name: usa_great_depression_3
+ image: idea_usa_great_depression_3.png
+ tags:
+  - generated
+
+-
+ name: usa_great_depression_2
+ image: idea_usa_great_depression_2.png
+ tags:
+  - generated
+
+-
+ name: usa_great_depression
+ image: great_depression.png
+ tags:
+  - generated
+
+-
+ name: USA_general_motors2
+ image: idea_USA_general_motors.png
+ tags:
+  - generated
+
+-
+ name: USA_joseph_mccarthy
+ image: idea_USA_joseph_mccarthy.png
+ tags:
+  - generated
+
+-
+ name: USA_henry_morgenthau
+ image: idea_USA_henry_morgenthau.png
+ tags:
+  - generated
+
+-
+ name: USA_whittaker_chambers
+ image: idea_USA_whittaker_chambers.png
+ tags:
+  - generated
+
+-
+ name: USA_harry_white
+ image: idea_USA_harry_white.png
+ tags:
+  - generated
+
+-
+ name: USA_walter_krueger
+ image: USA_Walter_Krueger.png
+ tags:
+  - generated
+
+-
+ name: sabiha_gocen
+ image: idea_sabiha_gocen.png
+ tags:
+  - generated
+
+-
+ name: francisco_franco
+ image: idea_francisco_franco.png
+ tags:
+  - generated
+
+-
+ name: dolores_ibarruri
+ image: idea_dolores_ibarruri.png
+ tags:
+  - generated
+
+-
+ name: george_v
+ image: idea_george_v.png
+ tags:
+  - generated
+
+-
+ name: king_edward
+ image: idea_king_edward.png
+ tags:
+  - generated
+
+-
+ name: george_vi
+ image: idea_george_vi.png
+ tags:
+  - generated
+
+-
+ name: harry_pollitt
+ image: idea_harry_pollitt.png
+ tags:
+  - generated
+
+-
+ name: clement_attlee
+ image: idea_clement_attlee.png
+ tags:
+  - generated
+
+-
+ name: john_beckett
+ image: idea_john_beckett.png
+ tags:
+  - generated
+
+-
+ name: john_vereker
+ image: idea_john_vereker.png
+ tags:
+  - generated
+
+-
+ name: edmund_ironside
+ image: idea_edmund_ironside.png
+ tags:
+  - generated
+
+-
+ name: alan_brooke
+ image: idea_alan_brooke.png
+ tags:
+  - generated
+
+-
+ name: ernle_chatfield
+ image: idea_ernle_chatfield.png
+ tags:
+  - generated
+
+-
+ name: dudley_pound
+ image: idea_dudley_pound.png
+ tags:
+  - generated
+
+-
+ name: andrew_cunningham
+ image: idea_andrew_cunningham.png
+ tags:
+  - generated
+
+-
+ name: cyril_newall
+ image: idea_cyril_newall.png
+ tags:
+  - generated
+
+-
+ name: charles_portal
+ image: idea_charles_portal.png
+ tags:
+  - generated
+
+-
+ name: edward_ellington
+ image: idea_edward_ellington.png
+ tags:
+  - generated
+
+-
+ name: archibald_wavell
+ image: idea_archibald_wavell.png
+ tags:
+  - generated
+
+-
+ name: claude_auchinleck
+ image: idea_claude_auchinleck.png
+ tags:
+  - generated
+
+-
+ name: kenneth_anderson
+ image: idea_kenneth_anderson.png
+ tags:
+  - generated
+
+-
+ name: sholto_douglas
+ image: idea_sholto_douglas.png
+ tags:
+  - generated
+
+-
+ name: trafford_leigh_mallory
+ image: idea_trafford_leigh_mallory.png
+ tags:
+  - generated
+
+-
+ name: frederick_bowhill
+ image: idea_frederick_bowhill.png
+ tags:
+  - generated
+
+-
+ name: louis_mountbatten
+ image: idea_louis_mountbatten.png
+ tags:
+  - generated
+
+-
+ name: henry_harwood
+ image: idea_henry_harwood.png
+ tags:
+  - generated
+
+-
+ name: max_horton
+ image: idea_max_horton.png
+ tags:
+  - generated
+
+-
+ name: bernard_montgomery
+ image: idea_bernard_montgomery.png
+ tags:
+  - generated
+
+-
+ name: harold_alexander
+ image: idea_harold_alexander.png
+ tags:
+  - generated
+
+-
+ name: james_somerville
+ image: idea_james_somerville.png
+ tags:
+  - generated
+
+-
+ name: tom_phillips
+ image: idea_tom_phillips.png
+ tags:
+  - generated
+
+-
+ name: hugh_dowding
+ image: idea_hugh_dowding.png
+ tags:
+  - generated
+
+-
+ name: arthur_harris
+ image: idea_arthur_harris.png
+ tags:
+  - generated
+
+-
+ name: james_chadwick
+ image: idea_james_chadwick.png
+ tags:
+  - generated
+
+-
+ name: frank_whittle
+ image: idea_frank_whittle.png
+ tags:
+  - generated
+
+-
+ name: yarrow_shipbuilders
+ image: idea_yarrow_shipbuilders.png
+ tags:
+  - generated
+
+-
+ name: harland_wolff
+ image: idea_harland_wolff.png
+ tags:
+  - generated
+
+-
+ name: cammell_laird
+ image: idea_cammell_laird.png
+ tags:
+  - generated
+
+-
+ name: john_brown_company
+ image: idea_john_brown_company.png
+ tags:
+  - generated
+
+-
+ name: supermarine
+ image: idea_supermarine.png
+ tags:
+  - generated
+
+-
+ name: hawker
+ image: idea_hawker.png
+ tags:
+  - generated
+
+-
+ name: rsaf_enfield
+ image: idea_rsaf_enfield.png
+ tags:
+  - generated
+
+-
+ name: vauxhall
+ image: idea_vauxhall.png
+ tags:
+  - generated
+
+-
+ name: royal_arsenal
+ image: idea_royal_arsenal.png
+ tags:
+  - generated
+
+-
+ name: de_havilland
+ image: idea_de_havilland.png
+ tags:
+  - generated
+
+-
+ name: avro
+ image: idea_avro.png
+ tags:
+  - generated
+
+-
+ name: fairey_aviation
+ image: idea_fairey_aviation.png
+ tags:
+  - generated
+
+-
+ name: vickers_armstrong_eng
+ image: vickers_armstrong_eng.png
+ tags:
+  - generated
+
+-
+ name: aioc
+ image: idea_aioc.png
+ tags:
+  - generated
+
+-
+ name: english_electric
+ image: idea_english_electric.png
+ tags:
+  - generated
+
+-
+ name: ENG_david_stirling
+ image: idea_ENG_david_stirling.png
+ tags:
+  - generated
+
+-
+ name: ENG_leslie_hore_belisha
+ image: idea_eng_leslie_hore_belisha.png
+ tags:
+  - generated
+
+-
+ name: ENG_maxwell_aitken
+ image: idea_eng_maxwell_aitken.png
+ tags:
+  - generated
+
+-
+ name: ENG_nevile_henderson
+ image: idea_eng_nevile_henderson.png
+ tags:
+  - generated
+
+-
+ name: ENG_philip_kerr
+ image: idea_eng_philip_kerr.png
+ tags:
+  - generated
+
+-
+ name: ENG_ernest_bevin
+ image: idea_eng_ernest_bevin.png
+ tags:
+  - generated
+
+-
+ name: victor_emmanuel
+ image: idea_victor_emmanuel.png
+ tags:
+  - generated
+
+-
+ name: amadeo_bordiga
+ image: idea_amadeo_bordiga.png
+ tags:
+  - generated
+
+-
+ name: ivanoe_bonomi
+ image: idea_ivanoe_bonomi.png
+ tags:
+  - generated
+
+-
+ name: carlo_scorza
+ image: idea_carlo_scorza.png
+ tags:
+  - generated
+
+-
+ name: pietro_badoglio
+ image: idea_pietro_badoglio.png
+ tags:
+  - generated
+
+-
+ name: ugo_cavallero
+ image: idea_ugo_cavallero.png
+ tags:
+  - generated
+
+-
+ name: emilio_de_bono
+ image: idea_emilio_de_bono.png
+ tags:
+  - generated
+
+-
+ name: domenico_cavagnari
+ image: idea_domenico_cavagnari.png
+ tags:
+  - generated
+
+-
+ name: arturo_riccardi
+ image: idea_arturo_riccardi.png
+ tags:
+  - generated
+
+-
+ name: inigo_campioni
+ image: idea_inigo_campioni.png
+ tags:
+  - generated
+
+-
+ name: italo_balbo
+ image: idea_italo_balbo.png
+ tags:
+  - generated
+
+-
+ name: rino_corso_fougier
+ image: idea_rino_corso_fougier.png
+ tags:
+  - generated
+
+-
+ name: francesco_pricolo
+ image: idea_francesco_pricolo.png
+ tags:
+  - generated
+
+-
+ name: mario_roatta
+ image: idea_mario_roatta.png
+ tags:
+  - generated
+
+-
+ name: vittorio_ambrosio
+ image: idea_vittorio_ambrosio.png
+ tags:
+  - generated
+
+-
+ name: alfredo_guzzoni
+ image: idea_alfredo_guzzoni.png
+ tags:
+  - generated
+
+-
+ name: ettore_muti
+ image: idea_ettore_muti.png
+ tags:
+  - generated
+
+-
+ name: marziale_cerutti
+ image: idea_marziale_cerutti.png
+ tags:
+  - generated
+
+-
+ name: silvio_scaroni
+ image: idea_silvio_scaroni.png
+ tags:
+  - generated
+
+-
+ name: alberto_da_zara
+ image: idea_alberto_da_zara.png
+ tags:
+  - generated
+
+-
+ name: carlo_bergamini
+ image: idea_carlo_bergamini.png
+ tags:
+  - generated
+
+-
+ name: luigi_mascherpa
+ image: idea_luigi_mascherpa.png
+ tags:
+  - generated
+
+-
+ name: giovanni_messe
+ image: idea_giovanni_messe.png
+ tags:
+  - generated
+
+-
+ name: guiseppe_fioravanzo
+ image: idea_guiseppe_fioravanzo.png
+ tags:
+  - generated
+
+-
+ name: angelo_iachino
+ image: idea_angelo_iachino.png
+ tags:
+  - generated
+
+-
+ name: rodolfo_graziani
+ image: idea_rodolfo_graziani.png
+ tags:
+  - generated
+
+-
+ name: amedeo_mecozzi
+ image: idea_amedeo_mecozzi.png
+ tags:
+  - generated
+
+-
+ name: renato_sandalli
+ image: idea_renato_sandalli.png
+ tags:
+  - generated
+
+-
+ name: gaetano_crocco
+ image: idea_gaetano_crocco.png
+ tags:
+  - generated
+
+-
+ name: danieli
+ image: idea_danieli.png
+ tags:
+  - generated
+
+-
+ name: fiat
+ image: idea_fiat.png
+ tags:
+  - generated
+
+-
+ name: beretta
+ image: idea_beretta.png
+ tags:
+  - generated
+
+-
+ name: lancia
+ image: idea_lancia.png
+ tags:
+  - generated
+
+-
+ name: breda
+ image: idea_breda.png
+ tags:
+  - generated
+
+-
+ name: macchi
+ image: idea_macchi.png
+ tags:
+  - generated
+
+-
+ name: savoia_marchetti
+ image: idea_savoia_marchetti.png
+ tags:
+  - generated
+
+-
+ name: caproni
+ image: idea_caproni.png
+ tags:
+  - generated
+
+-
+ name: piaggio
+ image: idea_piaggio.png
+ tags:
+  - generated
+
+-
+ name: crda
+ image: idea_crda.png
+ tags:
+  - generated
+
+-
+ name: maurice_thorez
+ image: idea_maurice_thorez.png
+ tags:
+  - generated
+
+-
+ name: leon_blum
+ image: idea_leon_blum.png
+ tags:
+  - generated
+
+-
+ name: marcel_bucard
+ image: idea_marcel_bucard.png
+ tags:
+  - generated
+
+-
+ name: maurice_gamelin
+ image: idea_maurice_gamelin.png
+ tags:
+  - generated
+
+-
+ name: maxime_weygand
+ image: idea_maxime_weygand.png
+ tags:
+  - generated
+
+-
+ name: alphonse_georges
+ image: idea_alphonse_georges.png
+ tags:
+  - generated
+
+-
+ name: francois_darlan
+ image: idea_francois_darlan.png
+ tags:
+  - generated
+
+-
+ name: jean_marie_abrial
+ image: idea_jean_marie_abrial.png
+ tags:
+  - generated
+
+-
+ name: marcel_gensoul
+ image: idea_marcel_gensoul.png
+ tags:
+  - generated
+
+-
+ name: joseph_vuillemin
+ image: idea_joseph_vuillemin.png
+ tags:
+  - generated
+
+-
+ name: philippe_fequant
+ image: idea_philippe_fequant.png
+ tags:
+  - generated
+
+-
+ name: rene_prioux
+ image: idea_rene_prioux.png
+ tags:
+  - generated
+
+-
+ name: charles_huntziger
+ image: idea_charles_huntziger.png
+ tags:
+  - generated
+
+-
+ name: philippe_leclerc
+ image: idea_philippe_leclerc.png
+ tags:
+  - generated
+
+-
+ name: alfred_heurtaux
+ image: idea_alfred_heurtaux.png
+ tags:
+  - generated
+
+-
+ name: martial_valin
+ image: idea_martial_valin.png
+ tags:
+  - generated
+
+-
+ name: jean_francois_jannekeyn
+ image: idea_jean_francois_jannekeyn.png
+ tags:
+  - generated
+
+-
+ name: jean_de_laborde
+ image: idea_jean_de_laborde.png
+ tags:
+  - generated
+
+-
+ name: emile_muselier
+ image: idea_emile_muselier.png
+ tags:
+  - generated
+
+-
+ name: rene_emile_godfroy
+ image: idea_rene_emile_godfroy.png
+ tags:
+  - generated
+
+-
+ name: charles_de_gaulle
+ image: idea_charles_de_gaulle.png
+ tags:
+  - generated
+
+-
+ name: henri_giraud
+ image: idea_henri_giraud.png
+ tags:
+  - generated
+
+-
+ name: louis_kahn
+ image: idea_louis_kahn.png
+ tags:
+  - generated
+
+-
+ name: jean_decoux
+ image: idea_jean_decoux.png
+ tags:
+  - generated
+
+-
+ name: victor_denain
+ image: idea_victor_denain.png
+ tags:
+  - generated
+
+-
+ name: jean_marie_bergeret
+ image: idea_jean_marie_bergeret.png
+ tags:
+  - generated
+
+-
+ name: frederic_irene_joliot_curie
+ image: idea_frederic_irene_joliot_curie.png
+ tags:
+  - generated
+
+-
+ name: robert_odic
+ image: idea_robert_odic.png
+ tags:
+  - generated
+
+-
+ name: renault
+ image: idea_renault.png
+ tags:
+  - generated
+
+-
+ name: somua
+ image: idea_somua.png
+ tags:
+  - generated
+
+-
+ name: schneider
+ image: idea_schneider.png
+ tags:
+  - generated
+
+-
+ name: morane_saulnier
+ image: idea_morane_saulnier.png
+ tags:
+  - generated
+
+-
+ name: bloch
+ image: idea_bloch.png
+ tags:
+  - generated
+
+-
+ name: amiot
+ image: idea_amiot.png
+ tags:
+  - generated
+
+-
+ name: levasseur
+ image: idea_levasseur.png
+ tags:
+  - generated
+
+-
+ name: fcm
+ image: idea_fcm.png
+ tags:
+  - generated
+
+-
+ name: famh
+ image: idea_famh.png
+ tags:
+  - generated
+
+-
+ name: mikhail_kalinin
+ image: idea_mikhail_kalinin.png
+ tags:
+  - generated
+
+-
+ name: nikita_khrushchev
+ image: idea_nikita_khrushchev.png
+ tags:
+  - generated
+
+-
+ name: alexander_kerensky
+ image: idea_alexander_kerensky.png
+ tags:
+  - generated
+
+-
+ name: konstantin_rodzaevsky
+ image: idea_konstantin_rodzaevsky.png
+ tags:
+  - generated
+
+-
+ name: semyon_timoshenko
+ image: idea_semyon_timoshenko.png
+ tags:
+  - generated
+
+-
+ name: kliment_voroshilov
+ image: idea_kliment_voroshilov.png
+ tags:
+  - generated
+
+-
+ name: alexander_yegorov
+ image: idea_alexander_yegorov.png
+ tags:
+  - generated
+
+-
+ name: vasily_blucher
+ image: idea_vasily_blucher.png
+ tags:
+  - generated
+
+-
+ name: pyotr_smirnov
+ image: idea_pyotr_smirnov.png
+ tags:
+  - generated
+
+-
+ name: mikhail_frinovsky
+ image: idea_mikhail_frinovsky.png
+ tags:
+  - generated
+
+-
+ name: nikolay_kuznetsov
+ image: idea_nikolay_kuznetsov.png
+ tags:
+  - generated
+
+-
+ name: ivan_yumashev
+ image: idea_ivan_yumashev.png
+ tags:
+  - generated
+
+-
+ name: alexander_novikov
+ image: idea_alexander_novikov.png
+ tags:
+  - generated
+
+-
+ name: konstantin_vershinin
+ image: idea_konstantin_vershinin.png
+ tags:
+  - generated
+
+-
+ name: yakov_smushkevich
+ image: idea_yakov_smushkevich.png
+ tags:
+  - generated
+
+-
+ name: pavel_rychagov
+ image: idea_pavel_rychagov.png
+ tags:
+  - generated
+
+-
+ name: ivan_konev
+ image: idea_ivan_konev.png
+ tags:
+  - generated
+
+-
+ name: aleksandr_vasilevsky
+ image: idea_aleksandr_vasilevsky.png
+ tags:
+  - generated
+
+-
+ name: konstantin_rokossovsky
+ image: idea_konstantin_rokossovsky.png
+ tags:
+  - generated
+
+-
+ name: pavel_zhigarev
+ image: idea_pavel_zhigarev.png
+ tags:
+  - generated
+
+-
+ name: sergei_khudyakov
+ image: idea_sergei_khudyakov.png
+ tags:
+  - generated
+
+-
+ name: stepan_krasovsky
+ image: idea_stepan_krasovsky.png
+ tags:
+  - generated
+
+-
+ name: vladimir_kasatonov
+ image: idea_vladimir_kasatonov.png
+ tags:
+  - generated
+
+-
+ name: gordey_levchenko
+ image: idea_gordey_levchenko.png
+ tags:
+  - generated
+
+-
+ name: arseniy_golovko
+ image: idea_arseniy_golovko.png
+ tags:
+  - generated
+
+-
+ name: mikhail_tukhachevsky
+ image: idea_mikhail_tukhachevsky.png
+ tags:
+  - generated
+
+-
+ name: boris_shaposhnikov
+ image: idea_boris_shaposhnikov.png
+ tags:
+  - generated
+
+-
+ name: sergey_gorshkov
+ image: idea_sergey_gorshkov.png
+ tags:
+  - generated
+
+-
+ name: georgy_zhukov
+ image: idea_georgy_zhukov.png
+ tags:
+  - generated
+
+-
+ name: vladimir_tributs
+ image: idea_vladimir_tributs.png
+ tags:
+  - generated
+
+-
+ name: sergei_rudenko
+ image: idea_sergei_rudenko.png
+ tags:
+  - generated
+
+-
+ name: alexander_golovanov
+ image: idea_alexander_golovanov.png
+ tags:
+  - generated
+
+-
+ name: igor_kurchatov
+ image: idea_igor_kurchatov.png
+ tags:
+  - generated
+
+-
+ name: sergei_korolev
+ image: idea_sergei_korolev.png
+ tags:
+  - generated
+
+-
+ name: morozov_design_bureau
+ image: idea_morozov_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: astrov_design_bureau
+ image: idea_astrov_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: okmo
+ image: idea_okmo.png
+ tags:
+  - generated
+
+-
+ name: mig_design_bureau
+ image: idea_mig_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: ilyushin_design_bureau
+ image: idea_ilyushin_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: tupolev_design_bureau
+ image: idea_tupolev_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: yakovlev_design_bureau
+ image: idea_yakovlev_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: grabin_design_bureau
+ image: idea_grabin_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: stalingrad_tractor_factory
+ image: idea_stalingrad_tractor_factory.png
+ tags:
+  - generated
+
+-
+ name: leningrad_polytechnical_institute
+ image: idea_leningrad_polytechnical_institute.png
+ tags:
+  - generated
+
+-
+ name: tula_arms_plant
+ image: idea_tula_arms_plant.png
+ tags:
+  - generated
+
+-
+ name: gaz
+ image: idea_gaz.png
+ tags:
+  - generated
+
+-
+ name: nevskoye_design_bureau
+ image: idea_nevskoye_design_bureau.png
+ tags:
+  - generated
+
+-
+ name: ROM_the_sentinel_of_the_motherland
+ image: idea_rom_sentinel_of_motherland.png
+ tags:
+  - generated
+
+-
+ name: ROM_the_sentinel_of_the_motherland_2
+ image: idea_rom_sentinel_of_motherland2.png
+ tags:
+  - generated
+
+-
+ name: ROM_balkans_dominance
+ image: idea_rom_balkan_dominance.png
+ tags:
+  - generated
+
+-
+ name: ROM_cugir
+ image: idea_ROM_cugir.png
+ tags:
+  - generated
+
+-
+ name: YUG_serbian_general_staff
+ image: idea_yug_serbian_general_staff.png
+ tags:
+  - generated
+
+-
+ name: chi_h_h_kung
+ image: idea_generic_political_advisor_asia_1.png
+ tags:
+  - generated
+
+-
+ name: chi_chiang_ching_kuo
+ image: idea_generic_political_advisor_asia_2.png
+ tags:
+  - generated
+
+-
+ name: chi_chen_yi
+ image: idea_generic_political_advisor_asia_3.png
+ tags:
+  - generated
+
+-
+ name: CHI_gao_zihang
+ image: idea_generic_army_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_india_2
+ image: generic_political_advisor_india_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_india_1
+ image: generic_political_advisor_india_1.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_asian_2d
+ image: idea_generic_communist_asia.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_asian_2d
+ image: idea_generic_democratic_asia.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_asian_2d
+ image: idea_generic_fascist_asia.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_asia_1
+ image: idea_generic_political_advisor_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_asia_2
+ image: idea_generic_political_advisor_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_asia_3
+ image: idea_generic_political_advisor_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_asian_2d
+ image: idea_generic_political_advisor_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_asian_2d
+ image: idea_generic_political_advisor_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_asian_2d
+ image: idea_generic_political_advisor_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_asian_2d
+ image: idea_generic_army_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_asian_2d
+ image: idea_generic_army_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_asian_2d
+ image: idea_generic_navy_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_asian_2d
+ image: idea_generic_navy_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_asian_2d
+ image: idea_generic_air_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_asian_2d
+ image: idea_generic_army_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_asian_2d
+ image: idea_generic_army_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_asian_2d
+ image: idea_generic_navy_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_asian_2d
+ image: idea_generic_air_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_asian_2d
+ image: idea_generic_army_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_asian_2d
+ image: idea_generic_navy_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_asian_2d
+ image: idea_generic_air_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_chief_all_weather_asian_2d
+ image: idea_generic_air_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_1
+ image: idea_generic_army_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_2
+ image: idea_generic_army_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_3
+ image: idea_generic_army_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_4
+ image: idea_generic_army_asia_4.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_5
+ image: idea_generic_army_asia_5.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_6
+ image: idea_generic_army_asia_6.png
+ tags:
+  - generated
+
+-
+ name: generic_army_asia_7
+ image: idea_generic_army_asia_7.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_asia_1
+ image: idea_generic_navy_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_asia_2
+ image: idea_generic_navy_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_asia_3
+ image: idea_generic_navy_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_asia_1
+ image: idea_generic_air_asia_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_asia_2
+ image: idea_generic_air_asia_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_asia_3
+ image: idea_generic_air_asia_3.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_southamerican_2d
+ image: idea_generic_communist_south_america.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_southamerican_2d
+ image: idea_generic_democratic_south_america.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_southamerican_2d
+ image: idea_generic_fascist_south_america.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_south_america_1
+ image: idea_generic_political_advisor_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_south_america_2
+ image: idea_generic_political_advisor_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_south_america_3
+ image: idea_generic_political_advisor_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_south_american_2d
+ image: idea_generic_political_advisor_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_south_american_2d
+ image: idea_generic_political_advisor_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_south_american_2d
+ image: idea_generic_political_advisor_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_south_american_2d
+ image: idea_generic_army_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_south_american_2d
+ image: idea_generic_army_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_south_american_2d
+ image: idea_generic_navy_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_south_american_2d
+ image: idea_generic_navy_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_south_american_2d
+ image: idea_generic_air_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_south_american_2d
+ image: idea_generic_army_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_south_american_2d
+ image: idea_generic_army_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_south_american_2d
+ image: idea_generic_navy_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_south_american_2d
+ image: idea_generic_air_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_south_american_2d
+ image: idea_generic_army_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_south_american_2d
+ image: idea_generic_navy_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_south_american_2d
+ image: idea_generic_air_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_chief_all_weather_south_american_2d
+ image: idea_generic_air_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_south_america_1
+ image: idea_generic_army_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_army_south_america_2
+ image: idea_generic_army_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_south_america_3
+ image: idea_generic_army_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_south_america_4
+ image: idea_generic_army_south_america_4.png
+ tags:
+  - generated
+
+-
+ name: generic_army_south_america_5
+ image: idea_generic_army_south_america_5.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_south_america_1
+ image: idea_generic_navy_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_south_america_2
+ image: idea_generic_navy_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_south_america_3
+ image: idea_generic_navy_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_south_america_1
+ image: idea_generic_air_south_america_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_south_america_2
+ image: idea_generic_air_south_america_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_south_america_3
+ image: idea_generic_air_south_america_3.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_middle_eastern_2d
+ image: idea_generic_communist_arab.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_middle_eastern_2d
+ image: idea_generic_democratic_arab.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_middle_eastern_2d
+ image: idea_generic_fascist_arab.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_arab_1
+ image: idea_generic_political_advisor_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_arab_2
+ image: idea_generic_political_advisor_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_arab_3
+ image: idea_generic_political_advisor_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_middle_eastern_2d
+ image: idea_generic_political_advisor_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_middle_eastern_2d
+ image: idea_generic_political_advisor_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_middle_eastern_2d
+ image: idea_generic_political_advisor_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_middle_eastern_2d
+ image: idea_generic_army_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_middle_eastern_2d
+ image: idea_generic_army_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_middle_eastern_2d
+ image: idea_generic_navy_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_middle_eastern_2d
+ image: idea_generic_navy_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_middle_eastern_2d
+ image: idea_generic_air_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_middle_eastern_2d
+ image: idea_generic_army_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_middle_eastern_2d
+ image: idea_generic_army_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_middle_eastern_2d
+ image: idea_generic_navy_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_middle_eastern_2d
+ image: idea_generic_air_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_middle_eastern_2d
+ image: idea_generic_army_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_middle_eastern_2d
+ image: idea_generic_navy_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_middle_eastern_2d
+ image: idea_generic_air_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_chief_all_weather_middle_eastern_2d
+ image: idea_generic_air_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_arab_1
+ image: idea_generic_army_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_army_arab_2
+ image: idea_generic_army_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_arab_3
+ image: idea_generic_army_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_arab_1
+ image: idea_generic_navy_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_arab_2
+ image: idea_generic_navy_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_arab_3
+ image: idea_generic_navy_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_arab_1
+ image: idea_generic_air_arab_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_arab_2
+ image: idea_generic_air_arab_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_arab_3
+ image: idea_generic_air_arab_3.png
+ tags:
+  - generated
+
+-
+ name: generic_communist_revolutionary_african_2d
+ image: idea_generic_communist_africa.png
+ tags:
+  - generated
+
+-
+ name: generic_democratic_reformer_african_2d
+ image: idea_generic_democratic_africa.png
+ tags:
+  - generated
+
+-
+ name: generic_fascist_demagogue_african_2d
+ image: idea_generic_fascist_africa.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_african_1
+ image: idea_generic_political_advisor_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_african_2
+ image: idea_generic_political_advisor_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_political_advisor_african_3
+ image: idea_generic_political_advisor_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_captain_of_industry_african_2d
+ image: idea_generic_political_advisor_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_fortification_engineer_african_2d
+ image: idea_generic_political_advisor_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_war_industrialist_african_2d
+ image: idea_generic_political_advisor_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_off_african_2d
+ image: idea_generic_army_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_chief_def_african_2d
+ image: idea_generic_army_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_chief_decisive_bat_african_2d
+ image: idea_generic_navy_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_anti_submarine_african_2d
+ image: idea_generic_navy_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_close_air_sup_african_2d
+ image: idea_generic_air_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_art_african_2d
+ image: idea_generic_army_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_log_african_2d
+ image: idea_generic_army_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_fleet_log_african_2d
+ image: idea_generic_navy_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_air_combat_trainer_african_2d
+ image: idea_generic_air_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_military_theorist_african_2d
+ image: idea_generic_army_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_naval_theorist_african_2d
+ image: idea_generic_navy_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_warfare_theorist_african_2d
+ image: idea_generic_air_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_african_1
+ image: idea_generic_army_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_army_african_2
+ image: idea_generic_army_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_army_african_3
+ image: idea_generic_army_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_army_african_4
+ image: idea_generic_army_africa_4.png
+ tags:
+  - generated
+
+-
+ name: generic_army_african_5
+ image: idea_generic_army_africa_5.png
+ tags:
+  - generated
+
+-
+ name: generic_army_african_6
+ image: idea_generic_army_africa_6.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_african_1
+ image: idea_generic_navy_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_african_2
+ image: idea_generic_navy_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_navy_african_3
+ image: idea_generic_navy_africa_3.png
+ tags:
+  - generated
+
+-
+ name: generic_air_african_1
+ image: idea_generic_air_africa_1.png
+ tags:
+  - generated
+
+-
+ name: generic_air_african_2
+ image: idea_generic_air_africa_2.png
+ tags:
+  - generated
+
+-
+ name: generic_air_african_3
+ image: idea_generic_air_africa_3.png
+ tags:
+  - generated
+
+-
+ name: sasebo_naval_arsenal
+ image: idea_sasebo_naval_arsenal.png
+ tags:
+  - generated
+
+-
+ name: maizuru_naval_arsenal
+ image: idea_maizuru_naval_arsenal.png
+ tags:
+  - generated
+
+-
+ name: yokosuka_naval_arsenal
+ image: idea_yokosuka_naval_arsenal.png
+ tags:
+  - generated
+
+-
+ name: kure_naval_arsenal
+ image: idea_kure_naval_arsenal.png
+ tags:
+  - generated
+
+-
+ name: osaka_army_arsenal
+ image: idea_osaka_army_arsenal.png
+ tags:
+  - generated
+
+-
+ name: nissan
+ image: idea_nissan.png
+ tags:
+  - generated
+
+-
+ name: tokyo_arsenal
+ image: idea_tokyo_arsenal.png
+ tags:
+  - generated
+
+-
+ name: sumitomo
+ image: idea_sumitomo.png
+ tags:
+  - generated
+
+-
+ name: kawasaki
+ image: idea_kawasaki.png
+ tags:
+  - generated
+
+-
+ name: yokosuka
+ image: idea_yokosuka.png
+ tags:
+  - generated
+
+-
+ name: nakajima
+ image: idea_nakajima.png
+ tags:
+  - generated
+
+-
+ name: aichi
+ image: idea_aichi.png
+ tags:
+  - generated
+
+-
+ name: mitsubishi
+ image: idea_mitsubishi.png
+ tags:
+  - generated
+
+-
+ name: sanzo_nosaka
+ image: idea_sanzo_nosaka.png
+ tags:
+  - generated
+
+-
+ name: kijuro_shidehara
+ image: idea_kijuro_shidehara.png
+ tags:
+  - generated
+
+-
+ name: kingoro_hashimoto
+ image: idea_kingoro_hashimoto.png
+ tags:
+  - generated
+
+-
+ name: kanin_kotohito
+ image: idea_kanin_kotohito.png
+ tags:
+  - generated
+
+-
+ name: hajime_sugiyama
+ image: idea_hajime_sugiyama.png
+ tags:
+  - generated
+
+-
+ name: hideki_tojo
+ image: idea_hideki_tojo.png
+ tags:
+  - generated
+
+-
+ name: fushimi_hiroyasu
+ image: idea_fushimi_hiroyasu.png
+ tags:
+  - generated
+
+-
+ name: osami_nagano
+ image: idea_osami_nagano.png
+ tags:
+  - generated
+
+-
+ name: shigetaro_shimada
+ image: idea_shigetaro_shimada.png
+ tags:
+  - generated
+
+-
+ name: torashiro_kawabe
+ image: idea_torashiro_kawabe.png
+ tags:
+  - generated
+
+-
+ name: korechika_anami
+ image: idea_korechika_anami.png
+ tags:
+  - generated
+
+-
+ name: kenji_doihara
+ image: idea_kenji_doihara.png
+ tags:
+  - generated
+
+-
+ name: hitoshi_imamura
+ image: idea_hitoshi_imamura.png
+ tags:
+  - generated
+
+-
+ name: yasuji_okamura
+ image: idea_yasuji_okamura.png
+ tags:
+  - generated
+
+-
+ name: shunroku_hata
+ image: idea_shunroku_hata.png
+ tags:
+  - generated
+
+-
+ name: nishizo_tsukahara
+ image: idea_nishizo_tsukahara.png
+ tags:
+  - generated
+
+-
+ name: soemu_toyoda
+ image: idea_soemu_toyoda.png
+ tags:
+  - generated
+
+-
+ name: mitsuo_fuchida
+ image: idea_mitsuo_fuchida.png
+ tags:
+  - generated
+
+-
+ name: tateo_kato
+ image: idea_tateo_kato.png
+ tags:
+  - generated
+
+-
+ name: matome_ugaki
+ image: idea_matome_ugaki.png
+ tags:
+  - generated
+
+-
+ name: chuichi_nagumo
+ image: idea_chuichi_nagumo.png
+ tags:
+  - generated
+
+-
+ name: tomoyuki_yamashita
+ image: idea_tomoyuki_yamashita.png
+ tags:
+  - generated
+
+-
+ name: hisaichi_terauchi
+ image: idea_hisaichi_terauchi.png
+ tags:
+  - generated
+
+-
+ name: isoroku_yamamoto
+ image: idea_isoroku_yamamoto.png
+ tags:
+  - generated
+
+-
+ name: minoru_genda
+ image: idea_minoru_genda.png
+ tags:
+  - generated
+
+-
+ name: yoshitoshi_tokugawa
+ image: idea_yoshitoshi_tokugawa.png
+ tags:
+  - generated
+
+-
+ name: hino_kumazo
+ image: idea_hino_kumazo.png
+ tags:
+  - generated
+
+-
+ name: yoshio_nishina
+ image: idea_yoshio_nishina.png
+ tags:
+  - generated
+
+-
+ name: hideo_itokawa
+ image: idea_hideo_itokawa.png
+ tags:
+  - generated
+
+-
+ name: jap_militarism_shogun
+ image: idea_jap_militarism_shogun.png
+ tags:
+  - generated
+
+-
+ name: jap_hirohito
+ image: idea_jap_hirohito.png
+ tags:
+  - generated
+
+-
+ name: MEX_callistas
+ image: idea_mex_callistas.png
+ tags:
+  - generated
+
+-
+ name: MEX_revolutionary_army
+ image: idea_mex_revolutionary_army.png
+ tags:
+  - generated
+
+-
+ name: MEX_politicised_army_2
+ image: idea_mex_politicised_army_2.png
+ tags:
+  - generated
+
+-
+ name: MEX_politicised_army
+ image: idea_mex_politicised_army.png
+ tags:
+  - generated
+
+-
+ name: MEX_pablo_macias
+ image: idea_mex_pablo_macias.png
+ tags:
+  - generated
+
+-
+ name: MEX_pablo_gonzalez
+ image: idea_mex_pablo_gonzalez_garza.png
+ tags:
+  - generated
+
+-
+ name: MEX_matias_santos_ramos
+ image: idea_mex_matias_santos_ramos.png
+ tags:
+  - generated
+
+-
+ name: MEX_manuel_perez_trevino
+ image: idea_mex_manuel_perez_trevino.png
+ tags:
+  - generated
+
+-
+ name: MEX_luis_montes_de_oca
+ image: idea_mex_luis_montes_de_oca.png
+ tags:
+  - generated
+
+-
+ name: MEX_jose_vasconcelos
+ image: idea_mex_jose_vasconcelos.png
+ tags:
+  - generated
+
+-
+ name: MEX_hector_meicueiro
+ image: idea_mex_hector_meicueiro.png
+ tags:
+  - generated
+
+-
+ name: MEX_gilberto_r_limon
+ image: idea_mex_gilberto_r_limon.png
+ tags:
+  - generated
+
+-
+ name: MEX_eduardo_hay
+ image: idea_mex_eduardo_hay.png
+ tags:
+  - generated
+
+-
+ name: MEX_alberto_pani
+ image: idea_mex_alberto_pani.png
+ tags:
+  - generated
+
+-
+ name: MEX_aaron_saenz
+ image: idea_mex_aaron_saenz_garza.png
+ tags:
+  - generated
+
+-
+ name: MEX_pemex
+ image: idea_mex_pemex.png
+ tags:
+  - generated
+
+-
+ name: MEX_banco_de_mexico
+ image: idea_mex_banco_de_mexico.png
+ tags:
+  - generated
+
+-
+ name: eng_special_air_service
+ image: idea_eng_special_air_service.png
+ tags:
+  - generated
+
+-
+ name: eng_chiefs_of_staff_committee
+ image: idea_eng_chiefs_of_staff_committee.png
+ tags:
+  - generated
+
+-
+ name: eng_steady_as_she_goes
+ image: idea_eng_steady_as_she_goes.png
+ tags:
+  - generated
+
+-
+ name: eng_a_change_in_course
+ image: idea_eng_a_change_in_course.png
+ tags:
+  - generated
+
+-
+ name: eng_imperial_conscription
+ image: idea_eng_imperial_conscription.png
+ tags:
+  - generated
+
+-
+ name: eng_the_sun_never_sets
+ image: idea_eng_the_sun_never_sets.png
+ tags:
+  - generated
+
+-
+ name: eng_for_the_good_of_the_revolution
+ image: idea_eng_for_the_good_of_the_revolution.png
+ tags:
+  - generated
+
+-
+ name: eng_spirit_of_the_industrial_revolution
+ image: idea_eng_spirit_of_the_industrial_revolution.png
+ tags:
+  - generated
+
+-
+ name: eng_preparing_the_second_front
+ image: idea_eng_preparing_the_second_front.png
+ tags:
+  - generated
+
+-
+ name: eng_service_overseas
+ image: idea_eng_service_overseas.png
+ tags:
+  - generated
+
+-
+ name: eng_tackle_capitalism
+ image: idea_eng_tackle_capitalism.png
+ tags:
+  - generated
+
+-
+ name: eng_the_kings_party
+ image: idea_eng_the_kings_party.png
+ tags:
+  - generated
+
+-
+ name: eng_guided_by_britain
+ image: idea_eng_guided_by_britain.png
+ tags:
+  - generated
+
+-
+ name: hol_wilhelmina
+ image: idea_hol_wilhelmina.png
+ tags:
+  - generated
+
+-
+ name: hol_aloof_neutrality
+ image: idea_hol_aloof_neutrality.png
+ tags:
+  - generated
+
+-
+ name: hol_shell_shocked_spectator
+ image: idea_hol_shell_shocked_spectator.png
+ tags:
+  - generated
+
+-
+ name: hol_the_foundations_of_defense
+ image: idea_hol_the_foundations_of_defense.png
+ tags:
+  - generated
+
+-
+ name: hol_expand_the_colonial_army
+ image: idea_hol_expand_the_colonial_army.png
+ tags:
+  - generated
+
+-
+ name: hol_liberation
+ image: idea_hol_liberation.png
+ tags:
+  - generated
+
+-
+ name: hol_prepare_the_inundation_lines
+ image: idea_hol_prepare_the_inundation_lines.png
+ tags:
+  - generated
+
+-
+ name: hol_naval_heritage
+ image: idea_hol_naval_heritage.png
+ tags:
+  - generated
+
+-
+ name: hol_gateway_to_europe
+ image: idea_hol_gateway_to_europe.png
+ tags:
+  - generated
+
+-
+ name: hol_caved_to_the_germans
+ image: idea_hol_caved_to_the_germans.png
+ tags:
+  - generated
+
+-
+ name: hol_caved_to_the_british
+ image: idea_hol_caved_to_the_british.png
+ tags:
+  - generated
+
+-
+ name: hol_haven_of_tolerance
+ image: idea_hol_haven_of_tolerance.png
+ tags:
+  - generated
+
+-
+ name: hol_oranje_boven
+ image: idea_hol_oranje_boven.png
+ tags:
+  - generated
+
+-
+ name: hol_depillarization
+ image: idea_hol_depillarization.png
+ tags:
+  - generated
+
+-
+ name: hol_de_vaarplicht
+ image: idea_hol_de_vaarplicht.png
+ tags:
+  - generated
+
+-
+ name: hol_the_fourth_ally
+ image: idea_hol_the_fourth_ally.png
+ tags:
+  - generated
+
+-
+ name: hol_lead_the_minor_democracies
+ image: idea_hol_lead_the_minor_democracies.png
+ tags:
+  - generated
+
