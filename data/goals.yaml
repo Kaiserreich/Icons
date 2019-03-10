@@ -8644,3 +8644,111 @@ goals:
  tags:
   - generated
 
+-
+ name: GFX_goal_CSA_master_west
+ image: goal_CSA_master_west.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_america_domain
+ image: america_domain.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_america_fortress
+ image: america_fortress.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_aus_fortress
+ image: aus_fortress.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_aus_handshake
+ image: aus_handshake.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_aus_destiny
+ image: aus_destiny.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Japanese_Glory
+ image: Japanese_Glory.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEC_zhang
+ image: goal_LEC_zhang.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_csa
+ image: goal_flag_csa.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_austria
+ image: goal_flag_austria.png
+ tags:
+  - generated
+
+-
+ name: GFX_FOP_Argie_Chilean_friends
+ image: FOP_Argie_Chilean_friends.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SCA_focus_airforce
+ image: SCA_focus_airforce.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SCA_focus_Divided_Armies
+ image: SCA_focus_Divided_Armies.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SCA_focus_Monarchy
+ image: SCA_focus_Monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SCA_focus_Unified_Army
+ image: SCA_focus_Unified_Army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SCA_focus_Unified_Navy
+ image: SCA_focus_Unified_Navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ideology_libsoc
+ image: goal_ideology_libsoc.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_GEO_Artillery_Tactics
+ image: goal_GEO_Artillery_Tactics.png
+ tags:
+  - generated
+

@@ -3640,3 +3640,81 @@ ideas:
  tags:
   - generated
 
+-
+ name: TEX_fighting_for_america
+ image: TEX_fighting_for_america.png
+ tags:
+  - generated
+
+-
+ name: entente_support
+ image: ACW_entente_help.png
+ tags:
+  - generated
+
+-
+ name: usa_support
+ image: ACW_usa_support.png
+ tags:
+  - generated
+
+-
+ name: psa_support
+ image: ACW_psa_support.png
+ tags:
+  - generated
+
+-
+ name: aus_support
+ image: ACW_aus_support.png
+ tags:
+  - generated
+
+-
+ name: CAN_soldiers
+ image: CAN_soldiers.png
+ tags:
+  - generated
+
+-
+ name: CAF_integration1
+ image: CAF_integration1.png
+ tags:
+  - generated
+
+-
+ name: CAF_integration2
+ image: CAF_integration2.png
+ tags:
+  - generated
+
+-
+ name: CAF_integration3
+ image: CAF_integration3.png
+ tags:
+  - generated
+
+-
+ name: CAF_integration4
+ image: CAF_integration4.png
+ tags:
+  - generated
+
+-
+ name: CAF_federal_institute
+ image: CAF_federal_institute.png
+ tags:
+  - generated
+
+-
+ name: CAF_english_heritage
+ image: CAF_english_heritage.png
+ tags:
+  - generated
+
+-
+ name: CAF_cayenne
+ image: CAF_cayenne.png
+ tags:
+  - generated
+
