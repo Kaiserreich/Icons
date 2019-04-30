@@ -9394,3 +9394,1011 @@ goals:
  tags:
   - generated
 
+-
+ name: GFX_focus_russian_cooperation
+ image: focus_russian_cooperation.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_air_defense2
+ image: focus_generic_air_defense2.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_bastion_of_democracy
+ image: focus_generic_bastion_of_democracy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_foreign_investments
+ image: goal_generic_foreign_investments.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_SAF_colonialist_crusade2
+ image: focus_SAF_colonialist_crusade2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_join_faction
+ image: goal_generic_join_faction.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_armored_cars
+ image: goal_generic_armored_cars.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_construct_public_housing
+ image: goal_generic_construct_public_housing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_war_in_the_plate
+ image: goal_generic_war_in_the_plate.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_eagle
+ image: focus_generic_eagle.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_navy_battleship3
+ image: focus_generic_navy_battleship3.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_navy_battleship3alt
+ image: focus_generic_navy_battleship3alt.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_oppression
+ image: focus_generic_oppression.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_generic_tank_destroyer
+ image: focus_generic_tank_destroyer.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_army_tanks2
+ image: goal_generic_army_tanks2.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_generic_army_tanks3
+ image: goal_generic_army_tanks3.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_centralization
+ image: goal_ANQ_centralization.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_institutional_chaos
+ image: goal_ANQ_institutional_chaos.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_rural_outreach
+ image: goal_ANQ_rural_outreach.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_invite_governors
+ image: goal_ANQ_invite_governors.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_relocate_nanjing
+ image: goal_ANQ_relocate_nanjing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_relocate_nanjing_proqing
+ image: goal_ANQ_relocate_nanjing_proqing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_use_anticoncessionists
+ image: goal_ANQ_use_anticoncessionists.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_smother_anticoncessionists
+ image: goal_ANQ_smother_anticoncessionists.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_patriotic_protests
+ image: goal_ANQ_patriotic_protests.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_patriotic_contributions
+ image: goal_ANQ_patriotic_contributions.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_convince_intellectuals
+ image: goal_ANQ_convince_intellectuals.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_panasian
+ image: goal_ANQ_panasian.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_court_vermilion_society
+ image: goal_ANQ_court_vermilion_society.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_northern_school
+ image: goal_ANQ_northern_school.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_southern_school
+ image: goal_ANQ_southern_school.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_stand_with_fengtian
+ image: goal_ANQ_stand_with_fengtian.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_stand_with_qing
+ image: goal_ANQ_stand_with_qing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_fengtian_loyalty
+ image: goal_ANQ_fengtian_loyalty.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_qing_loyalty
+ image: goal_ANQ_qing_loyalty.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_five_stars_five_provinces
+ image: goal_ANQ_five_stars_five_provinces.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_end_century_humiliation
+ image: goal_ANQ_end_century_humiliation.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_nationalist_credibility
+ image: goal_ANQ_nationalist_credibility.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_ANQ_promote_nationalist_thought
+ image: goal_ANQ_promote_nationalist_thought.png
+ tags:
+  - generated
+
+-
+ name: GFX_GAL_goal_heal_nation
+ image: GAL_goal_heal_nation.png
+ tags:
+  - generated
+
+-
+ name: GFX_GAL_goal_divide_nation
+ image: GAL_goal_divide_nation.png
+ tags:
+  - generated
+
+-
+ name: GFX_GAL_goal_COP
+ image: GAL_goal_COP.png
+ tags:
+  - generated
+
+-
+ name: GFX_GAL_goal_COP_improvement
+ image: GAL_goal_COP_improvement.png
+ tags:
+  - generated
+
+-
+ name: GFX_focus_ger_heavy_tanks
+ image: focus_ger_heavy_tanks.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_The_Buddhist_General
+ image: goal_HNN_The_Buddhist_General.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_Ai_You
+ image: goal_HNN_Ai_You.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_Hunt_Tang_Shengzhi
+ image: goal_HNN_Hunt_Tang_Shengzhi.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_Huang_Shihengs_Education_Program
+ image: goal_HNN_Huang_Shihengs_Education_Program.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_General_Hes_Plan
+ image: goal_HNN_General_Hes_Plan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_The_Xiang_Identity
+ image: goal_HNN_The_Xiang_Identity.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_HNN_Zun_Lao
+ image: goal_HNN_Zun_Lao.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_qi_rules_nanjing
+ image: goal_LEP_qi_rules_nanjing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_against_yiguandao
+ image: goal_LEP_against_yiguandao.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_anhui
+ image: goal_LEP_anhui.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_fujian
+ image: goal_LEP_fujian.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_jiangsu
+ image: goal_LEP_jiangsu.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_jiangxi
+ image: goal_LEP_jiangxi.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_kmt_encirclement
+ image: goal_LEP_kmt_encirclement.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_lec_investments
+ image: goal_LEP_lec_investments.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_schantung_eisenbahn
+ image: goal_LEP_schantung_eisenbahn.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_zhejiang
+ image: goal_LEP_zhejiang.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_repression
+ image: goal_LEP_repression.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_coercion
+ image: goal_LEP_coercion.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_governor_question
+ image: goal_LEP_governor_question.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_krupp_industial
+ image: goal_LEP_krupp_industial.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_selective_enforcement
+ image: goal_LEP_selective_enforcement.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_jiangzhe_bank
+ image: goal_LEP_jiangzhe_bank.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_deutschasiatische
+ image: goal_LEP_deutschasiatische.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_commissioner_qi
+ image: goal_LEP_commissioner_qi.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_marshal_qi
+ image: goal_LEP_marshal_qi.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_personality_cult
+ image: goal_LEP_personality_cult.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_patronize_xiangshen
+ image: goal_LEP_patronize_xiangshen.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_tea_trade
+ image: goal_LEP_tea_trade.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_subsidize_villages
+ image: goal_LEP_subsidize_villages.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_officer_initiative
+ image: goal_LEP_officer_initiative.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_northern_school
+ image: goal_LEP_northern_school.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_southern_school
+ image: goal_LEP_southern_school.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_fallen_flags
+ image: goal_LEP_fallen_flags.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_LEP_subsidize_villages
+ image: goal_LEP_subsidize_villages.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MON_Mongol_Identity
+ image: goal_MON_Mongol_Identity.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MON_Statue_of_the_Khan
+ image: goal_MON_Statue_of_the_Khan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MON_baron_of_the_steppes
+ image: goal_MON_baron_of_the_steppes.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MON_we_dont_need_russia
+ image: goal_MON_we_dont_need_russia.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MON_Buddhist_Brotherhood
+ image: goal_MON_Buddhist_Brotherhood.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_MON_The_Popular_Prince
+ image: goal_MON_The_Popular_Prince.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_focus_chain_army
+ image: focus_chain_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_focuscoq
+ image: focuscoq.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_focusimperialfrance7
+ image: focusimperialfrance7.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_focusrepublicanfrance
+ image: focusrepublicanfrance.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_keepingfrancetogetherbis
+ image: keepingfrancetogetherbis.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Liberty
+ image: Liberty.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_Yellow_Union
+ image: Yellow_Union.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_France_Monarchy
+ image: France_Monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Abolish_Mecelle
+ image: OTT_Abolish_Mecelle.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Muslim_Relations
+ image: OTT_Muslim_Relations.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Muslim_Solidarity
+ image: OTT_Muslim_Solidarity.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Balkan_Pact
+ image: OTT_Balkan_Pact.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Railroad
+ image: OTT_Railroad.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Pipeline
+ image: OTT_Pipeline.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Land_Reform
+ image: OTT_Land_Reform.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Tithe
+ image: OTT_Tithe.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Years_of_Progress
+ image: OTT_Years_of_Progress.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Loosen_Policy
+ image: OTT_Loosen_Policy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_army_command
+ image: OTT_army_command.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_air_command
+ image: OTT_air_command.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_navy
+ image: OTT_navy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_agean_sea
+ image: OTT_agean_sea.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_black_sea
+ image: OTT_black_sea.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_persian_gulf
+ image: OTT_persian_gulf.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_OTT_Population_Exchange
+ image: OTT_Population_Exchange.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_rat
+ image: goal_QIE_rat.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_manchu_symbol
+ image: goal_QIE_manchu_symbol.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_ycp
+ image: goal_QIE_ycp.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_ncera
+ image: goal_QIE_ncera.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_zhili
+ image: goal_QIE_zhili.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_president_hu
+ image: goal_QIE_president_hu.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_president_koo
+ image: goal_QIE_president_koo.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_puyi_restored
+ image: goal_QIE_puyi_restored.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_purge_manchu
+ image: goal_QIE_purge_manchu.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_purge_YCP
+ image: goal_QIE_purge_YCP.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_purge_zhili
+ image: goal_QIE_purge_zhili.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_coin
+ image: goal_QIE_coin.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_confucianism
+ image: goal_QIE_confucianism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_destroy_lec
+ image: goal_QIE_destroy_lec.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_glory
+ image: goal_QIE_glory.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_kang_youwei
+ image: goal_QIE_kang_youwei.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_manchu_unite_china
+ image: goal_QIE_manchu_unite_china.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_modernize_monarchy
+ image: goal_QIE_modernize_monarchy.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_zhili_unite_china
+ image: goal_QIE_zhili_unite_china.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_baoding
+ image: goal_QIE_baoding.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_jiang_plan
+ image: goal_QIE_jiang_plan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_liu_plan
+ image: goal_QIE_liu_plan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_feng_yuxiang
+ image: goal_china_feng_yuxiang.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_song_zheyuan
+ image: goal_china_song_zheyuan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_yan_xishan
+ image: goal_china_yan_xishan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_zhang_tianran
+ image: goal_china_zhang_tianran.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_yiguandao
+ image: goal_china_yiguandao.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_forbiddenpalace
+ image: goal_QIE_forbiddenpalace.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_gongxian_arsenal
+ image: goal_QIE_gongxian_arsenal.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_QIE_hail_to_the_qing
+ image: goal_QIE_hail_to_qing.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_SHX_Christian_Influence
+ image: goal_SHX_Christian_Influence.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_federalism
+ image: goal_china_federalism.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_federalist_deal
+ image: goal_china_federalist_deal.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_negotiations
+ image: goal_china_negotiations.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_china_federalist_army
+ image: goal_china_federalist_army.png
+ tags:
+  - generated
+
+-
+ name: GFX_YUN_tang_dynasty
+ image: YUN_tang_dynasty.png
+ tags:
+  - generated
+
+-
+ name: GFX_YUN_goal_attack_Sichuan
+ image: YUN_goal_attack_Sichuan.png
+ tags:
+  - generated
+
+-
+ name: GFX_YUN_goal_attack_hunnan
+ image: YUN_goal_attack_hunnan.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Exploit_Burma
+ image: YUN_GFX_Goal_Exploit_Burma.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Conquer_IndoChina
+ image: YUN_GFX_Goal_Conquer_IndoChina.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Secure_Tibet
+ image: YUN_GFX_Goal_Secure_Tibet.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_The_Siamese_Threat
+ image: YUN_GFX_Goal_The_Siamese_Threat.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_LONG_YUN_NOMBA_ONE
+ image: YUN_GFX_LONG_YUN_NOMBA_ONE.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_The_Federalist_Project
+ image: YUN_GFX_The_Federalist_Project.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Dian_Identity
+ image: YUN_GFX_Goal_Dian_Identity.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Deal_with_the_Left_KMT
+ image: YUN_Deal_with_the_Left_KMT.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_FuDian_Bank_Reorganization
+ image: YUN_FuDian_Bank_Reorganization.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Secure_Coastal_China
+ image: YUN_Secure_Coastal_China.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Secure_Northern_China
+ image: YUN_Secure_Northern_China.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Secure_Southern_China
+ image: YUN_Secure_Southern_China.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Secure_Western_China
+ image: YUN_Secure_Western_China.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_A_New_China
+ image: YUN_A_New_China.png
+ tags:
+  - generated
+
+-
+ name: YUN_GFX_Goal_Bamboo_King_Society
+ image: YUN_Bamboo_King_Society.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_attack_ma_clique
+ image: goal_attack_ma_clique.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_TAN_hoja_niyaz
+ image: goal_TAN_hoja_niyaz.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_TAN_fan_yaonan
+ image: goal_TAN_fan_yaonan.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_TAN_ma_zhongying
+ image: goal_TAN_ma_zhongying.png
+ tags:
+  - generated
+
+-
+ name: GFX_goal_rolling_the_dice
+ image: goal_rolling_the_dice.png
+ tags:
+  - generated
+
