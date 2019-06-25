@@ -1337,6 +1337,12 @@ goals:
   - KR
   - china
   - star
+-
+ name: GFX_goal_afghanistan
+ image: goal_flag_afghanistan.png
+ tags:
+  - generated
+  - flag
 
 -
  name: GFX_goal_alash_orda
@@ -1344,6 +1350,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
+  - flag
+
+-
+ name: GFX_goal_flag_armenia
+ image: goal_flag_armenia.png
+ tags:
+  - generated
   - flag
 
 -
@@ -1475,7 +1488,14 @@ goals:
   - flag
 
 -
- name: GFX_goal_finland
+ name: GFX_goal_epirus
+ image: goal_flag_epirus.png
+ tags:
+  - generated
+  - flag
+
+-
+ name: GFX_goal_flag_finland
  image: goal_flag_finland.png
  tags:
   - Kaiserreich
@@ -1512,6 +1532,12 @@ goals:
  tags:
   - Kaiserreich
   - KR
+  - flag
+-
+ name: GFX_goal_greece
+ image: goal_flag_greece.png
+ tags:
+  - generated
   - flag
 
 -
@@ -1633,6 +1659,20 @@ goals:
   - Kaiserreich
   - KR
   - flag
+  
+-
+ name: GFX_goal_nigeria
+ image: goal_flag_nigeria.png
+ tags:
+  - generated
+  - flag
+
+-
+ name: GFX_goal_ottoman
+ image: goal_flag_ottoman.png
+ tags:
+  - generated
+  - flag
 
 -
  name: GFX_goal_panama
@@ -1648,6 +1688,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
+  - flag
+
+-
+ name: GFX_goal_patagonia
+ image: goal_flag_patagonia.png
+ tags:
+  - generated
   - flag
 
 -
@@ -1672,6 +1719,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
+  - flag
+
+-
+ name: GFX_goal_flag_phillipines
+ image: goal_flag_phillipines.png
+ tags:
+  - generated
   - flag
 
 -
@@ -1739,6 +1793,13 @@ goals:
   - flag
 
 -
+ name: GFX_SOM_focus
+ image: SOM_focus.png
+ tags:
+  - generated
+  - flag
+
+-
  name: GFX_goal_soviet
  image: goal_flag_soviet.png
  tags:
@@ -1779,7 +1840,7 @@ goals:
   - flag
 
 -
- name: GFX_goal_ukraine_alternate
+ name: GFX_goal_flag_ukraine_alternate
  image: goal_flag_ukraine_alternate.png
  tags:
   - Kaiserreich
@@ -3621,6 +3682,9 @@ goals:
  image: america_goal_freedom_fighters.png
  tags:
   - generated
+  - USA
+  - plane
+  - air force
 
 -
  name: GFX_goal_USA_ursine_spirit
@@ -3645,18 +3709,22 @@ goals:
  image: america_goal_eagle.png
  tags:
   - generated
+  - USA
 
 -
  name: GFX_goal_USA_police_state
  image: america_goal_police_state.png
  tags:
   - generated
+  - USA
 
 -
  name: GFX_goal_USA_macarthur_military
  image: america_goal_marcarthur_military.png
  tags:
   - generated
+  - person
+  - USA
 
 -
  name: GFX_tsunami2
@@ -3687,6 +3755,10 @@ goals:
  image: National_Security_Act.png
  tags:
   - generated
+  - paper
+  - handcuffs
+  - government
+  - law
 
 -
  name: GFX_goal_Korea_Colony
@@ -3761,52 +3833,40 @@ goals:
   - generated
 
 -
- name: GFX_goal_epirus
- image: goal_flag_epirus.png
- tags:
-  - generated
-
--
- name: GFX_goal_greece
- image: goal_flag_greece.png
- tags:
-  - generated
-
--
- name: GFX_goal_ottoman
- image: goal_flag_ottoman.png
- tags:
-  - generated
-
--
- name: GFX_goal_afghanistan
- image: goal_flag_afghanistan.png
- tags:
-  - generated
-
--
  name: GFX_goal_forced_mil
  image: goal_forced_mil.png
  tags:
   - generated
+  - skull
+  - oppression
 
 -
  name: GFX_goal_forced_res
  image: goal_forced_res.png
  tags:
   - generated
+  - skull
+  - construction
+  - oppression
+  - shovels
 
 -
  name: GFX_goal_forced_con
  image: goal_forced_con.png
  tags:
   - generated
+  - skull
+  - oppression
+  - construction
 
 -
  name: GFX_goal_forced_inf
  image: goal_forced_inf.png
  tags:
   - generated
+  - skull
+  - oppression
+  - infrastructure
 
 -
  name: GFX_BAT_germanisation
@@ -3819,6 +3879,8 @@ goals:
  image: NIC_Cows.png
  tags:
   - generated
+  - cows
+  - agriculture
 
 -
  name: GFX_focus_HOL_deal_with_left
@@ -3831,6 +3893,7 @@ goals:
  image: focus_HOL_monarchy.png
  tags:
   - generated
+  - monarchy
 
 -
  name: GFX_HOL_crackdown_natpop
@@ -3939,18 +4002,16 @@ goals:
  image: goal_tax_church.png
  tags:
   - generated
+  - orthodox
+  - religion
 
 -
  name: GFX_goal_tax_slave
  image: goal_tax_slave.png
  tags:
   - generated
-
--
- name: GFX_SOM_focus
- image: SOM_focus.png
- tags:
-  - generated
+  - slavery
+  - oppression
 
 -
  name: GFX_goal_SIAM_AIRCORPS
@@ -4071,6 +4132,8 @@ goals:
  image: goal_EGY_coptic.png
  tags:
   - generated
+  - religion
+  - Coptic
 
 -
  name: GFX_goal_EGY_cotton
@@ -4371,12 +4434,16 @@ goals:
  image: goal_Cotton.png
  tags:
   - generated
+  - cotton
+  - agriculture
 
 -
  name: GFX_goal_dam
  image: goal_dam.png
  tags:
   - generated
+  - dam
+  - infrastructure
 
 -
  name: GFX_goal_Paris
@@ -4447,36 +4514,6 @@ goals:
 -
  name: GFX_goal_RUS_President_Kerensky
  image: RUS_President_Kerensky.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_alash_orda
- image: goal_flag_alash_orda.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_armenia
- image: goal_flag_armenia.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_azerbaijan
- image: goal_flag_azerbaijan.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_finland
- image: goal_flag_finland.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_ukraine_alternate
- image: goal_flag_ukraine_alternate.png
  tags:
   - generated
 
@@ -4575,6 +4612,9 @@ goals:
  image: LEC_Cigarettes.png
  tags:
   - generated
+  - cigarettes
+  - tobacco
+ 
 
 -
  name: GFX_LEC_Illegitimate_Economy
@@ -4587,12 +4627,14 @@ goals:
  image: LEC_Passports.png
  tags:
   - generated
+  - passport
 
 -
  name: GFX_LEC_Passports2
  image: LEC_Passports2.png
  tags:
   - generated
+  - passport
 
 -
  name: GFX_LEC_Red_Pole
@@ -4617,6 +4659,7 @@ goals:
  image: goal_LIB_whiter_pale.png
  tags:
   - generated
+  - handshake
 
 -
  name: GFX_goal_LIB_true_whig
@@ -4871,18 +4914,6 @@ goals:
   - generated
 
 -
- name: GFX_goal_nigeria
- image: goal_flag_nigeria.png
- tags:
-  - generated
-
--
- name: GFX_goal_patagonia
- image: goal_flag_patagonia.png
- tags:
-  - generated
-
--
  name: GFX_goal_greater_romania
  image: greater_romania.png
  tags:
@@ -4929,12 +4960,19 @@ goals:
  image: goal_AST_freedom_of_the_press.png
  tags:
   - generated
+  - news
+  - press
+  - media
+  - freedom
+  - law
 
 -
  name: GFX_goal_AST_scrap_reserves
  image: goal_AST_scrap_reserves.png
  tags:
   - generated
+  - navy
+  - ship
 
 -
  name: GFX_goal_AST_state_of_army
@@ -4959,6 +4997,8 @@ goals:
  image: goal_AST_upgrade_reserves.png
  tags:
   - generated
+  - navy
+  - ship
 
 -
  name: GFX_goal_AST_syndicalist
@@ -4971,6 +5011,9 @@ goals:
  image: goal_AST_monarch_officers.png
  tags:
   - generated
+  - officer
+  - army
+  - Britain
 
 -
  name: GFX_goal_AST_empower_actu
@@ -4983,36 +5026,47 @@ goals:
  image: goal_AST_trade_commonwealth.png
  tags:
   - generated
+  - trade
 
 -
  name: GFX_goal_AST_new_markets
  image: goal_AST_new_markets.png
  tags:
   - generated
+  - trade
+  - economic
+  - world
+  - globe
 
 -
  name: GFX_goal_AST_skip_plebiscite
  image: goal_AST_skip_plebiscite.png
  tags:
   - generated
+  - election
 
 -
  name: GFX_goal_CAN_isac
  image: goal_CAN_isac.png
  tags:
   - generated
+  - Canada
 
 -
  name: GFX_goal_computer_focus
  image: goal_computer_focus.png
  tags:
   - generated
+  - electronics
+  - computer
 
 -
  name: GFX_goal_oil_derrick
  image: goal_oil_derrick.png
  tags:
   - generated
+  - oil
+  - resources
 
 -
  name: GFX_goal_NAM_statthalter
@@ -5183,12 +5237,6 @@ goals:
   - generated
 
 -
- name: GFX_goal_flag_phillipines
- image: goal_flag_phillipines.png
- tags:
-  - generated
-
--
  name: GFX_goal_PER_Claim_Georgia
  image: PER_Claim_Georgia.png
  tags:
@@ -5223,6 +5271,8 @@ goals:
  image: goal_agriculture2.png
  tags:
   - generated
+  - agriculture
+  - plant
 
 -
  name: GFX_goal_action_francaise
@@ -5241,18 +5291,28 @@ goals:
  image: goal_bombs_away.png
  tags:
   - generated
+  - bomb
+  - military
+  - air force
 
 -
  name: GFX_goal_anti_air
  image: goal_anti_air.png
  tags:
   - generated
+  - military
+  - army
+  - antiair
 
 -
  name: GFX_goal_anti_tank
  image: goal_anti_tank.png
  tags:
   - generated
+  - military
+  - army
+  - antitank
+  - tank
 
 -
  name: GFX_goal_aog_cloth
@@ -5265,12 +5325,17 @@ goals:
  image: goal_backstab.png
  tags:
   - generated
+  - knife
+  - backstab
+  - stab
 
 -
  name: GFX_goal_battleship
  image: goal_battleship.png
  tags:
   - generated
+  - ship
+  - navy
 
 -
  name: GFX_goal_balkan_fist
@@ -5283,12 +5348,16 @@ goals:
  image: goal_artillery.png
  tags:
   - generated
+  - artillery
+  - army
 
 -
  name: GFX_goal_bluewater_navy
  image: goal_bluewater_navy.png
  tags:
   - generated
+  - navy
+  - ship
 
 -
  name: GFX_goal_aog_helmet
@@ -5361,6 +5430,9 @@ goals:
  image: goal_cavalry.png
  tags:
   - generated
+  - army
+  - military
+  - cavalry
 
 -
  name: GFX_goal_burning_globe
@@ -5373,12 +5445,15 @@ goals:
  image: goal_bull.png
  tags:
   - generated
+  - bull
+  - animal
 
 -
  name: GFX_goal_card_tricks
  image: goal_card_tricks.png
  tags:
   - generated
+  - cards
 
 -
  name: GFX_goal_capitalist_system
