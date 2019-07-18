@@ -667,14 +667,12 @@ goals:
   - vanilla
   - democracy
 
-
 -
  name: GFX_goal_generic_allies_build_infantry
  image: goal_generic_allies_build_infantry.png
  tags:
   - vanilla
   - infantry
-
 
 -
  name: GFX_goal_generic_build_tank
@@ -683,14 +681,12 @@ goals:
   - vanilla
   - shield
 
-
 -
  name: GFX_goal_generic_build_airforce
  image: goal_generic_build_airforce.png
  tags:
   - vanilla
   - air
-
 
 -
  name: GFX_goal_generic_axis_build_infantry
@@ -700,14 +696,12 @@ goals:
   - infantry
   - germany
 
-
 -
  name: GFX_goal_generic_build_navy
  image: goal_generic_build_nay.png
  tags:
   - vanilla
   - navy
-
 
 -
  name: GFX_goal_generic_improve_relations
@@ -717,7 +711,6 @@ goals:
   - shield
   - shaking hands
 
-
 -
  name: GFX_goal_generic_political_pressure
  image: goal_generic_political_pressure.png
@@ -725,14 +718,12 @@ goals:
   - vanilla
   - fist
 
-
 -
  name: GFX_goal_generic_demand_territory
  image: goal_generic_demand_territory.png
  tags:
   - vanilla
   - fist
-
 
 -
  name: GFX_goal_generic_occupy_start_war
@@ -742,7 +733,6 @@ goals:
   - shield
   - bomb
 
-
 -
  name: GFX_goal_generic_occupy_states_coastal
  image: goal_generic_occypy_states_coastal.png
@@ -751,7 +741,6 @@ goals:
   - shield
   - navy
 
-
 -
  name: GFX_goal_generic_occupy_states_ongoing_war
  image: goal_generic_occypy_states_ongoing_war.png
@@ -759,13 +748,11 @@ goals:
   - vanilla
   - sword
 
-
 -
  name: GFX_goal_generic_position_armies
  image: goal_generic_position_armies.png
  tags:
   - vanilla
-
 
 -
  name: GFX_goal_generic_construct_military
@@ -774,7 +761,6 @@ goals:
   - vanilla
   - fort
   - defense
-
 
 -
  name: GFX_goal_generic_construct_civilian
@@ -785,7 +771,6 @@ goals:
   - production
   - factory
 
-
 -
  name: GFX_goal_fortify_the_westwall
  image: goal_generic_construct_military.png
@@ -793,7 +778,6 @@ goals:
   - vanilla
   - fort
   - defense
-
 
 -
  name: GFX_goal_reichsautobahn
@@ -803,14 +787,12 @@ goals:
   - construction
   - production
 
-
 -
  name: GFX_goal_panzerwaffe
  image: goal_generic_build_tank.png
  tags:
   - vanilla
   - shield
-
 
 -
  name: GFX_goal_expand_the_luftwaffe
@@ -819,7 +801,6 @@ goals:
   - vanilla
   - air
 
-
 -
  name: GFX_goal_molotov_ribbentrop_pact
  image: goal_molotov_ribbentrop_pact.png
@@ -827,20 +808,17 @@ goals:
   - vanilla
   - shaking hands
 
-
 -
  name: GFX_goal_anschluss
  image: goal_anschluss.png
  tags:
   - vanilla
 
-
 -
  name: GFX_goal_rhineland
  image: goal_generic_position_armies.png
  tags:
   - vanilla
-
 
 -
  name: GFX_goal_poland_goal
@@ -849,14 +827,12 @@ goals:
   - vanilla
   - bomb
 
-
 -
  name: GFX_goal_demand_sudetenland
  image: goal_demand_sudetenland.png
  tags:
   - vanilla
   - fist
-
 
 -
  name: GFX_goal_tripartite_pact
@@ -865,13 +841,11 @@ goals:
   - vanilla
   - shaking hands
 
-
 -
  name: GFX_goal_anti_comintern_pact
  image: goal_anti_comintern_pact.png
  tags:
   - vanilla
-
 
 -
  name: GFX_goal_tfv_sever_ties_with_uk
@@ -1715,7 +1689,7 @@ goals:
   - KR
   - HOL
   - flag
-  
+
 -
  name: GFX_goal_nigeria
  image: goal_flag_nigeria.png
@@ -1973,7 +1947,6 @@ goals:
   - KR
   - VEN
   - flag
-
 
 -
  name: GFX_goal_commune_politics
@@ -3226,7 +3199,6 @@ goals:
   - wtt
   - communism
   - CHI
-  
 
 -
  name: GFX_focus_chi_cooperation_with_the_nationalists
@@ -3669,8 +3641,8 @@ goals:
   - vanilla
   - wtt
   - research
- 
-- 
+
+-
  name: GFX_goal_USA_american_industry
  image: america_goal_american_industry.png
  tags:
@@ -3678,8 +3650,8 @@ goals:
   - america
   - industry
   - eagle
-  
-- 
+
+-
  name: GFX_america_goal_eagle_deal
  image: america_goal_eagle_deal.png
  tags:
@@ -3687,56 +3659,56 @@ goals:
   - america
   - eagle
 
-- 
+-
  name: GFX_focus_AUS_agriculture
  image: AUS_agriculture.png
  tags:
   - agriculture
   - farming
-  
-- 
+
+-
  name: Co_Prosperity_Sphere
  image: Co_Prosperity_Sphere.png
  tags:
   - japan
   - Co-Prosperity Sphere
 
-- 
+-
  name: GFX_goal_COS_American_Staff
  image: COS_American_Staff.png
  tags:
   - USA
   - america
   - military
-  
-- 
+
+-
  name: GFX_goal_COS_Ferrer_Coup
  image: COS_Ferrer_Coup.png
  tags:
   - democracy
-  
-- 
+
+-
  name: GFX_goal_COS_German_Bailout
  image: COS_German_Bailout.png
  tags:
   - GER
   - treaty  
-  
-- 
+
+-
  name: GFX_DAH_Topke
  image: DAH_Topke.png
  tags:
   - economy
   - Treaty    
-   
-- 
+
+-
  name: GFX_goal_DEI_focus_disband_volksraad
  image: DEI_focus_disband_volksraad.png
  tags:
   - political
   - force
 
-- 
+-
  name: GFX_goal_DOM_Call_Special_Election
  image: DOM_Call_Special_Election.png
  tags:
@@ -3744,79 +3716,79 @@ goals:
   - election
   - democracy
 
-- 
+-
  name: GFX_goal_DOM_End_Judicial_Corruption
  image: DOM_End_Judicial_Corruption.png
  tags:
   - political
   - democracy  
-  
-- 
+
+-
  name: GFX_goal_DOM_The_Trial
  image: DOM_The_Trial.png
  tags:
   - political
   - democracy   
-  
-- 
+
+-
  name: GFX_focus_empty_coffers
  image: empty_coffers.png
  tags:
   - economy
   - BM
-     
-- 
+
+-
  name: GFX_goal_Fix_Shitty_Rails
  image: Fix_Shitty_Rails.png
  tags:
   - infrastructure
   - industry
-   
-- 
+
+-
  name: GFX_BEL_Confederalism
  image: focus_BEL_Confederalism.png
  tags:
   - political
   - church
   - catholic
-  
-- 
+
+-
  name: GFX_BEL_Federalism
  image: focus_BEL_Federalism.png
  tags:
   - political
   - church
   - catholic
-   
-- 
+
+-
  name: GFX_BEL_Improve_Catholic_Relations
  image: focus_BEL_Improve_Catholic_Relations.png
  tags:
   - political
   - church
   - catholic
- 
-- 
+
+-
  name: GFX_focus_HOL_deal_with_right
  image: focus_HOL_deal_with_right.png
  tags:
   - political
   - national populist
-  
-- 
+
+-
  name: GFX_GEA_status_of_admirality
  image: GEA_status_of_the_Admirality.png
  tags:
   - navy
-   
-- 
+
+-
  name: GFX_goal_no_compromises
  image: GER_no_compromises.png
  tags:
   - germany
   - military
   - africa
-     
+
 -
  name: GFX_goal_napoleonic_state
  image: Ubico_gang.png
@@ -3825,7 +3797,6 @@ goals:
   - KR
   - flag
   - NFA
-  
 
 -
  name: GFX_goal_kill_syndies
@@ -5208,7 +5179,6 @@ goals:
   - KR
   - cigarettes
   - tobacco
- 
 
 -
  name: GFX_LEC_Illegitimate_Economy
@@ -6268,7 +6238,6 @@ goals:
   - BUL
   - flag
   - crown
-  
 
 -
  name: GFX_goal_china_split_helmet
@@ -6542,7 +6511,6 @@ goals:
   - government
   - religion
   - islam
-  
 
 -
  name: GFX_goal_aog_money
@@ -13614,7 +13582,7 @@ goals:
  tags:
   - Kaiserreich
   - austria
-  
+
 -
  name: GFX_goal_AUS_CS
  image: AUS_CS.png
@@ -13628,14 +13596,14 @@ goals:
  tags:
   - Kaiserreich
   - austria 
-  
+
 -
  name: GFX_goal_AUS_Karl_monogramm
  image: AUS_Karl_monogramm.png
  tags:
   - Kaiserreich
   - austria 
- 
+
 -
  name: GFX_goal_AUS_modern_army
  image: AUS_modern_army.png
@@ -13644,21 +13612,21 @@ goals:
   - austria
   - military
   - army
-  
+
 -
  name: GFX_goal_AUS_SDAP
  image: AUS_SDAP.png
  tags:
   - Kaiserreich
   - austria
-  
+
 -
  name: GFX_goal_AUS_Wien
  image: AUS_Wien.png
  tags:
   - Kaiserreich
   - austria
-  
+
 -
  name: GFX_goal_BEL_Battleship_Investements
  image: BEL_Battleship_Investements.png
@@ -13667,7 +13635,7 @@ goals:
   - belgium
   - naval
   - ship
-  
+
 -
  name: GFX_goal_socialist_infrastructure
  image: BEL_socialist_infrastructure2.png
@@ -13677,7 +13645,7 @@ goals:
   - socialist
   - syndicalist
   - infrastructure
-  
+
 -
  name: GFX_goal_DEN_focus_bohr
  image: DEN_focus_bohr.png
@@ -13685,21 +13653,21 @@ goals:
   - Kaiserreich
   - denmark
   - people
-  
+
 -
  name: GFX_goal_DEN_focus_flyvevabnet
  image: DEN_focus_flyvevabnet.png
  tags:
   - Kaiserreich
   - denmark
-  
+
 -
  name: GFX_goal_DEN_focus_jaegerkorpset
  image: DEN_focus_jaegerkorpset.png
  tags:
   - Kaiserreich
   - denmark
-  
+
 -
  name: GFX_goal_doctrine_tank_warfare
  image: doctrine_tank_warfare.png
@@ -13707,7 +13675,7 @@ goals:
   - Kaiserreich
   - tank
   - doctrine
-  
+
 -
  name: GFX_goal_ELS_Basic_Fighter_Development
  image: ELS_Basic_Fighter_Development.png
@@ -13715,13 +13683,13 @@ goals:
   - Kaiserreich
   - air force
   - fighter
-  
+
 -
  name: GFX_goal_ELS_Patria_Lealtad_Valor
  image: ELS_Patria_Lealtad_Valor.png
  tags:
   - Kaiserreich
-  
+
 -
  name: GFX_goal_ELS_Plane_Lease
  image: ELS_Plane_Lease.png
@@ -13729,55 +13697,55 @@ goals:
   - Kaiserreich
   - air force
   - plane
-  
+
 -
  name: GFX_goal_ELS_Power_to_One
  image: ELS_Power_to_One.png
  tags:
   - Kaiserreich
   - person
-  
+
 -
  name: GFX_goal_ELS_Presidential_Restoration_1
  image: ELS_Presidential_Restoration_1.png
  tags:
   - Kaiserreich
   - political
-  
+
 -
  name: GFX_goal_ELS_Presidential_Restoration_2
  image: ELS_Presidential_Restoration_2.png
  tags:
   - Kaiserreich
   - political
-  
+
 -
  name: GFX_goal_ELS_Promote_the_CCGB_School
  image: ELS_Promote_the_CCGB_School.png
  tags:
   - Kaiserreich
-  
+
 -
  name: GFX_goal_FIN_Democracy
  image: FIN_Democracy.png
  tags:
   - Kaiserreich
   - Finland
-  
+
 -
  name: GFX_goal_FIN_Kingdom
  image: FIN_Kingdom.png
  tags:
   - Kaiserreich
   - Finland
-  
+
 -
  name: GFX_goal_FIN_Lapua_Movement
  image: FIN_Lapua_Movement.png
  tags:
   - Kaiserreich
   - Finland
-  
+
 -
  name: GFX_goal_FIN_Mannerheim
  image: FIN_Mannerheim.png
@@ -13785,7 +13753,7 @@ goals:
   - Kaiserreich
   - Finland
   - person
-  
+
 -
  name: GFX_goal_FIN_Socialism
  image: FIN_Socialism.png
@@ -13798,21 +13766,21 @@ goals:
  image: FLN_Dismantle_French_Education.png
  tags:
   - Kaiserreich
-  
+
 -
  name: GFX_goal_refugee_management
  image: focus_refugee_management.png
  tags:
   - Kaiserreich
   - refugee
-  
+
 -
  name: GFX_ARG_Consolidate_Mendoza
  image: GFX_ARG_Consolidate_Mendoza.png
  tags:
   - Kaiserreich
   - Argentina
-  
+
 -
  name: GFX_ARG_Consolidate_the_GBA_Capital_Region
  image: GFX_ARG_Consolidate_the_GBA_Capital_Region.png
@@ -13820,7 +13788,7 @@ goals:
   - Kaiserreich
   - Argentina
   - flag
-  
+
 -
  name: GFX_ARG_Fall_of_Tucuman
  image: GFX_ARG_Fall_of_Tucuman.png
@@ -13828,7 +13796,7 @@ goals:
   - Kaiserreich
   - Argentina
   - flag
-  
+
 -
  name: GFX_ARG_March_on_Cordoba
  image: GFX_ARG_March_on_Cordoba.png
@@ -13836,7 +13804,7 @@ goals:
   - Kaiserreich
   - Argentina
   - flag
-  
+
 -
  name: GFX_ARG_Retake_Santiago_and_Salta
  image: GFX_ARG_Retake_Santiago_and_Salta.png
@@ -13844,7 +13812,7 @@ goals:
   - Kaiserreich
   - Argentina
   - flag
-  
+
 -
  name: GFX_goal_ARG_Banco_Central_de_la_Republica_Argentina
  image: GFX_goal_ARG_Banco_Central_de_la_Republica_Argentina.png
@@ -13854,14 +13822,14 @@ goals:
   - coin
   - money
   - economic
-  
+
 -
  name: GFX_goal_ARG_FOP_debacle
  image: GFX_goal_ARG_FOP_debacle.png
  tags:
   - Kaiserreich
   - Argentina
-  
+
 -
  name: GFX_goal_ARG_Start_the_Corrientes_Campaign
  image: GFX_goal_ARG_Start_the_Corrientes_Campaign.png
@@ -13869,7 +13837,7 @@ goals:
   - Kaiserreich
   - Argentina
   - flag
-  
+
 -
  name: GFX_goal_BOL_Viva_el_Presidente
  image: GFX_goal_BOL_Viva_el_Presidente.png
@@ -13877,7 +13845,7 @@ goals:
   - Kaiserreich
   - Bolivia
   - person
-  
+
 -
  name: GFX_goal_agrarian_reform
  image: goal_agrarian_reform.png
@@ -13886,14 +13854,14 @@ goals:
   - agrarian
   - farming
   - agriculture
-  
+
 -
  name: GFX_goal_arisaka
  image: goal_arisaka.png
  tags:
   - Kaiserreich
   - Japan
-  
+
 -
  name: GFX_goal_authority
  image: goal_authority.png
@@ -13901,7 +13869,7 @@ goals:
   - Kaiserreich
   - sword
   - authority
-  
+
 -
  name: GFX_goal_basic_oil
  image: goal_Basic_Oil.png
@@ -13909,20 +13877,20 @@ goals:
   - Kaiserreich
   - oil
   - resources
-  
+
 -
  name: GFX_goal_beiyang_star
  image: goal_beiyang_star.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_BEL_caritas
  image: goal_BEL_caritas.png
  tags:
   - Kaiserreich
-  
+
 -
  name: GFX_goal_broken_red_star
  image: goal_broken_red_star.png
@@ -13931,7 +13899,7 @@ goals:
   - political
   - socialism
   - broken
-  
+
 -
  name: GFX_goal_CAN_bilingual
  image: goal_CAN_bilingual.png
@@ -13939,21 +13907,21 @@ goals:
   - Kaiserreich
   - Canada
   - Quebec
-  
+
 -
  name: GFX_goal_CAN_cn_rail
  image: goal_CAN_cn_rail.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_cp_rail
  image: goal_CAN_cp_rail.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_eyes_south
  image: goal_CAN_eyes_south.png
@@ -13961,14 +13929,14 @@ goals:
   - Kaiserreich
   - Canada
   - America
-  
+
 -
  name: GFX_goal_CAN_found_cbc
  image: goal_CAN_found_cbc.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_fuller_plan
  image: goal_CAN_fuller_plan.png
@@ -13976,7 +13944,7 @@ goals:
   - Kaiserreich
   - Canada
   - person
-  
+
 -
  name: GFX_goal_CAN_home_isles
  image: goal_CAN_home_isles.png
@@ -13984,21 +13952,21 @@ goals:
   - Kaiserreich
   - Canada
   - Britain
-  
+
 -
  name: GFX_goal_CAN_iedc
  image: goal_CAN_iedc.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_lets_go_canada
  image: goal_CAN_lets_go_canada.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_nee_recruitment
  image: goal_CAN_nee_recruitment.png
@@ -14006,7 +13974,7 @@ goals:
   - Kaiserreich
   - Canada
   - New England
-  
+
 -
  name: GFX_goal_CAN_nee_union
  image: goal_CAN_nee_union.png
@@ -14014,7 +13982,7 @@ goals:
   - Kaiserreich
   - Canada
   - New England
-  
+
 -
  name: GFX_goal_CAN_new_status_quebec
  image: goal_CAN_new_status_quebec.png
@@ -14022,14 +13990,14 @@ goals:
   - Kaiserreich
   - Canada
   - Quebec
-  
+
 -
  name: GFX_goal_CAN_ottawa_uni
  image: goal_CAN_ottawa_uni.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_quebec_flames
  image: goal_CAN_quebec_flames.png
@@ -14037,14 +14005,14 @@ goals:
   - Kaiserreich
   - Canada
   - Quebec
-  
+
 -
  name: GFX_goal_CAN_referendum
  image: goal_CAN_referendum.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_return_king
  image: goal_CAN_return_king.png
@@ -14054,21 +14022,21 @@ goals:
   - coat of arms
   - England
   - Britain
-  
+
 -
  name: GFX_goal_CAN_special_branch
  image: goal_CAN_special_branch.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_special_forces
  image: goal_CAN_special_forces.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_suppress_quebec
  image: goal_CAN_suppress_quebec.png
@@ -14076,7 +14044,7 @@ goals:
   - Kaiserreich
   - Canada
   - Quebec
-  
+
 -
  name: GFX_goal_CAN_surete_quebec
  image: goal_CAN_surete_quebec.png
@@ -14084,14 +14052,14 @@ goals:
   - Kaiserreich
   - Canada
   - Quebec
-  
+
 -
  name: GFX_goal_CAN_tca
  image: goal_CAN_tca.png
  tags:
   - Kaiserreich
   - Canada
-  
+
 -
  name: GFX_goal_CAN_vanier_plan
  image: goal_CAN_vanier_plan.png
@@ -14099,7 +14067,7 @@ goals:
   - Kaiserreich
   - Canada
   - person
-  
+
 -
  name: GFX_goal_CHI_chen_mingshu_reconcile
  image: goal_CHI_chen_mingshu_reconcile.png
@@ -14107,7 +14075,7 @@ goals:
   - Kaiserreich
   - China
   - person
-  
+
 -
  name: GFX_goal_CHI_cheng_qian_reconcile
  image: goal_CHI_cheng_qian_reconcile.png
@@ -14115,56 +14083,56 @@ goals:
   - Kaiserreich
   - China
   - person
-  
+
 -
  name: GFX_goal_CHI_choose_capital
  image: goal_CHI_choose_capital.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_form_2nd_NRA
  image: goal_CHI_form_2nd_NRA.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_military_affairs_cmsn
  image: goal_CHI_military_affairs_cmsn.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_northern_expedition
  image: goal_CHI_northern_expedition.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_peoples_army
  image: goal_CHI_peoples_army.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_plan_western
  image: goal_CHI_plan_western.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_revive_china
  image: goal_CHI_revive_china.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_CHI_SZC_lu_chao
  image: goal_CHI_SZC_lu_chao.png
@@ -14172,7 +14140,7 @@ goals:
   - Kaiserreich
   - China
   - person
-  
+
 -
  name: GFX_goal_CHI_YUN_reconcile
  image: goal_CHI_YUN_reconcile.png
@@ -14180,7 +14148,7 @@ goals:
   - Kaiserreich
   - China
   - Yunnan
-  
+
 -
  name: GFX_goal_constitutional_guarantees
  image: goal_constitutional_guarantees.png
@@ -14191,7 +14159,7 @@ goals:
   - constitution
   - government
   - law
-  
+
 -
  name: GFX_goal_construction_engineering
  image: goal_construction_engineering.png
@@ -14201,13 +14169,13 @@ goals:
   - economic
   - infrastructure
   - generic
-  
+
 -
  name: GFX_goal_FLN_Poppys
  image: goal_FLN_Poppys.png
  tags:
   - Kaiserreich
-  
+
 -
  name: GFX_goal_further_oil
  image: goal_Further_Oil.png
@@ -14215,7 +14183,7 @@ goals:
   - Kaiserreich
   - oil
   - resources
-  
+
 -
  name: GFX_goal_generic_army_cooperation
  image: goal_generic_army_cooperation.png
@@ -14224,7 +14192,7 @@ goals:
   - army
   - soldiers
   - generic
-  
+
 -
  name: GFX_goal_generic_civilian_oversight
  image: goal_generic_civilian_oversight.png
@@ -14233,7 +14201,7 @@ goals:
   - government
   - people
   - generic
-  
+
 -
  name: GFX_goal_generic_controlled_board
  image: goal_generic_controlled_board.png
@@ -14242,7 +14210,7 @@ goals:
   - government
   - people
   - generic
-  
+
 -
  name: GFX_goal_generic_crush_unions
  image: goal_generic_crush_unions.png
@@ -14253,7 +14221,7 @@ goals:
   - government
   - syndicalism
   - generic
-  
+
 -
  name: GFX_goal_generic_expel_people
  image: goal_generic_expel_people.png
@@ -14264,7 +14232,7 @@ goals:
   - population
   - government
   - generic
-  
+
 -
  name: GFX_goal_generic_german_construction
  image: goal_generic_german_construction.png
@@ -14272,7 +14240,7 @@ goals:
   - Kaiserreich
   - Germany
   - construction
-  
+
 -
  name: GFX_goal_generic_government_deals
  image: goal_generic_government_deals.png
@@ -14281,7 +14249,7 @@ goals:
   - government
   - handshake
   - generic
-  
+
 -
  name: GFX_goal_generic_imprison_people
  image: goal_generic_imprison_people.png
@@ -14291,7 +14259,7 @@ goals:
   - people
   - authority
   - generic
-  
+
 -
  name: GFX_goal_generic_imprison_people
  image: goal_generic_imprison_people.png
@@ -14301,7 +14269,7 @@ goals:
   - people
   - authority
   - generic
-  
+
 -
  name: GFX_goal_generic_industry_reallocation
  image: goal_generic_industry_reallocation.png
@@ -14310,7 +14278,7 @@ goals:
   - industry
   - economic
   - generic
-  
+
 -
  name: GFX_goal_generic_investigation
  image: goal_generic_investigation.png
@@ -14318,7 +14286,7 @@ goals:
   - Kaiserreich
   - investigation
   - generic
-  
+
 -
  name: GFX_goal_generic_loans
  image: goal_generic_loans.png
@@ -14328,7 +14296,7 @@ goals:
   - money
   - loans
   - generic
-  
+
 -
  name: GFX_goal_generic_media_controls
  image: goal_generic_media_controls.png
@@ -14337,7 +14305,7 @@ goals:
   - media
   - newspaper
   - generic
-  
+
 -
  name: GFX_goal_generic_officer
  image: goal_generic_officer.png
@@ -14348,7 +14316,7 @@ goals:
   - navy
   - military
   - generic
-  
+
 -
  name: GFX_goal_generic_price_controls
  image: goal_generic_price_controls.png
@@ -14358,7 +14326,7 @@ goals:
   - money
   - coin
   - generic
-  
+
 -
  name: GFX_goal_generic_rice_field
  image: goal_generic_rice_field.png
@@ -14366,7 +14334,7 @@ goals:
   - Kaiserreich
   - rice
   - agriculture
-  
+
 -
  name: GFX_goal_generic_seize_money
  image: goal_generic_seize_money.png
@@ -14375,7 +14343,7 @@ goals:
   - money
   - economic
   - generic
-  
+
 -
  name: GFX_goal_generic_seize_press
  image: goal_generic_seize_press.png
@@ -14384,7 +14352,7 @@ goals:
   - media
   - newspaper
   - generic
-  
+
 -
  name: GFX_goal_generic_stable_government
  image: goal_generic_stable_government.png
@@ -14393,7 +14361,7 @@ goals:
   - government
   - scales
   - generic
-  
+
 -
  name: GFX_goal_generic_tackle_corruption
  image: goal_generic_tackle_corruption.png
@@ -14402,7 +14370,7 @@ goals:
   - government
   - money
   - generic
-  
+
 -
  name: GFX_goal_generic_takeover_industries
  image: goal_generic_takeover_industries.png
@@ -14411,7 +14379,7 @@ goals:
   - government
   - industry
   - generic
-  
+
 -
  name: GFX_goal_gold_reserve
  image: goal_gold_reserve.png
@@ -14419,7 +14387,7 @@ goals:
   - Kaiserreich
   - gold
   - money
-  
+
 -
  name: GFX_goal_Centralised_Government
  image: goal_government_centralised_icon.png
@@ -14427,7 +14395,7 @@ goals:
   - Kaiserreich
   - government
   - authority
-  
+
 -
  name: GFX_goal_imprison_opposition1
  image: goal_imprison_opposition1.png
@@ -14435,7 +14403,7 @@ goals:
   - Kaiserreich
   - government
   - authority
-  
+
 -
  name: GFX_goal_LEP_generic_flag
  image: goal_LEP_generic_flag.png
@@ -14443,7 +14411,7 @@ goals:
   - Kaiserreich
   - China
   - flag
-  
+
 -
  name: GFX_goal_military_academy
  image: goal_military_academy.png
@@ -14453,7 +14421,7 @@ goals:
   - army
   - training
   - academy
-  
+
 -
  name: GFX_goal_MON_Follow_Buddhist_Principles
  image: goal_MON_Follow_Buddhist_Principles.png
@@ -14461,7 +14429,7 @@ goals:
   - Kaiserreich
   - Mongolia
   - Buddhist
-  
+
 -
  name: GFX_goal_national_artillery
  image: goal_national_artillery.png
@@ -14470,7 +14438,7 @@ goals:
   - army
   - military
   - artillery
-  
+
 -
  name: GFX_goal_nested_fortifications
  image: goal_nested_fortifications.png
@@ -14478,7 +14446,7 @@ goals:
   - Kaiserreich
   - fortification
   - military
-  
+
 -
  name: GFX_goal_new_treaty
  image: goal_new_treaty.png
@@ -14488,7 +14456,7 @@ goals:
   - law
   - government
   - treaty
-  
+
 -
  name: GFX_goal_SQI_confucianism
  image: goal_SQI_confucianism.png
@@ -14496,14 +14464,14 @@ goals:
   - Kaiserreich
   - China
   - Confuscian
-  
+
 -
  name: GFX_goal_SQI_yiguandao
  image: goal_SQI_yiguandao.png
  tags:
   - Kaiserreich
   - China
-  
+
 -
  name: GFX_goal_treaty_fails
  image: goal_treaty_fails.png
@@ -14512,7 +14480,7 @@ goals:
   - paper
   - treaty
   - x
-  
+
 -
  name: GFX_goal_USA_demand_debts
  image: goal_USA_demand_debts.png
@@ -14521,7 +14489,7 @@ goals:
   - Canada
   - coins
   - money
-  
+
 -
  name: GFX_goal_USA_reconcile_canada
  image: goal_USA_reconcile_canada.png
@@ -14529,7 +14497,7 @@ goals:
   - Kaiserreich
   - Canada
   - handshake
-  
+
 -
  name: GFX_goal_GUA_Orellana_Government_lives_on
  image: GUA_Orellana_Government_lives_on.png
@@ -14545,7 +14513,7 @@ goals:
   - Kaiserreich
   - Guatemala
   - person
-  
+
 -
  name: GFX_goal_KTG_Belgian_Officers2
  image: KTG_Belgian_Officers2.png
@@ -14554,7 +14522,7 @@ goals:
   - officer
   - military
   - army
-  
+
 -
  name: GFX_goal_KTG_Bookstack
  image: KTG_Bookstack.png
@@ -14562,7 +14530,7 @@ goals:
   - Kaiserreich
   - books
   - paper
-  
+
 -
  name: GFX_goal_KTG_Certificate_Focus
  image: KTG_Certificate_Focus.png
@@ -14571,7 +14539,7 @@ goals:
   - paper
   - law
   - certificate
-  
+
 -
  name: GFX_goal_KTG_Colonial_Economy_Focus
  image: KTG_Colonial_Economy_Focus.png
@@ -14580,7 +14548,7 @@ goals:
   - coins
   - Africa
   - economic
-  
+
 -
  name: GFX_goal_KTG_Elections
  image: KTG_Elections.png
@@ -14588,7 +14556,7 @@ goals:
   - Kaiserreich
   - election
   - government
-  
+
 -
  name: GFX_goal_KTG_Ivory_Hunting
  image: KTG_Ivory_Hunting.png
@@ -14596,7 +14564,7 @@ goals:
   - Kaiserreich
   - ivory
   - elephant
-  
+
 -
  name: GFX_goal_KTG_Jungle_Diamond_Mine
  image: KTG_Jungle_Diamond_Mine.png
@@ -14604,7 +14572,7 @@ goals:
   - Kaiserreich
   - diamond
   - jungle
-  
+
 -
  name: GFX_goal_KTG_Jungle_Gold_Mine
  image: KTG_Jungle_Gold_Mine.png
@@ -14612,7 +14580,7 @@ goals:
   - Kaiserreich
   - gold
   - jungle
-  
+
 -
  name: GFX_goal_KTG_Jungle_Railroad
  image: KTG_Jungle_Railroad.png
@@ -14621,7 +14589,7 @@ goals:
   - railroad
   - infrastructure
   - jungle
-  
+
 -
  name: GFX_goal_KTG_Rubber_Farming
  image: KTG_Rubber_Farming.png
@@ -14630,7 +14598,7 @@ goals:
   - KR
   - rubber
   - resources
-  
+
 -
  name: GFX_goal_PER_army
  image: PER_army.png
@@ -14638,7 +14606,7 @@ goals:
   - Kaiserreich
   - KR
   - Persia
-  
+
 -
  name: GFX_goal_XSM_promoting_buddhism
  image: promoting_buddhism.png
@@ -14647,7 +14615,7 @@ goals:
   - KR
   - Buddhism
   - religion
-  
+
 -
  name: GFX_goal_SER_king
  image: SER_king.png
@@ -14656,7 +14624,7 @@ goals:
   - KR
   - Serbia
   - monarchy
-  
+
 -
  name: GFX_SQI_Two_Zhangs_Enter
  image: SQI_Two_Zhangs_Enter.png
@@ -14665,7 +14633,7 @@ goals:
   - KR
   - China
   - person
-  
+
 -
  name: GFX_SQI_Yiguandao_Influence
  image: SQI_Yiguandao_Influence.png
@@ -14673,7 +14641,7 @@ goals:
   - Kaiserreich
   - KR
   - China
-  
+
 -
  name: GFX_goal_SWE_focus_swedish_syndicalism
  image: SWE_focus_swedish_syndicalism.png
@@ -14683,7 +14651,7 @@ goals:
   - Sweden
   - syndicalism
   - socialism
-  
+
 -
  name: GFX_goal_German_Investements
  image: WLL_German_Investements.png
@@ -14693,7 +14661,7 @@ goals:
   - Germany
   - coins
   - economic
-  
+
 -
  name: GFX_goal_German_Staff
  image: WLL_German_Staff.png
@@ -14704,7 +14672,7 @@ goals:
   - officer
   - military
   - army
-  
+
 -
  name: GFX_Goal_Kuomintang_Government_Initiative
  image: YUN_Kuomintang_Government_Initiative.png
@@ -14712,7 +14680,7 @@ goals:
   - Kaiserreich
   - KR
   - China
-  
+
 -
  name: GFX_Goal_YUN_Promote_Tourism
  image: YUN_Promote_Tourism.png
@@ -14720,7 +14688,7 @@ goals:
   - Kaiserreich
   - KR
   - China
-  
+
 -
  name: GFX_Goal_YUN_Sinitic_Dominance
  image: YUN_Sinitic_Dominance.png
@@ -14728,7 +14696,7 @@ goals:
   - Kaiserreich
   - KR
   - China
-  
+
 -
  name: GFX_Goal_YUN_The_Master_of_the_East_Continent
  image: YUN_The_Master_of_the_East_Continent.png
@@ -14736,7 +14704,7 @@ goals:
   - Kaiserreich
   - KR
   - China
-  
+
 -
  name: GFX_Goal_YUN_The_Mountain_Economy
  image: YUN_The_Mountain_Economy.png
@@ -14746,11 +14714,5 @@ goals:
   - economic
   - mountain
   - resources
-
--
- name: GFX_goal_rolling_the_dice
- image: goal_rolling_the_dice.png
- tags:
-  - generated
-
+  
 
