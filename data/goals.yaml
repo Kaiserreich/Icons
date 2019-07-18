@@ -9779,6 +9779,7 @@ goals:
   - GER
   - flag
   - handshake
+
 -
  name: GFX_goal_align_japan
  image: goal_align_japan.png
@@ -11398,6 +11399,7 @@ goals:
   - SCA
   - army
   - military
+
 -
  name: GFX_goal_SCA_focus_Monarchy
  image: SCA_focus_Monarchy.png
@@ -12904,6 +12906,7 @@ goals:
   - KR
   - hand
   - economy
+
 -
  name: GFX_goal_France_Monarchy
  image: France_Monarchy.png
@@ -13285,7 +13288,6 @@ goals:
   - KR
   - CHI
   - person
-  
 
 -
  name: GFX_goal_china_zhang_tianran
@@ -14714,5 +14716,4 @@ goals:
   - economic
   - mountain
   - resources
-  
 
