@@ -45,7 +45,6 @@ goals:
   - vanilla
   - communist
   - syndicalist
-  - research
 
 -
  name: GFX_focus_generic_italy_first
@@ -61,7 +60,6 @@ goals:
  tags:
   - vanilla
   - soldiers
-  - army
 
 -
  name: GFX_focus_generic_soviet_politics
@@ -132,7 +130,6 @@ goals:
  tags:
   - vanilla
   - defense
-  - air
 
 -
  name: GFX_focus_generic_coastal_fort
@@ -140,7 +137,6 @@ goals:
  tags:
   - vanilla
   - defense
-  - navy
 
 -
  name: GFX_focus_generic_paratrooper
@@ -1191,7 +1187,6 @@ goals:
   - Kaiserreich
   - KR
   - crown
-  - syndicalist
 
 -
  name: GFX_goal_anarcho_communism
@@ -1255,7 +1250,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - government
+  - goverment
 
 -
  name: GFX_goal_conscription
@@ -1287,7 +1282,6 @@ goals:
   - Kaiserreich
   - KR
   - production
-  - women
 
 -
  name: GFX_IRE_Zinc
@@ -1307,7 +1301,6 @@ goals:
   - KR
   - tank
   - panzer
-  - army
 
 -
  name: GFX_goal_RUS_Wrangel_plan
@@ -1317,7 +1310,6 @@ goals:
   - KR
   - fist
   - artillery
-  - army
 
 -
  name: GFX_goal_zhang_rifle
@@ -1349,9 +1341,7 @@ goals:
  name: GFX_goal_afghanistan
  image: goal_flag_afghanistan.png
  tags:
-  - Kaiserreich
-  - KR  
-  - AFG
+  - generated
   - flag
 
 -
@@ -1361,15 +1351,12 @@ goals:
   - Kaiserreich
   - KR
   - flag
-  - ALO
 
 -
  name: GFX_goal_flag_armenia
  image: goal_flag_armenia.png
  tags:
-  - Kaiserreich
-  - KR
-  - ARM
+  - generated
   - flag
 
 -
@@ -1378,7 +1365,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - ARM
   - flag
 
 -
@@ -1387,7 +1373,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - AUS
   - flag
 
 -
@@ -1396,7 +1381,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - AUS
   - flag
 
 -
@@ -1405,7 +1389,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - AZE
   - flag
 
 -
@@ -1414,7 +1397,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BOL
   - flag
 
 -
@@ -1423,7 +1405,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BRA
   - flag
 
 -
@@ -1432,7 +1413,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CAN
   - flag
 
 -
@@ -1441,7 +1421,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CAR
   - flag
 
 -
@@ -1450,7 +1429,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CEN
   - flag
 
 -
@@ -1459,7 +1437,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CHL
   - flag
 
 -
@@ -1468,7 +1445,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CNT
   - flag
 
 -
@@ -1477,7 +1453,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - FRA
   - flag
 
 -
@@ -1486,7 +1461,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CUB
   - flag
 
 -
@@ -1495,8 +1469,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - DAH
-  - MAF
   - flag
 
 -
@@ -1505,7 +1477,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - DOM
   - flag
 
 -
@@ -1514,16 +1485,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - ECU
   - flag
 
 -
  name: GFX_goal_epirus
  image: goal_flag_epirus.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
+  - generated
   - flag
 
 -
@@ -1532,7 +1500,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - FIN
   - flag
 
 -
@@ -1541,7 +1508,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - FLN
   - flag
 
 -
@@ -1550,7 +1516,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GER
   - flag
 
 -
@@ -1559,8 +1524,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GHA
-  - MAF
   - flag
 
 -
@@ -1569,15 +1532,12 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - COL
   - flag
 -
  name: GFX_goal_greece
  image: goal_flag_greece.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
+  - generated
   - flag
 
 -
@@ -1586,8 +1546,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GNE
-  - MAF
   - flag
 
 -
@@ -1596,7 +1554,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - HAI
   - flag
 
 -
@@ -1605,7 +1562,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BHC
   - flag
 
 -
@@ -1614,7 +1570,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - DEH
   - flag
 
 -
@@ -1623,7 +1578,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PRF
   - flag
 
 -
@@ -1632,7 +1586,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - ROM
   - flag
 
 -
@@ -1641,7 +1594,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - MAF
   - flag
 
 -
@@ -1650,7 +1602,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - JAP
   - flag
 
 -
@@ -1659,7 +1610,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - ARG
   - flag
 
 -
@@ -1668,7 +1618,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - LIT
   - flag
 
 -
@@ -1677,7 +1626,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - MEX
   - flag
 
 -
@@ -1686,7 +1634,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - MAF
   - flag
 
 -
@@ -1695,7 +1642,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - MON
   - flag
 
 -
@@ -1704,7 +1650,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - NFA
   - flag
 
 -
@@ -1713,26 +1658,20 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - HOL
   - flag
   
 -
  name: GFX_goal_nigeria
  image: goal_flag_nigeria.png
  tags:
-  - Kaiserreich
-  - KR
-  - NGR
-  - MAF
+  - generated
   - flag
 
 -
  name: GFX_goal_ottoman
  image: goal_flag_ottoman.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
   - flag
 
 -
@@ -1741,7 +1680,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PAN
   - flag
 
 -
@@ -1750,16 +1688,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PAR
   - flag
 
 -
  name: GFX_goal_patagonia
  image: goal_flag_patagonia.png
  tags:
-  - Kaiserreich
-  - KR
-  - FOP
+  - generated
   - flag
 
 -
@@ -1768,7 +1703,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PRU
   - flag
 
 -
@@ -1777,8 +1711,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PRU
-  - BOL
   - flag
 
 -
@@ -1787,17 +1719,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PRU
-  - BOL
   - flag
 
 -
  name: GFX_goal_flag_phillipines
  image: goal_flag_phillipines.png
  tags:
-  - Kaiserreich
-  - KR
-  - PHI
+  - generated
   - flag
 
 -
@@ -1806,8 +1734,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BRA
-  - PIR
   - flag
 
 -
@@ -1816,7 +1742,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - PLC
   - flag
 
 -
@@ -1825,7 +1750,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - POL
   - flag
 
 -
@@ -1834,7 +1758,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - POR
   - flag
 
 -
@@ -1843,7 +1766,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - RRM
   - flag
 
 -
@@ -1852,7 +1774,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - RUS
   - flag
 
 -
@@ -1861,7 +1782,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - SER
   - flag
 
 -
@@ -1870,17 +1790,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - SIE
-  - MAF
   - flag
 
 -
  name: GFX_SOM_focus
  image: SOM_focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
+  - generated
   - flag
 
 -
@@ -1889,7 +1805,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - SOV
   - flag
 
 -
@@ -1898,7 +1813,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - SPR
   - flag
 
 -
@@ -1907,8 +1821,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - TOG
-  - MAF
   - flag
 
 -
@@ -1917,8 +1829,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GBR
-  - CAN
   - flag
 
 -
@@ -1927,7 +1837,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - UKR
   - flag
 
 -
@@ -1936,7 +1845,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - UKR
   - flag
 
 -
@@ -1953,7 +1861,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - URG
   - flag
 
 -
@@ -1962,7 +1869,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - USA
   - flag
 
 -
@@ -1971,7 +1877,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - VEN
   - flag
 
 
@@ -1998,8 +1903,6 @@ goals:
  image: goal_red_star_green_wreath.png
  tags:
   - Kaiserreich
-  - communism
-  - syndicalism
   - KR
 
 -
@@ -2008,7 +1911,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - star
   - pacifism
 
 -
@@ -2036,7 +1938,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BM
 
 -
  name: GFX_goal_orthodox_state
@@ -2062,7 +1963,6 @@ goals:
   - Kaiserreich
   - KR
   - factory
-  - economy
 
 -
  name: GFX_goal_offensive_army
@@ -2070,8 +1970,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - army
-  - offensive
 
 -
  name: GFX_goal_national_arsenal
@@ -2079,7 +1977,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - army
   - rifle
 
 -
@@ -2088,7 +1985,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - liberty
+  - rifle
 
 -
  name: GFX_goal_syndicalist_lenin
@@ -2115,7 +2012,6 @@ goals:
   - Kaiserreich
   - KR
   - food
-  - agriculture
 
 -
  name: GFX_goal_production
@@ -2125,7 +2021,6 @@ goals:
   - KR
   - production
   - factory
-  - economy
 
 -
  name: GFX_goal_national_mobilization
@@ -2177,7 +2072,6 @@ goals:
  tags:
   - KR
   - ideology
-  - authoritarian democracy
 
 -
  name: GFX_goal_ideology_market_liberal
@@ -2185,7 +2079,6 @@ goals:
  tags:
   - KR
   - ideology
-  - market liberal
 
 -
  name: GFX_goal_ideology_national_populist
@@ -2193,7 +2086,6 @@ goals:
  tags:
   - KR
   - ideology
-  - national populist
 
 -
  name: GFX_goal_ideology_paternal_autocrat
@@ -2201,7 +2093,6 @@ goals:
  tags:
   - KR
   - ideology
-  - paternal autocracy
 
 -
  name: GFX_goal_ideology_radical_socialist
@@ -2210,7 +2101,6 @@ goals:
   - KR
   - ideology
   - syndicalist
-  - radical socialism
 
 -
  name: GFX_goal_ideology_social_conservative
@@ -2218,7 +2108,6 @@ goals:
  tags:
   - KR
   - ideology
-  - social conservative
 
 -
  name: GFX_goal_ideology_social_democrat
@@ -2226,7 +2115,6 @@ goals:
  tags:
   - KR
   - ideology
-  - social democracy
 
 -
  name: GFX_goal_ideology_social_liberal
@@ -2234,7 +2122,6 @@ goals:
  tags:
   - KR
   - ideology
-  - social liberal
 
 -
  name: GFX_goal_ideology_syndicalist
@@ -2251,7 +2138,6 @@ goals:
   - KR
   - ideology
   - syndicalist
-  - totalist
 
 -
  name: GFX_focus_cze_german_puppet
@@ -3052,7 +2938,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - guns
 
 -
  name: GFX_goal_hol_ban_paramilitary
@@ -3061,7 +2946,6 @@ goals:
   - Kaiserreich
   - KR
   - soldiers
-  - ban
 
 -
  name: GFX_goal_HOL_ban_paramilitary_left
@@ -3070,7 +2954,6 @@ goals:
   - Kaiserreich
   - KR
   - soldiers
-  - ban
 
 -
  name: GFX_goal_HOL_ban_VNH
@@ -3078,7 +2961,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - ban
   - national populist
 
 -
@@ -3087,7 +2969,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BM
 
 -
  name: GFX_goal_HOL_council_communism
@@ -3104,8 +2985,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - radical socialism
-  - syndicalism
   - fist
 
 -
@@ -3114,8 +2993,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - totalism
-  - syndicalism
   - fist
 
 -
@@ -3124,16 +3001,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BEL
   - fist
-  - flag
 
 -
  name: GFX_goal_HOL_depillarization
  image: goal_HOL_depillarization.png
  tags:
   - Kaiserreich
-  - pillars
   - KR
 
 -
@@ -3141,8 +3015,6 @@ goals:
  image: goal_HOL_fires_of_revolution.png
  tags:
   - Kaiserreich
-  - flag
-  - syndicalism
   - KR
 
 -
@@ -3151,7 +3023,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - social democracy
 
 -
  name: GFX_goal_HOL_military_union
@@ -3159,8 +3030,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - guns
-  - syndicalism
 
 -
  name: GFX_goal_HOL_pillarization
@@ -3168,7 +3037,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - pillars
 
 -
  name: GFX_goal_HOL_progressive_tax
@@ -3176,7 +3044,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - briefcase
 
 -
  name: GFX_goal_HOL_sustain_neutrality
@@ -3184,7 +3051,6 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - neutrality
 
 -
  name: GFX_focus_attack_switzerland
@@ -3192,7 +3058,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - SWI
 
 -
  name: GFX_focus_chi_army_reform
@@ -3200,7 +3065,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - army
 
 -
  name: GFX_focus_chi_british_cooperation
@@ -3208,7 +3072,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - UK
 
 -
  name: GFX_focus_chi_collaboration_with_the_japanese
@@ -3216,7 +3079,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_chi_cooperation_with_the_communists
@@ -3224,9 +3086,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - communism
-  - CHI
-  
 
 -
  name: GFX_focus_chi_cooperation_with_the_nationalists
@@ -3328,8 +3187,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - army
-  - tank
 
 -
  name: GFX_focus_generic_china1
@@ -3344,9 +3201,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - guns
-  - army
-  - tank
 
 -
  name: GFX_focus_generic_cruiser2
@@ -3354,7 +3208,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - navy
 
 -
  name: GFX_focus_generic_destroyer
@@ -3362,7 +3215,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - navy
 
 -
  name: GFX_focus_generic_industry_1
@@ -3400,7 +3252,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - army
 
 -
  name: GFX_focus_generic_navy_battleship2
@@ -3408,7 +3259,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - navy
 
 -
  name: GFX_focus_generic_provoke_border_clashes
@@ -3416,7 +3266,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - border
 
 -
  name: GFX_focus_generic_rubber
@@ -3424,8 +3273,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - rubber
-  - production
 
 -
  name: GFX_focus_generic_steel
@@ -3433,8 +3280,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - steel
-  - production
 
 -
  name: GFX_focus_generic_tank_production
@@ -3442,9 +3287,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - army
-  - production
-  - army
 
 -
  name: GFX_focus_generic_treaty
@@ -3452,7 +3294,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - treaty
 
 -
  name: GFX_focus_generic_tungsten
@@ -3460,15 +3301,12 @@ goals:
  tags:
   - vanilla
   - wtt
-  - tungsten
-  - production
 
 -
  name: GFX_focus_ger_accept_british_naval_dominance
  image: focus_ger_accept_british_naval_dominance.png
  tags:
   - vanilla
-  - flag
   - wtt
 
 -
@@ -3491,7 +3329,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - fortification
 
 -
  name: GFX_focus_ger_great_red_menace
@@ -3499,8 +3336,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - communism
-  - syndicalism
 
 -
  name: GFX_focus_ger_oppose_hitler
@@ -3508,7 +3343,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - guns
 
 -
  name: GFX_focus_ger_reichskommisariats
@@ -3516,7 +3350,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - eagle
 
 -
  name: GFX_focus_ger_return_of_the_kaiser
@@ -3524,8 +3357,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - pickelhaube
-  - kaiser
 
 -
  name: GFX_focus_ger_revive_kaiserreich
@@ -3533,7 +3364,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - GER
 
 -
  name: GFX_focus_ger_strike_at_the_source
@@ -3541,8 +3371,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - RUS
-  - SOV
 
 -
  name: GFX_focus_jap_cast_the_die
@@ -3550,7 +3378,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_jap_manchurian_project
@@ -3565,7 +3392,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_jap_showa_restoration
@@ -3573,7 +3399,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_jap_spiritual_mobilization
@@ -3581,7 +3406,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_jap_strike_south
@@ -3589,7 +3413,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_jap_zaibatsu
@@ -3597,7 +3420,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
 
 -
  name: GFX_focus_jap_zero
@@ -3605,8 +3427,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
-  - air
 
 -
  name: GFX_focus_man_claim_the_mandate_of_heaven
@@ -3621,9 +3441,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - communism
-  - syndicalism
-  - agriculture
 
 -
  name: GFX_focus_prc_infiltration
@@ -3631,8 +3448,6 @@ goals:
  tags:
   - vanilla
   - wtt
-  - soldier
-  - army
 
 -
  name: GFX_focus_prc_maoism
@@ -3677,7 +3492,6 @@ goals:
   - usa
   - america
   - industry
-  - eagle
   
 - 
  name: GFX_america_goal_eagle_deal
@@ -3685,7 +3499,6 @@ goals:
  tags:
   - usa
   - america
-  - eagle
 
 - 
  name: GFX_focus_AUS_agriculture
@@ -3698,7 +3511,7 @@ goals:
  name: Co_Prosperity_Sphere
  image: Co_Prosperity_Sphere.png
  tags:
-  - japan
+  - Japan
   - Co-Prosperity Sphere
 
 - 
@@ -3706,27 +3519,27 @@ goals:
  image: COS_American_Staff.png
  tags:
   - USA
-  - america
-  - military
+  - America
+  - Military
   
 - 
  name: GFX_goal_COS_Ferrer_Coup
  image: COS_Ferrer_Coup.png
  tags:
-  - democracy
+  - Democracy
   
 - 
  name: GFX_goal_COS_German_Bailout
  image: COS_German_Bailout.png
  tags:
-  - GER
-  - treaty  
+  - Germany
+  - Treaty  
   
 - 
  name: GFX_DAH_Topke
  image: DAH_Topke.png
  tags:
-  - economy
+  - Economy
   - Treaty    
    
 - 
@@ -3762,8 +3575,7 @@ goals:
  name: GFX_focus_empty_coffers
  image: empty_coffers.png
  tags:
-  - economy
-  - BM
+  - economy   
      
 - 
  name: GFX_goal_Fix_Shitty_Rails
@@ -3821,79 +3633,55 @@ goals:
  name: GFX_goal_napoleonic_state
  image: Ubico_gang.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - NFA
-  
+  - generated
 
 -
  name: GFX_goal_kill_syndies
  image: GER_kill_syndies.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalism
-  - GER
+  - generated
 
 -
  name: GFX_goal_ire_returnees
  image: goal_ire_returnees.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - IRE
+  - generated
 
 -
  name: GFX_goal_irish_army
  image: IRE_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - army
+  - generated
 
 -
  name: GFX_goal_coalition
  image: IRE_Coalition.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - political
-  - USA
+  - generated
 
 -
  name: GFX_IRE_flyingcolumns
  image: IRE_flyingcolumns.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
+  - generated
 
 -
  name: GFX_IRE_women_industry
  image: goal_women_industry.png
  tags:
-  - Kaiserreich
-  - KR
-  - women
+  - generated
 
 -
  name: GFX_goal_USA_sabotabby
  image: america_goal_sabo_tabby.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalism
+  - generated
 
 -
  name: GFX_goal_USA_freedom_fighters
  image: america_goal_freedom_fighters.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - USA
   - plane
   - air force
@@ -3902,99 +3690,71 @@ goals:
  name: GFX_goal_USA_ursine_spirit
  image: america_goal_ursine_spirit.png
  tags:
-  - Kaiserreich
-  - KR
-  - PSA
-  - USA
+  - generated
 
 -
  name: GFX_goal_USA_golden_gate
  image: america_goal_golden_gate.png
  tags:
-  - Kaiserreich
-  - KR
-  - bridge
+  - generated
 
 -
  name: GFX_goal_USA_mexican_friendship
  image: america_goal_mexican_friendship.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - MEX
-  - political
+  - generated
 
 -
  name: GFX_goal_USA_eagle
  image: america_goal_eagle.png
  tags:
-  - Kaiserreich
-  - KR
-  - eagle
+  - generated
   - USA
 
 -
  name: GFX_goal_USA_police_state
  image: america_goal_police_state.png
  tags:
-  - Kaiserreich
-  - KR
-  - political
+  - generated
   - USA
-  - kr
 
 -
  name: GFX_goal_USA_macarthur_military
  image: america_goal_marcarthur_military.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
+  - generated
   - person
   - USA
-  - kr
 
 -
  name: GFX_tsunami2
  image: tsunami2.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_Taiwan_Colony
  image: Taiwan_Colony.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_Port_Arthur_Colony
  image: Port_Arthur_Colony.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_Operation_Kuma
  image: Operation_Kuma.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - military
+  - generated
 
 -
  name: GFX_goal_National_Security_Act
  image: National_Security_Act.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
   - paper
   - handcuffs
   - government
@@ -4004,116 +3764,79 @@ goals:
  name: GFX_goal_Korea_Colony
  image: Korea_Colony.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_Japanification_of_Foreign_Subsidification
  image: Japanification_of_Foreign_Subsidification.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - factory
+  - generated
 
 -
  name: GFX_goal_Great_Railway_Incident
  image: Great_Railway_Incident.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
-  - JAP
-  - military
+  - generated
 
 -
  name: GFX_goal_Human_tsunam_2
  image: Human_tsunam_2.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
-  - navy
+  - generated
 
 -
  name: GFX_goal_Human_tsunam_1
  image: Human_tsunam_1.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
-  - navy
+  - generated
 
 -
  name: GFX_BAT_lib
  image: BAT_lib.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - liberty
+  - generated
 
 -
  name: GFX_BAT_fed
  image: BAT_fed.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - liberty
+  - generated
 
 -
  name: GFX_MEX_New
  image: MEX_New.png
  tags:
-  - Kaiserreich
-  - KR
-  - national populist
-  - MEX
+  - generated
 
 -
  name: GFX_TRM_kolchak_cap
  image: TRM_kolchak_cap.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
+  - generated
 
 -
  name: GFX_HOL_spyker
  image: goal_HOL_spyker.png
  tags:
-  - Kaiserreich
-  - KR
-  - TRM
-  - air
+  - generated
 
 -
  name: GFX_goal_italy_julius
  image: ITA_goal_Julius.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
-  - person
+  - generated
 
 -
  name: GFX_goal_crete
  image: goal_flag_crete.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
+  - generated
 
 -
  name: GFX_goal_forced_mil
  image: goal_forced_mil.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - skull
   - oppression
 
@@ -4121,8 +3844,7 @@ goals:
  name: GFX_goal_forced_res
  image: goal_forced_res.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - skull
   - construction
   - oppression
@@ -4132,8 +3854,7 @@ goals:
  name: GFX_goal_forced_con
  image: goal_forced_con.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - skull
   - oppression
   - construction
@@ -4142,8 +3863,7 @@ goals:
  name: GFX_goal_forced_inf
  image: goal_forced_inf.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - skull
   - oppression
   - infrastructure
@@ -4152,17 +3872,13 @@ goals:
  name: GFX_BAT_germanisation
  image: BAT_germanisation.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - GER
+  - generated
 
 -
  name: GFX_NIC_Cows
  image: NIC_Cows.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - cows
   - agriculture
 
@@ -4170,173 +3886,122 @@ goals:
  name: GFX_focus_HOL_deal_with_left
  image: focus_HOL_deal_with_left.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalism
+  - generated
 
 -
  name: GFX_focus_HOL_monarchy
  image: focus_HOL_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - monarchy
 
 -
  name: GFX_HOL_crackdown_natpop
  image: HOL_crackdown_natpop.png
  tags:
-  - Kaiserreich
-  - KR
-  - national populist
+  - generated
 
 -
  name: GFX_HOL_crackdown_syndie
  image: HOL_crackdown_syndie.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalism
+  - generated
 
 -
  name: GFX_HOL_flanders_for_alliance
  image: HOL_flanders_for_alliance.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_HOL_flag_instructions
  image: HOL_flag_instructions.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
+  - generated
 
 -
  name: GFX_HOL_papua_camps
  image: HOL_papua_camps.png
  tags:
-  - Kaiserreich
-  - KR
-  - camps
+  - generated
 
 -
  name: GFX_HOL_staatsvakbond
  image: HOL_staatsvakbond.png
  tags:
-  - Kaiserreich
-  - KR
-  - industry
-  - national populist
+  - generated
 
 -
  name: GFX_SIA_siamese_rifles
  image: SIA_siamese_rifles.png
  tags:
-  - Kaiserreich
-  - KR
-  - rifle
-  - SIA
+  - generated
 
 -
  name: GFX_SIA_constitution
  image: SIA_constitution.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - political
+  - generated
 
 -
  name: GFX_SIA_Crown_Abolishment
  image: SIA_Crown_Abolishment.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
+  - generated
 
 -
  name: GFX_SIA_Crown_Support
  image: SIA_Crown_Support.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
+  - generated
 
 -
  name: GFX_SIA_ratthaniyom
  image: SIA_ratthaniyom.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - political
+  - generated
 
 -
  name: GFX_SIA_yellowcover_dossier
  image: SIA_yellowcover_dossier.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - political
+  - generated
 
 -
  name: GFX_SIA_whiteelephant
  image: SIA_whiteelephant.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
+  - generated
 
 -
  name: GFX_goal_HOL_CNA_restored_stability
  image: goal_HOL_CNA_restored_stability.png
  tags:
-  - Kaiserreich
-  - KR
-  - fist
-  - liberty
+  - generated
 
 -
  name: GFX_goal_HOL_CNALSP_saved_democracy
  image: goal_HOL_CNALSP_saved_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - liberty
+  - generated
 
 -
  name: GFX_goal_HOL_dutch_unity
  image: goal_HOL_dutch_unity.png
  tags:
-  - Kaiserreich
-  - KR
-  - hands
-  - HOL
+  - generated
 
 -
  name: GFX_goal_GER_infa
  image: goal_GER_infa.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - infrastructure
+  - generated
 
 -
  name: GFX_goal_tax_church
  image: goal_tax_church.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - orthodox
   - religion
 
@@ -4344,8 +4009,7 @@ goals:
  name: GFX_goal_tax_slave
  image: goal_tax_slave.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - slavery
   - oppression
 
@@ -4353,175 +4017,121 @@ goals:
  name: GFX_goal_SIAM_AIRCORPS
  image: SIAM_AIRCORPS.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - air
+  - generated
 
 -
  name: GFX_goal_SIAM_NAVY
  image: SIAM_NAVY.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - navy
+  - generated
 
 -
  name: GFX_goal_SIAM_ARMY
  image: SIAM_ARMY.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - army
+  - generated
 
 -
  name: GFX_goal_ETH_Lion
  image: ETH_Lion.png
  tags:
-  - Kaiserreich
-  - KR
-  - ETH
+  - generated
 
 -
  name: GFX_SIA_Arunothai
  image: SIA_Arunothai.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - star
+  - generated
 
 -
  name: GFX_PRF_zamindar
  image: PRF_zamindar.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRF
-  - hat
-  - flag
+  - generated
 
 -
  name: GFX_PRF_plantations
  image: PRF_plantations.png
  tags:
-  - Kaiserreich
-  - KR
-  - agriculture
+  - generated
 
 -
  name: GFX_Golden_Triangle_Opium_Flower
  image: Golden_Triangle_Opium_Flower.png
  tags:
-  - Kaiserreich
-  - KR
-  - opium
+  - generated
 
 -
  name: GFX_Maritime_Silkroad_2
  image: Maritime_Silkroad_2.png
  tags:
-  - Kaiserreich
-  - KR
-  - economy
+  - generated
 
 -
  name: GFX_SOM_goal_royalarmy
  image: SOM_goal_royalarmy.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
-  - flag
+  - generated
 
 -
  name: GFX_SOM_goal_unityistrength
  image: SOM_goal_unityistrength.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
-  - flag
-  - skull
+  - generated
 
 -
  name: GFX_SOM_goal_hoboyards
  image: SOM_goal_hoboyards.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
+  - generated
 
 -
  name: GFX_SOM_goal_magarteenartillery
  image: SOM_goal_magarteenartillery.png
  tags:
-  - Kaiserreich
-  - KR
-  - muslim
-  - artillery
+  - generated
 
 -
  name: GFX_SOM_goal_put_down_the_lion
  image: SOM_goal_put_down_the_lion.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
-  - lion
+  - generated
 
 -
  name: GFX_GBR_royal_army
  image: GBR_royal_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - UK
-  - army
+  - generated
 
 -
  name: GFX_GBR_royal_navy
  image: GBR_royal_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - UK
-  - navy
+  - generated
 
 -
  name: GFX_GBR_royal_air_force
  image: GBR_royal_air_force.png
  tags:
-  - Kaiserreich
-  - KR
-  - UK
-  - air
+  - generated
 
 -
  name: GFX_GBR_restoration
  image: GBR_restoration.png
  tags:
-  - Kaiserreich
-  - KR
-  - UK
+  - generated
 
 -
  name: GFX_goal_EGY_austrian_tourists
  image: goal_EGY_austrian_tourists.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
+  - generated
 
 -
  name: GFX_goal_EGY_coptic
  image: goal_EGY_coptic.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
   - religion
   - Coptic
 
@@ -4529,424 +4139,301 @@ goals:
  name: GFX_goal_EGY_cotton
  image: goal_EGY_cotton.png
  tags:
-  - Kaiserreich
-  - KR
-  - agriculture
+  - generated
 
 -
  name: GFX_goal_EGY_heritage
  image: goal_EGY_heritage.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_EGY_nile_proc
  image: goal_EGY_nile_proc.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_EGY_Pyramids
  image: goal_EGY_Pyramids.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_EGY_safe_copts
  image: goal_EGY_safe_copts.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_EGY_shatter_copts
  image: goal_EGY_shatter_copts.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
-  - fist
+  - generated
 
 -
  name: GFX_goal_EGY_sons
  image: goal_EGY_sons.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
-  - military
+  - generated
 
 -
  name: GFX_goal_EGY_sultan_fleet
  image: goal_EGY_sultan_fleet.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
+  - generated
 
 -
  name: GFX_goal_EGY_Valley
  image: goal_EGY_Valley.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_MAF_Army_Reforms
  image: goal_MAF_Army_Reforms.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_MAF_Napalm
  image: goal_MAF_Napalm.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
+  - generated
 
 -
  name: GFX_goal_Stomp_Waffle
  image: goal_Stomp_Waffle.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
+  - generated
 
 -
  name: GFX_goal_MAF_Support_Anglos
  image: goal_MAF_Support_Anglos.png
  tags:
-  - Kaiserreich
-  - KR
-  - UK
-  - flag
+  - generated
 
 -
  name: GFX_goal_MAF_Support_Belgians
  image: goal_MAF_Support_Belgians.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - flag
+  - generated
 
 -
  name: GFX_goal_MAF_elephant
  image: goal_MAF_elephant.png
  tags:
-  - Kaiserreich
-  - KR
-  - elephant
+  - generated
 
 -
  name: GFX_goal_MAF_Kampala_to_Khartoum
  image: goal_MAF_Kampala_to_Khartoum.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
+  - generated
 
 -
  name: GFX_goal_MAF_Kampala_to_Addis_Abba
  image: goal_MAF_Kampala_to_Addis_Abba.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
+  - generated
 
 -
  name: GFX_goal_MAF_Kulturkampf
  image: goal_MAF_Kulturkampf.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_goal_MAF_Cape_Cairo
  image: goal_MAF_Cape_Cairo.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
-  - Africa
+  - generated
 
 -
  name: GFX_goal_MAF_Vorbeck
  image: goal_MAF_Vorbeck.png
  tags:
-  - Kaiserreich
-  - KR
-  - MAF
-  - person
+  - generated
 
 -
  name: GFX_goal_MAF_African_Armies
  image: goal_MAF_African_Armies.png
  tags:
-  - Kaiserreich
-  - KR
-  - native
-  - army
+  - generated
 
 -
  name: GFX_goal_MAF_Circus
  image: goal_MAF_Circus.png
  tags:
-  - Kaiserreich
-  - KR
-  - MAF
+  - generated
 
 -
  name: GFX_goal_MAF_Vizekonig
  image: goal_MAF_Vizekonig.png
  tags:
-  - Kaiserreich
-  - KR
-  - MAF
+  - generated
 
 -
  name: GFX_goal_MAF_African_Pilots
  image: goal_MAF_African_Pilots.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - air
+  - generated
 
 -
  name: GFX_goal_MAF_Merc_Pilots
  image: goal_MAF_Merc_Pilots.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - air
+  - generated
 
 -
  name: GFX_goal_MAF_Graveyard
  image: goal_MAF_Graveyard.png
  tags:
-  - Kaiserreich
-  - KR
-  - skull
+  - generated
 
 -
  name: GFX_goal_SER_form_yugoslavia
  image: SER_form_yugoslavia.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUG
-  - SER
+  - generated
 
 -
  name: GFX_SIA_buddhisttraditions
  image: SIA_buddhisttraditions.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - buddhism
+  - generated
 
 -
  name: GFX_INC_female_soldiers
  image: goal_INC_female_vietcong.png
  tags:
-  - Kaiserreich
-  - KR
-  - INC
-  - army
-  - women
+  - generated
 
 -
  name: GFX_VIE_dragon
  image: goal_VIE_dainam.png
  tags:
-  - Kaiserreich
-  - KR
-  - VIE
+  - generated
 
 -
  name: GFX_GEA_admirality
  image: goal_GEA_admirality.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEA
+  - generated
 
 -
  name: GFX_VIE_Caodai
  image: goal_VIE_caodai.png
  tags:
-  - Kaiserreich
-  - KR
-  - VIE
-  - eye
+  - generated
 
 -
  name: GFX_VIE_Caodai2
  image: goal_VIE_caodai2.png
  tags:
-  - Kaiserreich
-  - KR
-  - VIE
-  - eye
+  - generated
 
 -
  name: GFX_GEA_counter_insurgency
  image: goal_GEA_guerilla_warfare.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEA
-  - skull
+  - generated
 
 -
  name: GFX_goal_REX
  image: goal_REX.png
  tags:
-  - Kaiserreich
-  - REX
+  - generated
 
 -
  name: GFX_goal_Frontaliers
  image: WLL_Frontaliers.png
  tags:
-  - Kaiserreich
-  - WLL
+  - generated
 
 -
  name: GFX_goal_Walloon_Investements
  image: WLL_Walloon_Investements.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
+  - generated
 
 -
  name: GFX_goal_Solvay
  image: WLL_Solvay.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
+  - generated
 
 -
  name: GFX_goal_Bilingual_Staff
  image: WLL_Bilingual_Staff.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - army
+  - generated
 
 -
  name: GFX_goal_WLL_Greater_Wallonia
  image: WLL_Greater_Wallonia.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - flag
+  - generated
 
 -
  name: GFX_goal_WLL_Flying_Cock
  image: WLL_Flying_Cock.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - air
+  - generated
 
 -
  name: GFX_goal_Dutch_Attachement
  image: FLN_Dutch_Attachement.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - HOL
-  - flag
+  - generated
 
 -
  name: GFX_goal_BEL_Adalbert_Dream
  image: BEL_Adalbert_Dream.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - navy
+  - generated
 
 -
  name: GFX_goal_BEL_Resist_and_Bite
  image: BEL_Resist_and_Bite.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
+  - generated
 
 -
  name: GFX_goal_BEL_Our_Place_In_The_World
  image: BEL_Our_Place_In_The_World.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - flag
+  - generated
 
 -
  name: GFX_goal_BEL_Sabena
  image: BEL_Sabena.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
+  - generated
 
 -
  name: GFX_goal_BEL_Valiant_Defence3
  image: BEL_Valiant_Defence3.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - flag
+  - generated
 
 -
  name: GFX_goal_FRA_Cut_Off_Capitalists
  image: FRA_Cut_Off_Capitalists.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - flag
+  - generated
 
 -
  name: GFX_goal_FRA_World_Revolution
  image: FRA_World_Revolution.png
  tags:
-  - Kaiserreich
-  - KR
-  - world
+  - generated
 
 -
  name: GFX_goal_Cotton
  image: goal_Cotton.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - cotton
   - agriculture
 
@@ -4954,8 +4441,7 @@ goals:
  name: GFX_goal_dam
  image: goal_dam.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - dam
   - infrastructure
 
@@ -4963,249 +4449,169 @@ goals:
  name: GFX_goal_Paris
  image: goal_Paris.png
  tags:
-  - Kaiserreich
-  - KR
-  - FRA
-  - NFA
+  - generated
 
 -
  name: GFX_goal_NFA_Darlan_Plan
  image: NFA_Darlan_Plan.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - person
+  - generated
 
 -
  name: GFX_goal_NFA_De_Gaulle_Plan
  image: NFA_De_Gaulle_Plan.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - person
+  - generated
 
 -
  name: GFX_goal_NFA_French_Empire
  image: NFA_French_Empire.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_goal_NFA_French_Kingdom
  image: NFA_French_Kingdom.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_goal_NFA_Petain
  image: NFA_Petain.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - person
+  - generated
 
 -
  name: GFX_goal_NFA_Restore_the_Suspended_Constitution
  image: NFA_Restore_the_Suspended_Constitution.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_goal_NFA_Return_to_Marseille
  image: NFA_Return_to_Marseille.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - FRA
+  - generated
 
 -
  name: GFX_goal_NFA_Transsaharian_Railroad
  image: NFA_Transsaharian_Railroad.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
+  - generated
 
 -
  name: GFX_goal_NFA_Troupes_de_Marine_Focus
  image: NFA_Troupes_de_Marine_Focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - navy
+  - generated
 
 -
  name: GFX_goal_RUS_Military_Dictatorship
  image: RUS_Military_Dictatorship.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - person
+  - generated
 
 -
  name: GFX_goal_RUS_President_Kerensky
  image: RUS_President_Kerensky.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - flag
-  - person
+  - generated
 
 -
  name: GFX_goal_RUS_Claim_Bessarabia
  image: RUS_Claim_Bessarabia.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - ROM
+  - generated
 
 -
  name: GFX_goal_RUS_Claim_Sinkiang
  image: RUS_Claim_Sinkiang.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
+  - generated
 
 -
  name: GFX_goal_RUS_Conquer_Don_Kuban
  image: RUS_Conquer_Don_Kuban.png
  tags:
-  - Kaiserreich
-  - KR
-  - DKB
-  - person
-  - flag
+  - generated
 
 -
  name: GFX_goal_RUS_Conquer_Georgia
  image: RUS_Conquer_Georgia.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - person
-  - flag
+  - generated
 
 -
  name: GFX_goal_RUS_Conquer_Mongolia
  image: RUS_Conquer_Mongolia.png
  tags:
-  - Kaiserreich
-  - KR
-  - MON
-  - flag
+  - generated
 
 -
  name: GFX_goal_RUS_Conquer_Persia
  image: RUS_Conquer_Persia.png
  tags:
-  - Kaiserreich
-  - KR
-  - PER
-  - flag
+  - generated
 
 -
  name: GFX_goal_RUS_Conquer_Transamur
  image: RUS_Conquer_Transamur.png
  tags:
-  - Kaiserreich
-  - KR
-  - TRM
-  - flag
-  - person
+  - generated
 
 -
  name: GFX_goal_RUS_Conquer_Turkestan
  image: RUS_Conquer_Turkestan.png
  tags:
-  - Kaiserreich
-  - KR
-  - TRK
-  - flag
-  - person
+  - generated
 
 -
  name: GFX_goal_RUS_Demand_Greater_Armenia
  image: RUS_Demand_Greater_Armenia.png
  tags:
-  - Kaiserreich
-  - KR
-  - ARM
-  - flag
-  - fist
+  - generated
 
 -
  name: GFX_goal_RUS_Force_the_Straits
  image: RUS_Force_the_Straits.png
  tags:
-  - Kaiserreich
-  - KR
-  - TUR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_RUS_Secure_Iraq
  image: RUS_Secure_Iraq.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRQ
+  - generated
 
 -
  name: GFX_LEC_49ers
  image: LEC_49ers.png
  tags:
-  - Kaiserreich
-  - KR
-  - hands
+  - generated
 
 -
  name: GFX_LEC_Afghan_Opium
  image: LEC_Afghan_Opium.png
  tags:
-  - Kaiserreich
-  - KR
-  - opium
-  - AFG
+  - generated
 
 -
  name: GFX_LEC_Bengali_Opium
  image: LEC_Bengali_Opium.png
  tags:
-  - Kaiserreich
-  - KR
-  - opium
-  - BEN
+  - generated
 
 -
  name: GFX_LEC_Blue_Lanterns
  image: LEC_Blue_Lanterns.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_LEC_Cigarettes
  image: LEC_Cigarettes.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - cigarettes
   - tobacco
  
@@ -5214,489 +4620,346 @@ goals:
  name: GFX_LEC_Illegitimate_Economy
  image: LEC_Illegitimate_Economy.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
-  - economy
+  - generated
 
 -
  name: GFX_LEC_Passports
  image: LEC_Passports.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - passport
 
 -
  name: GFX_LEC_Passports2
  image: LEC_Passports2.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - passport
 
 -
  name: GFX_LEC_Red_Pole
  image: LEC_Red_Pole.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_LEC_Smugglers
  image: LEC_Smugglers.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
-  - economy
+  - generated
 
 -
  name: GFX_EGY_tombs
  image: EGY_tombs.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_LIB_whiter_pale
  image: goal_LIB_whiter_pale.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - handshake
 
 -
  name: GFX_goal_LIB_true_whig
  image: goal_LIB_true_whig.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_true_republicans
  image: goal_LIB_true_republicans.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_secret_societies
  image: goal_LIB_secret_societies.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_reform_judiciary
  image: goal_LIB_reform_judiciary.png
  tags:
-  - Kaiserreich
-  - KR
-  - hammer
+  - generated
 
 -
  name: GFX_goal_LIB_ind_true_whigs
  image: goal_LIB_ind_true_whigs.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_freemason_coup
  image: goal_LIB_freemason_coup.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_firestone
  image: goal_LIB_firestone.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_back_to_africa
  image: goal_LIB_back_to_africa.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
-  - Africa
+  - generated
 
 -
  name: GFX_goal_LIB_africa_star
  image: goal_LIB_africa_star.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
-  - liberty
+  - generated
 
 -
  name: GFX_goal_LIB_Syndicalist_Rally
  image: goal_LIB_Syndicalist_Rally.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_Peculiar_Institutions
  image: goal_LIB_Peculiar_Institutions.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_goal_LIB_Flying_Stars
  image: goal_LIB_Flying_Stars.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
-  - air
+  - generated
 
 -
  name: GFX_goal_LIB_Emancipation
  image: goal_LIB_Emancipation.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
-  - liberty
+  - generated
 
 -
  name: GFX_goal_LIB_Destiny_Coup
  image: goal_LIB_Destiny_Coup.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - Africa
+  - generated
 
 -
  name: GFX_goal_LIB_Tuskegee_Institute
  image: goal_LIB_Tuskegee_Institute.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIB
+  - generated
 
 -
  name: GFX_SIA_PHAHON_NF
  image: SIA_PHAHON_NF.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - person
+  - generated
 
 -
  name: GFX_SIA_PHIBUNSONGKHRAM_NF
  image: SIA_PHIBUNSONGKHRAM_NF.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - person
+  - generated
 
 -
  name: GFX_SIA_SERIROENGRIT_NF
  image: SIA_SERIROENGRIT_NF.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - person
+  - generated
 
 -
  name: GFX_goal_POR_burden_empire
  image: goal_POR_burden_empire.png
  tags:
-  - Kaiserreich
-  - KR
-  - hands
+  - generated
 
 -
  name: GFX_goal_POR_Imperio_Ultramarino
  image: goal_POR_Imperio_Ultramarino.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - Africa
+  - generated
 
 -
  name: GFX_goal_POR_Imperial_Lunada
  image: goal_POR_Imperial_Lunada.png
  tags:
-  - Kaiserreich
-  - KR
-  - fortification
+  - generated
 
 -
  name: GFX_goal_POR_royal_edicts
  image: goal_POR_royal_edicts.png
  tags:
-  - Kaiserreich
-  - KR
-  - crown
-  - paper
+  - generated
 
 -
  name: GFX_goal_POR_burden_empire
  image: goal_POR_burden_empire.png
  tags:
-  - Kaiserreich
-  - KR
-  - hands
+  - generated
 
 -
  name: GFX_goal_POR_protect_mozambique
  image: goal_POR_protect_mozambique.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - fortification
+  - generated
 
 -
  name: GFX_goal_POR_protect_angola
  image: goal_POR_protect_angola.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - fortification
+  - generated
 
 -
  name: GFX_goal_POR_imperial_pride
  image: goal_POR_imperial_pride.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - navy
+  - generated
 
 -
  name: GFX_goal_KTG_Force_Publique
  image: KTG_Force_Publique.png
  tags:
-  - Kaiserreich
-  - KR
-  - KTG
-  - army
+  - generated
 
 -
  name: GFX_goal_KTG_Congolese_Mission
  image: KTG_Congolese_Mission.png
  tags:
-  - Kaiserreich
-  - KR
-  - KTG
-  - religion
+  - generated
 
 -
  name: GFX_goal_KTG_flag_Of_kivu
  image: KTG_flag_of_kivu.png
  tags:
-  - Kaiserreich
-  - KR
-  - KTG
-  - flag
+  - generated
 
 -
  name: GFX_goal_KTG_Yeke_Empire
  image: KTG_Yeke_Empire.png
  tags:
-  - Kaiserreich
-  - KR
-  - KTG
-  - flag
+  - generated
 
 -
  name: GFX_goal_KTG_Destroy_Legacy_Leopold2
  image: KTG_Destroy_Legacy_Leopold2.png
  tags:
-  - Kaiserreich
-  - KR
-  - person
-  - BEL
-  - KTG
+  - generated
 
 -
  name: GFX_goal_KTG_Mission_To_Civilise2
  image: KTG_Mission_To_Civilise2.png
  tags:
-  - Kaiserreich
-  - KR
-  - KTG
+  - generated
 
 -
  name: GFX_goal_KTG_Seize_Investements
  image: KTG_Seize_Investements.png
  tags:
-  - Kaiserreich
-  - KR
-  - KTG
+  - generated
 
 -
  name: GFX_goal_FLN_Antwerp_Harbour
  image: FLN_Antwerp_Harbour.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_goal_FLN_Brussel_Expansion
  image: FLN_Brussel_Expansion.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_goal_FLN_Limburg_Mining
  image: FLN_Limburg_Mining.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_goal_FLN_Vlaanderen_Industry
  image: FLN_Vlaanderen_Industry.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - FLN
+  - generated
 
 -
  name: GFX_goal_FLN_Vlaanderen_Industry2
  image: FLN_Vlaanderen_Industry2.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_goal_FLN_County
  image: FLN_County.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - FLN
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_FLN_Enforce_Flemish
  image: FLN_Enforce_Flemish.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
+  - generated
 
 -
  name: GFX_SIA_Urban_Warfare_NF
  image: SIA_Urban_Warfare_NF.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_UOB_red
  image: UOB_red.png
  tags:
-  - Kaiserreich
-  - KR
-  - ENG
+  - generated
 
 -
  name: GFX_goal_greater_romania
  image: greater_romania.png
  tags:
-  - Kaiserreich
-  - KR
-  - RRM
-  - flag
+  - generated
 
 -
  name: GFX_goal_AST_national_university
  image: goal_AST_national_university.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_clarify_anzac
  image: goal_AST_clarify_anzac.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_maori
  image: goal_AST_maori.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_white_australasia
  image: goal_AST_white_australasia.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_AFM_victory
  image: goal_AST_AFM_victory.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
-  - flag
+  - generated
 
 -
  name: GFX_goal_AST_cockatoo_island
  image: goal_AST_cockatoo_island.png
  tags:
-  - Kaiserreich
-  - KR
-  - bird
+  - generated
 
 -
  name: GFX_goal_AST_freedom_of_the_press
  image: goal_AST_freedom_of_the_press.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - news
   - press
   - media
@@ -5707,8 +4970,7 @@ goals:
  name: GFX_goal_AST_scrap_reserves
  image: goal_AST_scrap_reserves.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - navy
   - ship
 
@@ -5716,33 +4978,25 @@ goals:
  name: GFX_goal_AST_state_of_army
  image: goal_AST_state_of_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_state_of_RAAF
  image: goal_AST_state_of_RAAF.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_state_of_RAN
  image: goal_AST_state_of_RAN.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_upgrade_reserves
  image: goal_AST_upgrade_reserves.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - navy
   - ship
 
@@ -5750,17 +5004,13 @@ goals:
  name: GFX_goal_AST_syndicalist
  image: goal_AST_syndicalist.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_AST_monarch_officers
  image: goal_AST_monarch_officers.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - officer
   - army
   - Britain
@@ -5769,25 +5019,20 @@ goals:
  name: GFX_goal_AST_empower_actu
  image: goal_AST_empower_actu.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
+  - generated
 
 -
  name: GFX_goal_AST_trade_commonwealth
  image: goal_AST_trade_commonwealth.png
  tags:
-  - Kaiserreich
-  - KR
-  - crown
+  - generated
   - trade
 
 -
  name: GFX_goal_AST_new_markets
  image: goal_AST_new_markets.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - trade
   - economic
   - world
@@ -5797,24 +5042,21 @@ goals:
  name: GFX_goal_AST_skip_plebiscite
  image: goal_AST_skip_plebiscite.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - election
 
 -
  name: GFX_goal_CAN_isac
  image: goal_CAN_isac.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAN
+  - generated
+  - Canada
 
 -
  name: GFX_goal_computer_focus
  image: goal_computer_focus.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - electronics
   - computer
 
@@ -5822,8 +5064,7 @@ goals:
  name: GFX_goal_oil_derrick
  image: goal_oil_derrick.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - oil
   - resources
 
@@ -5831,300 +5072,205 @@ goals:
  name: GFX_goal_NAM_statthalter
  image: goal_NAM_statthalter.png
  tags:
-  - Kaiserreich
-  - KR
-  - NAM
-  - person
-  - flag
+  - generated
 
 -
  name: GFX_PAP_holy_war
  image: PAP_holy_war.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - catholic
-  - skull
+  - generated
 
 -
  name: GFX_PAP_legionary_spirit
  image: PAP_legionary_spirit.png
  tags:
-  - Kaiserreich
-  - KR
-  - skull
-  - PAP
+  - generated
 
 -
  name: GFX_PAP_roman_senate
  image: PAP_roman_senate.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
+  - generated
 
 -
  name: GFX_ITA_female_soldiers
  image: goal_ITA_female_soldiers.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - women
+  - generated
 
 -
  name: GFX_ITA_green_shirts
  image: goal_ITA_green_shirts.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
+  - generated
 
 -
  name: GFX_ITA_unification
  image: goal_ITA_unification.png
  tags:
-  - Kaiserreich
-  - KR
-  - ITA
+  - generated
 
 -
  name: GFX_ITA_sea_bounty
  image: goal_ITA_sea_bounty.png
  tags:
-  - Kaiserreich
-  - KR
-  - sea
-  - navy
+  - generated
 
 -
  name: GFX_ITA_serene_republic
  image: goal_ITA_serene_republic.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_ITA_masquerade
  image: goal_ITA_masquerade.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_ITA_syndicalist_unite
  image: goal_ITA_syndicalist_unite.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_ITA_urban
  image: goal_ITA_urban.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_DAH_toll
  image: DAH_toll.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
-  - infrastructure
+  - generated
 
 -
  name: GFX_DAH_Expel
  image: DAH_Expel.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
-  - GER
+  - generated
 
 -
  name: GFX_DAH_Strip
  image: DAH_Strip.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
+  - generated
 
 -
  name: DAH_leadering_leaders
  image: DAH_leadering_leaders.png
  tags:
-  - Kaiserreich
-  - KR
-  - crown
+  - generated
 
 -
  name: GFX_GRE_new_expansionism
  image: GRE_new_expansionism.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - fist
+  - generated
 
 -
  name: GFX_GRE_army_focus
  image: GRE_army_focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - army
+  - generated
 
 -
  name: GFX_GRE_navy_focus
  image: GRE_navy_focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - navy
+  - generated
 
 -
  name: GFX_GRE_air_force_focus
  image: GRE_air_force_focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - GRE
+  - generated
 
 -
  name: GFX_GRE_hellenic_shipyard
  image: GRE_hellenic_shipyard.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
+  - generated
 
 -
  name: GFX_GRE_megali
  image: GRE_megali.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - flag
+  - generated
 
 -
  name: GFX_GRE_monarchy
  image: GRE_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_GRE_empower_monarchy
  image: GRE_empower_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - crown
-  - building
+  - generated
 
 -
  name: GFX_GRE_king_pavlos
  image: GRE_goal_paul.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - person
+  - generated
 
 -
  name: GFX_GRE_king_georgios
  image: GRE_goal_george.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - person
+  - generated
 
 -
  name: GFX_GRE_king_alexander
  image: GRE_goal_alexander.png
  tags:
-  - Kaiserreich
-  - KR
-  - GRE
-  - person
+  - generated
 
 -
  name: GFX_GRE_tur_cooperation
  image: GRE_tur_cooperation.png
  tags:
-  - Kaiserreich
-  - KR
-  - TUR
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_PER_Claim_Georgia
  image: PER_Claim_Georgia.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - flag
-  - guns
+  - generated
 
 -
  name: GFX_goal_PER_Claim_Iraq
  image: PER_Claim_Iraq.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRQ
-  - flag
-  - guns
+  - generated
 
 -
  name: GFX_goal_PER_Claim_Turkmenistan
  image: PER_Claim_Turkmenistan.png
  tags:
-  - Kaiserreich
-  - KR
-  - TRK
-  - flag
-  - guns
+  - generated
 
 -
  name: GFX_goal_PER_Flag_Bahrain
  image: PER_Flag_Bahrain.png
  tags:
-  - Kaiserreich
-  - KR
-  - BHR
-  - flag
+  - generated
 
 -
  name: GFX_goal_africa_flames
  image: goal_africa_flames.png
  tags:
-  - Kaiserreich
-  - KR
-  - Africa
+  - generated
 
 -
  name: GFX_goal_agriculture2
  image: goal_agriculture2.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - agriculture
   - plant
 
@@ -6132,24 +5278,19 @@ goals:
  name: GFX_goal_action_francaise
  image: goal_action_francaise.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_goal_africa2
  image: goal_africa2.png
  tags:
-  - Kaiserreich
-  - KR
-  - Africa
+  - generated
 
 -
  name: GFX_goal_bombs_away
  image: goal_bombs_away.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - bomb
   - military
   - air force
@@ -6158,8 +5299,7 @@ goals:
  name: GFX_goal_anti_air
  image: goal_anti_air.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - military
   - army
   - antiair
@@ -6168,8 +5308,7 @@ goals:
  name: GFX_goal_anti_tank
  image: goal_anti_tank.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - military
   - army
   - antitank
@@ -6179,17 +5318,13 @@ goals:
  name: GFX_goal_aog_cloth
  image: goal_aog_cloth.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - AOG
+  - generated
 
 -
  name: GFX_goal_backstab
  image: goal_backstab.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - knife
   - backstab
   - stab
@@ -6198,8 +5333,7 @@ goals:
  name: GFX_goal_battleship
  image: goal_battleship.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - ship
   - navy
 
@@ -6207,17 +5341,13 @@ goals:
  name: GFX_goal_balkan_fist
  image: goal_balkan_fist.png
  tags:
-  - Kaiserreich
-  - KR
-  - fist
-  - Balkans
+  - generated
 
 -
  name: GFX_goal_artillery
  image: goal_artillery.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - artillery
   - army
 
@@ -6225,8 +5355,7 @@ goals:
  name: GFX_goal_bluewater_navy
  image: goal_bluewater_navy.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - navy
   - ship
 
@@ -6234,121 +5363,73 @@ goals:
  name: GFX_goal_aog_helmet
  image: goal_aog_helmet.png
  tags:
-  - Kaiserreich
-  - KR
-  - helmet
-  - army
-  - AOG
-  - flag
+  - generated
 
 -
  name: GFX_goal_buckingham
  image: goal_buckingham.png
  tags:
-  - Kaiserreich
-  - KR
-  - GBR
-  - building
+  - generated
 
 -
  name: GFX_goal_split_helmet
  image: goal_split_helmet.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - helmet
+  - generated
 
 -
  name: GFX_BUL_broken_crown
  image: BUL_broken_crown.png
  tags:
-  - Kaiserreich
-  - KR
-  - BUL
-  - flag
-  - crown
-  
+  - generated
 
 -
  name: GFX_goal_china_split_helmet
  image: goal_china_split_helmet.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - helmet
-  - flag
+  - generated
 
 -
  name: GFX_BUL_star
  image: BUL_star.png
  tags:
-  - Kaiserreich
-  - KR
-  - BUL
-  - flag
+  - generated
 
 -
  name: GFX_BUL_bulgarian_crown
  image: BUL_bulgarian_crown.png
  tags:
-  - Kaiserreich
-  - KR
-  - BUL
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_BUL_bulgarian_navy
  image: BUL_bulgarian_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - BUL
-  - flag
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_BUL_bulgarian_government
  image: BUL_bulgarian_government.png
  tags:
-  - Kaiserreich
-  - KR
-  - BUL
-  - government
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_BUL_bulgarian_army
  image: BUL_bulgarian_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - BUL
-  - flag
-  - military
+  - generated
 
 -
  name: GFX_BUL_bulgarian_officer
  image: BUL_bulgarian_officer.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - army
-  - military
-  - BUL
+  - generated
 
 -
  name: GFX_goal_cavalry
  image: goal_cavalry.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - army
   - military
   - cavalry
@@ -6357,18 +5438,13 @@ goals:
  name: GFX_goal_burning_globe
  image: goal_burning_globe.png
  tags:
-  - Kaiserreich
-  - KR
-  - fire
-  - globe
-  - world
+  - generated
 
 -
  name: GFX_goal_bull
  image: goal_bull.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - bull
   - animal
 
@@ -6376,7237 +5452,5054 @@ goals:
  name: GFX_goal_card_tricks
  image: goal_card_tricks.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
   - cards
 
 -
  name: GFX_goal_capitalist_system
  image: goal_capitalist_system.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
+  - generated
 
 -
  name: GFX_goal_collaborate_local_elites2
  image: goal_collaborate_local_elites2.png
  tags:
-  - Kaiserreich
-  - KR
-  - drinks
+  - generated
 
 -
  name: GFX_goal_collaborate_local_elites
  image: goal_collaborate_local_elites.png
  tags:
-  - Kaiserreich
-  - KR
-  - drinks
+  - generated
 
 -
  name: GFX_goal_champagne_diplomacy
  image: goal_champagne_diplomacy.png
  tags:
-  - Kaiserreich
-  - KR
-  - drinks
-  - ROM
+  - generated
 
 -
  name: GFX_america_goal_champagn
  image: america_goal_champagn.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - drinks
+  - generated
 
 -
  name: GFX_goal_construction
  image: goal_construction.png
  tags:
-  - Kaiserreich
-  - KR
-  - construction
+  - generated
 
 -
  name: GFX_goal_death_tracks
  image: goal_death_tracks.png
  tags:
-  - Kaiserreich
-  - KR
-  - infrastructure
-  - skull
+  - generated
 
 -
  name: GFX_goal_crush_monarchy
  image: goal_crush_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - crown
+  - generated
 
 -
  name: GFX_goal_foreign_diplomacy
  image: goal_foreign_diplomacy.png
  tags:
-  - Kaiserreich
-  - KR
-  - suitcase
+  - generated
 
 -
  name: GFX_goal_enlist_the_police
  image: goal_enlist_the_police.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_electronics
  image: goal_electronics.png
  tags:
-  - Kaiserreich
-  - KR
-  - electronics
+  - generated
 
 -
  name: GFX_goal_white_flag
  image: goal_white_flag.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
+  - generated
 
 -
  name: GFX_goal_skull_treaty2
  image: goal_skull_treaty2.png
  tags:
-  - Kaiserreich
-  - KR
-  - paper
-  - skull
+  - generated
 
 -
  name: GFX_goal_finnish_spirit
  image: goal_finnish_spirit.png
  tags:
-  - Kaiserreich
-  - KR
-  - FIN
+  - generated
 
 -
  name: GFX_goal_industry_air
  image: goal_industry_air.png
  tags:
-  - Kaiserreich
-  - KR
-  - industry
+  - generated
 
 -
  name: GFX_goal_japan_helmet
  image: goal_japan_helmet.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_japanese_navy
  image: goal_japanese_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - navy
-  - military
-  - flag
+  - generated
 
 -
  name: GFX_goal_lep_cloth
  image: goal_lep_cloth.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - flag
+  - generated
 
 -
  name: GFX_goal_islamic_government
  image: goal_islamic_government.png
  tags:
-  - Kaiserreich
-  - KR
-  - government
-  - religion
-  - islam
-  
+  - generated
 
 -
  name: GFX_goal_aog_money
  image: goal_aog_money.png
  tags:
-  - Kaiserreich
-  - KR
-  - AOG
-  - money
-  - flag
+  - generated
 
 -
  name: GFX_goal_japanese_officer
  image: goal_japanese_officer.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
-  - JAP
-  - flag
+  - generated
 
 -
  name: GFX_goal_egypt_coin
  image: goal_egypt_coin.png
  tags:
-  - Kaiserreich
-  - KR
-  - EGY
+  - generated
 
 -
  name: GFX_goal_machine
  image: goal_machine.png
  tags:
-  - Kaiserreich
-  - KR
-  - electronics
+  - generated
 
 -
  name: GFX_goal_bag_of_money
  image: goal_bag_of_money.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
-  - handshake
+  - generated
 
 -
  name: GFX_goal_radio
  image: goal_radio.png
  tags:
-  - Kaiserreich
-  - KR
-  - electronics
+  - generated
 
 -
  name: GFX_goal_oil
  image: goal_oil.png
  tags:
-  - Kaiserreich
-  - KR
-  - resources
+  - generated
 
 -
  name: GFX_goal_nuclear
  image: goal_nuclear.png
  tags:
-  - Kaiserreich
-  - KR
-  - nuclear
+  - generated
 
 -
  name: GFX_goal_officers
  image: goal_officers.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - hat
-  - military
+  - generated
 
 -
  name: GFX_goal_lec_seal
  image: goal_lec_seal.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_goal_navy_hat_ships
  image: goal_navy_hat_ships.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - navy
-  - ship
-  - hat
+  - generated
 
 -
  name: GFX_goal_rocket
  image: goal_rocket.png
  tags:
-  - Kaiserreich
-  - KR
-  - rocket
+  - generated
 
 -
  name: GFX_goal_ferarri
  image: goal_ferarri.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_goal_ferarri_air
  image: goal_ferarri_air.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
+  - generated
 
 -
  name: GFX_goal_Ecole_Naval_de_Guerre
  image: goal_Ecole_Naval_de_Guerre.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - military
-  - navy
-  - flag
-  - ship
+  - generated
 
 -
  name: GFX_goal_Kunglinga_Skorigskolan
  image: goal_Kunglinga_Skorigskolan.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
-  - navy
-  - military
-  - flag
+  - generated
 
 -
  name: GFX_goal_Marineakademie
  image: goal_Marineakademie.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - flag
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_hunt_down_saudis
  image: goal_hunt_down_saudis.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - SAU
+  - generated
 
 -
  name: GFX_goal_purge_the_Ikhwan
  image: goal_purge_the_Ikhwan.png
  tags:
-  - Kaiserreich
-  - KR
-  - skull
+  - generated
 
 -
  name: GFX_ARG_Islas_Malvinas
  image: ARG_Islas_Malvinas.png
  tags:
-  - Kaiserreich
-  - KR
-  - island
-  - ARG
+  - generated
 
 -
  name: GFX_ARG_argentina_flag
  image: ARG_argentina_flag.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - ARG
+  - generated
 
 -
  name: GFX_ARG_attack_brazil
  image: ARG_attack_brazil.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - BRA
-  - sword
+  - generated
 
 -
  name: GFX_goal_DEI_focus_de_jonge
  image: DEI_focus_de_jonge.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEI
-  - person
+  - generated
 
 -
  name: GFX_goal_DEI_focus_furstner
  image: DEI_focus_furstner.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEI
-  - person
+  - generated
 
 -
  name: GFX_goal_DEI_focus_palar
  image: DEI_focus_palar.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEI
-  - person
+  - generated
 
 -
  name: GFX_goal_DEI_focus_starkenborgh_stachouwer
  image: DEI_focus_starkenborgh_stachouwer.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEI
-  - person
+  - generated
 
 -
  name: GFX_goal_DEI_focus_moar_rubber
  image: DEI_focus_moar_rubber.png
  tags:
-  - Kaiserreich
-  - KR
-  - rubber
-  - resources
+  - generated
 
 -
  name: GFX_goal_DEI_focus_ban_rice_import
  image: DEI_focus_ban_rice_import.png
  tags:
-  - Kaiserreich
-  - KR
-  - rice
+  - generated
 
 -
  name: GFX_goal_INS_focus_abandon_ethical_policy
  image: INS_focus_abandon_ethical_policy.png
  tags:
-  - Kaiserreich
-  - KR
-  - government
-  - cross
+  - generated
 
 -
  name: GFX_goal_INS_focus_garuda
  image: INS_focus_garuda.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
+  - generated
 
 -
  name: GFX_goal_INS_focus_Insulindian_sultanate
  image: INS_focus_Insulindian_sultanate.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - flag
+  - generated
 
 -
  name: GFX_goal_DEI_focus_batavia_conference
  image: DEI_focus_batavia_conference.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_INS_focus_islamic_socialism
  image: INS_focus_islamic_socialism.png
  tags:
-  - Kaiserreich
-  - KR
-  - handshake
-  - religion
-  - muslim
-  - handshake
+  - generated
 
 -
  name: GFX_goal_INS_focus_malphilinsul
  image: INS_focus_malphilinsul.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - flag
+  - generated
 
 -
  name: GFX_goal_INS_focus_merdeka
  image: INS_focus_merdeka.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - liberty
+  - generated
 
 -
  name: GFX_goal_INS_focus_nusantara_communes
  image: INS_focus_nusantara_communes.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - syndicalist
-  - flag
+  - generated
 
 -
  name: GFX_goal_INS_focus_party_coalition
  image: INS_focus_party_coalition.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - liberty
-  - handshake
+  - generated
 
 -
  name: GFX_goal_INS_focus_party_di
  image: INS_focus_party_di.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - INS
+  - generated
 
 -
  name: GFX_goal_INS_focus_party_murba
  image: INS_focus_party_murba.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - INS
+  - generated
 
 -
  name: GFX_goal_INS_focus_party_nu
  image: INS_focus_party_nu.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
+  - generated
 
 -
  name: GFX_goal_INS_focus_party_PNI
  image: INS_focus_party_PNI.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
+  - generated
 
 -
  name: GFX_goal_INS_focus_stable_again
  image: INS_focus_stable_again.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - liberty
+  - generated
 
 -
  name: GFX_goal_INS_Insulindian_military
  image: INS_Insulindian_military.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - flag
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_Bolivia_rules_the_Seas
  image: Bolivia_rules_the_Seas.png
  tags:
-  - Kaiserreich
-  - KR
-  - BOL
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_COS_Costa_Rica
  image: COS_Costa_Rica.png
  tags:
-  - Kaiserreich
-  - KR
-  - COS
+  - generated
 
 -
  name: GFX_goal_COS_Peace
  image: COS_Peace.png
  tags:
-  - Kaiserreich
-  - KR
-  - COS
-  - bird
+  - generated
 
 -
  name: GFX_goal_COS_War
  image: COS_War.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_HON_sugar_plantations
  image: HON_sugar_plantations.png
  tags:
-  - Kaiserreich
-  - KR
-  - sugar
+  - generated
 
 -
  name: GFX_HON_ufc
  image: HON_ufc.png
  tags:
-  - Kaiserreich
-  - KR
-  - HON
+  - generated
 
 -
  name: GFX_HON_ufc_question
  image: HON_ufc_question.png
  tags:
-  - Kaiserreich
-  - KR
-  - HON
+  - generated
 
 -
  name: GFX_HON_ufc_ties
  image: HON_ufc_ties.png
  tags:
-  - Kaiserreich
-  - KR
-  - banana
-  - handshake
+  - generated
 
 -
  name: GFX_HON_flag
  image: HON_flag.png
  tags:
-  - Kaiserreich
-  - KR
-  - HON
-  - flag
+  - generated
 
 -
  name: GFX_HON_ufc_ban
  image: HON_ufc_ban.png
  tags:
-  - Kaiserreich
-  - KR
-  - HON
-  - fist
+  - generated
 
 -
  name: GFX_HON_company_assets
  image: HON_company_assets.png
  tags:
-  - Kaiserreich
-  - KR
-  - HON
-  - money
+  - generated
 
 -
  name: GFX_HON_peace_in_our_time
  image: HON_peace_in_our_time.png
  tags:
-  - Kaiserreich
-  - KR
-  - bird
+  - generated
 
 -
  name: GFX_HON_wills_walkers
  image: HON_wills_walkers.png
  tags:
-  - Kaiserreich
-  - KR
-  - HON
+  - generated
 
 -
  name: GFX_collective_housing
  image: focus_collective_housing.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_CHL_Land_Of_Santiago
  image: goal_CHL_Land_Of_Santiago.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHL
+  - generated
 
 -
  name: GFX_goal_CUB_America
  image: CUB_America.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - CSA
-  - TEX
-  - USA
+  - generated
 
 -
  name: GFX_goal_DOM_The_Phoenix
  image: DOM_The_Phoenix.png
  tags:
-  - Kaiserreich
-  - KR
-  - phoenix
+  - generated
 
 -
  name: GFX_goal_DOM_Trujillo_en_Tierra
  image: DOM_Trujillo_en_Tierra.png
  tags:
-  - Kaiserreich
-  - KR
-  - DOM
-  - person
+  - generated
 
 -
  name: GFX_goal_DEN_focus_danish_democracy
  image: DEN_focus_danish_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEN
-  - liberty
+  - generated
 
 -
  name: GFX_goal_DEN_focus_danish_kingdom
  image: DEN_focus_danish_kingdom.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEN
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_goal_DEN_focus_nordisk_film
  image: DEN_focus_nordisk_film.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEN
+  - generated
 
 -
  name: GFX_goal_DEN_focus_sovaernet
  image: DEN_focus_sovaernet.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEN
+  - generated
 
 -
  name: GFX_goal_ICE_focus_icelandic_democracy
  image: ICE_focus_icelandic_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - ICE
-  - liberty
+  - generated
 
 -
  name: GFX_goal_SCA_focus_scandinavian_democracy
  image: SCA_focus_scandinavian_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - liberty
+  - generated
 
 -
  name: GFX_goal_continuous_political
  image: goal_continuous_political.png
  tags:
-  - Kaiserreich
-  - KR
-  - government
+  - generated
 
 -
  name: GFX_goal_AUS_tanks
  image: AUS_tank.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
-  - tank
-  - military
+  - generated
 
 -
  name: GFX_focus_AUS_naturfreunde
  image: AUS_naturfreunde.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
+  - generated
 
 -
  name: GFX_goal_AUS_federation
  image: AUS_federation.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
+  - generated
 
 -
  name: GFX_goal_air_armada
  image: goal_air_armada.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_new_airforce
  image: goal_new_airforce.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_FRA_savoie
  image: goal_FRA_savoie.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - flag
+  - generated
 
 -
  name: GFX_goal_AUS_step_on_skull
  image: goal_AUS_step_on_skull.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
-  - skull
+  - generated
 
 -
  name: GFX_goal_HUN_step_on_skull
  image: goal_HUN_step_on_skull.png
  tags:
-  - Kaiserreich
-  - KR
-  - HUN
-  - skull
+  - generated
 
 -
  name: GFX_goal_SWI_defense
  image: goal_SWI_defense.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - sword
+  - generated
 
 -
  name: GFX_goal_SWI_flagship
  image: goal_SWI_flagship.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - navy
+  - generated
 
 -
  name: GFX_goal_SWI_guisan
  image: goal_SWI_guisan.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - person
+  - generated
 
 -
  name: GFX_goal_SWI_bircher
  image: goal_SWI_bircher.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - person
+  - generated
 
 -
  name: GFX_goal_SWI_prosperity
  image: goal_SWI_prosperity.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - liberty
+  - generated
 
 -
  name: GFX_goal_SWI_reduit
  image: goal_SWI_reduit.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - shield
-  - flag
+  - generated
 
 -
  name: GFX_goal_SWI_oerlikon
  image: goal_SWI_oerlikon.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
+  - generated
 
 -
  name: GFX_goal_SWI_steel
  image: goal_SWI_steel.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
+  - generated
 
 -
  name: GFX_goal_SWI_austria
  image: goal_SWI_austria.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - AUS
-  - flag
+  - generated
 
 -
  name: GFX_goal_SWI_germany
  image: goal_SWI_germany.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - GER
-  - flag
+  - generated
 
 -
  name: GFX_goal_SWI_black_spot
  image: goal_SWI_black_spot.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - SWI
+  - generated
 
 -
  name: GFX_goal_SWI_greater_switzerland
  image: SWI_greater_switzerland.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWI
-  - guns
+  - generated
 
 -
  name: GFX_goal_generic_coastal_navy
  image: goal_generic_coastal_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_japanese_democracy
  image: goal_japanese_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - liberty
-  - flag
+  - generated
 
 -
  name: GFX_goal_shadow_government
  image: shadow_government.png
  tags:
-  - Kaiserreich
-  - KR
-  - government
+  - generated
 
 -
  name: GFX_goal_paneuropa
  image: GER_paneuropa.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - AUS
-  - SCA
-  - hands
-  - flag
+  - generated
 
 -
  name: GFX_goal_rights_for_service
  image: GER_rights_for_service.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - handshake
-  - army
-  - military
-   -flag
+  - generated
 
 -
  name: GFX_goal_crush_france
  image: GER_crush_france.png
  tags:
-  - Kaiserreich
-  - KR
-  - FRA
+  - generated
 
 -
  name: GFX_goal_our_continent
  image: GER_our_continent.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - Africa
-  - flag
+  - generated
 
 -
  name: GFX_goal_dcgb
  image: GER_dcgb.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - protestantism
+  - generated
+
 -
  name: GFX_goal_renewed_militarism
  image: GER_renewed_militarism.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - fist
-  - flag
+  - generated
+
 -
  name: GFX_goal_democracy_in_prussia
  image: GER_democracy_in_prussia.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - democracy
+  - generated
 
 -
  name: GFX_goal_europamark
  image: GER_europamark.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
+  - generated
 
 -
  name: GFX_goal_ceylon
  image: GER_ceylon.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
+  - generated
 
 -
  name: GFX_goal_art_propaganda
  image: UK_art_propaganda.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAN
-  - government
+  - generated
 
 -
  name: GFX_goal_secret_police
  image: MAF_secret_police.png
  tags:
-  - Kaiserreich
-  - KR
-  - political
+  - generated
 
 -
  name: GFX_goal_demobilization
  image: UoB_demobilization.png
  tags:
-  - Kaiserreich
-  - KR
-  - fortification
-  - flag
+  - generated
 
 -
  name: GFX_goal_OTT_coat_of_arms
  image: OTT_coat_of_arms.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
-  - flag
+  - generated
 
 -
  name: GFX_goal_OTT_ferman
  image: OTT_ferman.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_OTT_constitution
  image: OTT_constitution.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_OTT_reform
  image: OTT_reform.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_OTT_caliph
  image: OTT_caliph.png
  tags:
-  - Kaiserreich
-  - KR
-  - handshake
-  - religion
+  - generated
 
 -
  name: GFX_goal_OTT_opda
  image: OTT_opda.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_OTT_army
  image: OTT_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_OTT_camels
  image: OTT_camels.png
  tags:
-  - Kaiserreich
-  - KR
-  - camels
+  - generated
 
 -
  name: GFX_goal_OTT_gendarmerie
  image: OTT_gendarmerie.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
+  - generated
 
 -
  name: GFX_goal_art_avantgarde
  image: UK_art_avantgarde.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_forever_eyes_program
  image: UK_forever_eyes_program.png
  tags:
-  - Kaiserreich
-  - KR
-  - crown
+  - generated
 
 -
  name: GFX_goal_AIB
  image: BRA_AIB.png
  tags:
-  - Kaiserreich
-  - KR
-  - BRA
+  - generated
 
 -
  name: GFX_goal_faith_and_state
  image: BRA_faith_and_state.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_goal_integralism
  image: BRA_integralism.png
  tags:
-  - Kaiserreich
-  - KR
-  - BRA
+  - generated
 
 -
  name: GFX_goal_bananas
  image: GUA_bananas.png
  tags:
-  - Kaiserreich
-  - KR
-  - banana
+  - generated
+
 -
  name: GFX_goal_wheat
  image: GUA_wheat.png
  tags:
-  - Kaiserreich
-  - KR
-  - wheat
+  - generated
 
 -
  name: GFX_goal_syndicalist_congress
  image: BRA_congress.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - handshake
+  - generated
 
 -
  name: GFX_goal_brazilian_syndicalism
  image: BRA_brazilian_syndicalism.png
  tags:
-  - Kaiserreich
-  - KR
-  - BRA
-  - syndicalist
-  - flag
+  - generated
 
 -
  name: GFX_IRE_Ulster
  image: IRE_Ulster.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - flag
+  - generated
 
 -
  name: GFX_IRE_RTN
  image: IRE_RTN.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
+  - generated
 
 -
  name: GFX_IRE_Capital
  image: IRE_capital.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - building
+  - generated
 
 -
  name: GFX_IRE_women_pilots
  image: IRE_women_pilots.png
  tags:
-  - Kaiserreich
-  - KR
-  - women
+  - generated
 
 -
  name: GFX_IRE_taxation
  image: IRE_Taxation.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
+  - generated
 
 -
  name: GFX_IRE_farms
  image: IRE_farms.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - construction
+  - generated
 
 -
  name: GFX_IRE_church
  image: IRE_Church.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - IRE
+  - generated
 
 -
  name: GFX_IRE_church2
  image: IRE_Church2.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_IRE_gaelic
  image: IRE_gaelic.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_IRE_ulsterscots
  image: IRE_ulsterscots.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - IRE
+  - generated
 
 -
  name: GFX_IRE_peoples_army
  image: IRE_peoples_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - army
-  - military
+  - generated
 
 -
  name: GFX_IRE_honorable_army
  image: IRE_honorable_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - handshake
-  - army
-  - military
+  - generated
 
 -
  name: GFX_IRE_heavy_industry
  image: IRE_heavy_industry.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - industry
+  - generated
 
 -
  name: GFX_IRE_medium_industry
  image: IRE_medium_industry.png
  tags:
-  - Kaiserreich
-  - KR
-  - industry
+  - generated
 
 -
  name: GFX_IRE_sanctuary
  image: IRE_sanctuary.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - religion
+  - generated
 
 -
  name: GFX_IRE_defence
  image: IRE_defence.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - military
-  - shield
+  - generated
 
 -
  name: GFX_IRE_integrate_irish_americans
  image: IRE_integrate_irish_americans.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - flag
-  - USA
+  - generated
 
 -
  name: GFX_IRE_youth
  image: IRE_youth.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRE
-  - person
-  - flag
+  - generated
 
 -
  name: GFX_goal_doctrine_fire_superiority
  image: doctrine_fire_superiority.png
  tags:
-  - Kaiserreich
-  - KR
-  - artillery
-  - fist
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_RUS_Yunarmiya
  image: RUS_Yunarmiya.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - army
-  - military
-  - flag
+  - generated
 
 -
  name: GFX_goal_RUS_local_baracks
  image: RUS_local_baracks.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - building
-  - flag
+  - generated
 
 -
  name: GFX_goal_RUS_armored_school
  image: RUS_tank.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - flag
-  - tank
-  - military
+  - generated
 
 -
  name: GFX_human_tsunami
  image: Human_tsunami.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_JAP_tank
  image: JAP_tank.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - tank
-  - flag
+  - generated
 
 -
  name: GFX_goal_USA_president_reed
  image: USA_goal_reed.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - person
+  - generated
 
 -
  name: GFX_goal_USA_president_long
  image: USA_goal_long.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - person
+  - generated
 
 -
  name: GFX_goal_USA_president_garner
  image: USA_goal_garner.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - person
+  - generated
 
 -
  name: GFX_goal_USA_president_curtis
  image: USA_goal_curtis.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - person
+  - generated
 
 -
  name: GFX_goal_USA_general_macarthur
  image: USA_goal_macarthur.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - person
+  - generated
 
 -
  name: GFX_goal_USA_new_deal
  image: USA_goal_new_deal.png
  tags:
-  - Kaiserreich
-  - KR
-  - cards
+  - generated
 
 -
  name: GFX_goal_USA_liberty_ships
  image: USA_goal_liberty_ships.png
  tags:
-  - Kaiserreich
-  - KR
-  - ship
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_USA_coast_guard
  image: america_goal_coast_guard.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - USA
+  - generated
 
 -
  name: GFX_goal_USA_national_guard
  image: america_goal_national_guard.png
  tags:
-  - Kaiserreich
-  - KR
-  - shield
-  - army
+  - generated
 
 -
  name: GFX_goal_USA_navy
  image: america_goal_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - USA
-  - military
+  - generated
 
 -
  name: GFX_goal_USA_nra
  image: america_goal_nra.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - industry
+  - generated
 
 -
  name: GFX_goal_USA_screaming_eagles
  image: america_goal_screaming_eagles.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - air
+  - generated
 
 -
  name: GFX_goal_USA_usaaf
  image: america_goal_usaaf.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - USA
+  - generated
 
 -
  name: GFX_goal_USA_usmc
  image: america_goal_usmc.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - navy
+  - generated
 
 -
  name: GFX_goal_UKR_ukranian_king
  image: focus_UKR_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - UKR
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_commonwealth
  image: focus_plc_commonwealth_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - PLC
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_polish_king
  image: focus_pol_polish_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - POL
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_russian_alliance
  image: POL_Russian_Alliance.png
  tags:
-  - Kaiserreich
-  - KR
-  - POL
-  - RUS
-  - flag
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_POL_austrian_king
  image: focus_pol_austrian_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_ruthenian_king
  image: focus_pol_ruthenian_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - WHR
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_german_king
  image: focus_pol_german_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_lithuanian_king
  image: focus_pol_lithuanian_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - LIT
-  - flag
+  - generated
 
 -
  name: GFX_goal_POL_polish_crest
  image: POL_regency_council_focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - POL
+  - generated
 
 -
  name: GFX_goal_POL_militarism
  image: POL_focus_militarism.png
  tags:
-  - Kaiserreich
-  - KR
-  - POL
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_POL_a_firm_hand
  image: POL_focus_a_firm_hand.png
  tags:
-  - Kaiserreich
-  - KR
-  - POL
-  - sword
+  - generated
 
 -
  name: GFX_goal_POL_winged_hussars
  image: goal_POL_hussars.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - skull
-  - military
+  - generated
 
 -
  name: GFX_goal_POL_mendog
  image: PLC_mendog.png
  tags:
-  - Kaiserreich
-  - KR
-  - POL
-  - LIT
-  - person
+  - generated
 
 -
  name: GFX_goal_japanese_imperialism
  image: goal_japanese_imperialism.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - JAP
+  - generated
 
 -
  name: GFX_goal_JAP_kohoda
  image: goal_JAP_kohoda.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_JAP_toseiha
  image: goal_JAP_toseiha.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - army
-  - hat
-  - military
+  - generated
 
 -
  name: GFX_goal_JAP_yen
  image: goal_JAP_yen.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_JAP_REF
  image: goal_JAP_REF.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - flag
+  - generated
 
 -
  name: GFX_goal_JAP_PAR
  image: goal_JAP_PAR.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_JAP_WAY
  image: goal_JAP_WAY.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
+  - generated
 
 -
  name: GFX_goal_japanese_democracy
  image: goal_japanese_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - liberty
-  - flag
+  - generated
 
 -
  name: GFX_goal_LEC_police1
  image: goal_LEC_police1.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_LEC_police2
  image: goal_LEC_police2.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_LEC_police3
  image: goal_LEC_police3.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_LEC_shanghai_volunteers
  image: LEC_shanghai_volunteers.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_goal_LEC_shanghai_yuan
  image: LEC_shanghai_yuan.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_goal_LEC_monkey
  image: goal_LEC_monkey.png
  tags:
-  - Kaiserreich
-  - KR
-  - skull
+  - generated
 
 -
  name: GFX_goal_LEC_establish
  image: goal_LEC_establish.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - flag
+  - generated
 
 -
  name: GFX_goal_LEC_armsBRA
  image: goal_LEC_armsBRA.png
  tags:
-  - Kaiserreich
-  - KR
-  - sword
-  - BRA
+  - generated
 
 -
  name: GFX_goal_LEC_armsUSA
  image: goal_LEC_armsUSA.png
  tags:
-  - Kaiserreich
-  - KR
-  - sword
-  - USA
+  - generated
 
 -
  name: GFX_goal_LEC_armsSPA
  image: goal_LEC_armsSPA.png
  tags:
-  - Kaiserreich
-  - KR
-  - SPR
-  - sword
+  - generated
 
 -
  name: GFX_goal_LEC_armsRUS
  image: goal_LEC_armsRUS.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - sword
+  - generated
 
 -
  name: GFX_goal_LEC_triads
  image: goal_LEC_triads.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_goal_LEC_jiang
  image: goal_LEC_jiang.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - person
+  - generated
 
 -
  name: GFX_goal_LEC_huang
  image: goal_LEC_huang.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - person
+  - generated
 
 -
  name: GFX_goal_LEC_du
  image: goal_LEC_du.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - person
+  - generated
 
 -
  name: GFX_goal_generic_positive_trade_relations_gold
  image: goal_generic_positive_trade_relations_gold.png
  tags:
-  - Kaiserreich
-  - KR
-  - trade
+  - generated
 
 -
  name: GFX_goal_LEC_strikeAOG
  image: goal_LEC_strikeAOG.png
  tags:
-  - Kaiserreich
-  - KR
-  - AOG
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_goal_LEC_strikeJAP
  image: goal_LEC_strikeJAP.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_goal_LEC_strikePOR
  image: goal_LEC_strikePOR.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - flag
-  - fist
+  - generated
 
 -
  name: GFX_goal_LEC_big_trouble
  image: goal_LEC_big_trouble.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - skull
+  - generated
 
 -
  name: GFX_goal_UK_ban_unions
  image: UK_ban_unions.png
  tags:
-  - Kaiserreich
-  - KR
-  - cross
-  - syndicalist
-  - industry
+  - generated
 
 -
  name: GFX_goal_panafrica
  image: goal_africa.png
  tags:
-  - Kaiserreich
-  - KR
-  - hands
-  - Africa
+  - generated
 
 -
  name: GFX_goal_national_populism
  image: goal_national_populism.png
  tags:
-  - Kaiserreich
-  - KR
-  - national populist
+  - generated
 
 -
  name: GFX_BAT_aut
  image: BAT_aut.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - hands
+  - generated
 
 -
  name: GFX_BAT_emancipation
  image: BAT_emancipation.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - flag
+  - generated
 
 -
  name: GFX_BAT_air
  image: BAT_air.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - air
-  - military
+  - generated
 
 -
  name: GFX_BAT_army
  image: BAT_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - army
-  - military
-  - helmet
+  - generated
 
 -
  name: GFX_BAT_conscript
  image: BAT_conscript.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
-  - BAT
+  - generated
 
 -
  name: GFX_BAT_navy
  image: BAT_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - BAT
-  - military
+  - generated
 
 -
  name: GFX_BAT_ostwall
  image: BAT_ostwall.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - military
-  - army
-  - shield
+  - generated
 
 -
  name: GFX_BAT_trade
  image: BAT_trade.png
  tags:
-  - Kaiserreich
-  - KR
-  - BAT
-  - trade
+  - generated
 
 -
  name: GFX_HOL_daf
  image: goal_HOL_daf.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_invest_philips
  image: goal_HOL_invest_philips.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_dutch_navy
  image: goal_HOL_dutch_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_HOL_dutch_army
  image: goal_HOL_dutch_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - army
+  - generated
 
 -
  name: GFX_goal_HOL_korps_mariniers
  image: goal_HOL_korps_mariniers.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_india_united
  image: goal_india_united.png
  tags:
-  - Kaiserreich
-  - KR
-  - India
-  - flag
+  - generated
 
 -
  name: GFX_goal_red_star_gold_wreath
  image: goal_red_star_gold_wreath.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - flag
+  - generated
 
 -
  name: GFX_goal_india_council
  image: goal_india_council.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRF
-  - flag
+  - generated
 
 -
  name: GFX_goal_india_hyderabad
  image: goal_india_hyderabad.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRF
-  - flag
+  - generated
 
 -
  name: GFX_goal_india_kaisar
  image: goal_india_kaisar.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - PRF
+  - generated
 
 -
  name: GFX_goal_italy_pius
  image: ITA_goal_Pius.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
-  - person
+  - generated
 
 -
  name: GFX_goal_italy_stephen
  image: ITA_goal_Stephen.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
-  - person
+  - generated
 
 -
  name: GFX_goal_italy_john
  image: ITA_goal_John.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
-  - person
+  - generated
 
 -
  name: GFX_goal_uobritain
  image: goal_flag_uobritain.png
  tags:
-  - Kaiserreich
-  - KR
-  - ENG
-  - flag
+  - generated
 
 -
  name: GFX_goal_italianfed
  image: goal_flag_italianfed.png
  tags:
-  - Kaiserreich
-  - KR
-  - ITA
-  - flag
+  - generated
 
 -
  name: GFX_goal_illyria
  image: goal_flag_illyria.png
  tags:
-  - Kaiserreich
-  - KR
-  - CRO
-  - flag
+  - generated
 
 -
  name: GFX_goal_yamato_hotel
  image: goal_yamato_hotel.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
-  - JAP
+  - generated
 
 -
  name: GFX_goal_zhang_rifle
  image: goal_zhang_rifle.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - guns
+  - generated
 
 -
  name: GFX_goal_beiyang_flags
  image: goal_beiyang_flags.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - flag
+  - generated
 
 -
  name: GFX_goal_model_cities
  image: goal_model_cities.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
+  - generated
 
 -
  name: GFX_goal_develop_provinces
  image: goal_develop_provinces.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - infrastructure
+  - generated
 
 -
  name: GFX_goal_civil_service
  image: goal_civil_service.png
  tags:
-  - Kaiserreich
-  - KR
-  - paper
+  - generated
 
 -
  name: GFX_goal_anl_continues
  image: goal_anl_continues.png
  tags:
-  - Kaiserreich
-  - KR
-  - BRA
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_coffee_boom
  image: goal_coffee_boom.png
  tags:
-  - Kaiserreich
-  - KR
-  - resources
-  - coffee
+  - generated
 
 -
  name: GFX_goal_coffee_exports
  image: goal_coffee_exports.png
  tags:
-  - Kaiserreich
-  - KR
-  - resources
-  - coffee
+  - generated
 
 -
  name: GFX_goal_conquistador_legacy
  image: goal_conquistador_legacy.png
  tags:
-  - Kaiserreich
-  - KR
-  - sword
-  - hat
+  - generated
 
 -
  name: GFX_goal_entente_arms_trade
  image: goal_entente_arms_trade.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAN
-  - trade
+  - generated
 
 -
  name: GFX_goal_imperial_legacy
  image: goal_imperial_legacy.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - eagle
+  - generated
 
 -
  name: GFX_goal_integrate_workers_militia
  image: goal_integrate_workers_militia.png
  tags:
-  - Kaiserreich
-  - KR
-  - BRA
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_leopardo_government
  image: goal_leopardo_government.png
  tags:
-  - Kaiserreich
-  - KR
-  - animal
+  - generated
 
 -
  name: GFX_goal_mittel_arms_trade
  image: goal_mittel_arms_trade.png
  tags:
-  - Kaiserreich
-  - KR
-  - guns
-  - trade
+  - generated
 
 -
  name: GFX_goal_native_integration
  image: goal_native_integration.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_plantation_grants
  image: goal_plantation_grants.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_recall_mittel_mission
  image: goal_recall_mittel_mission.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_revolution_arms
  image: goal_revolution_arms.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - guns
+  - generated
 
 -
  name: GFX_goal_vargas_victorious
  image: goal_vargas_victorious.png
  tags:
-  - Kaiserreich
-  - KR
-  - BRA
-  - person
+  - generated
 
 -
  name: GFX_goal_japanese_instructors
  image: goal_japanese_instructors.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - army
-  - helmet
-  - military
-  - guns
+  - generated
 
 -
  name: GFX_goal_chinese_instructors
  image: goal_chinese_instructors.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - helmet
-  - guns
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_mantetsu_collaboration
  image: goal_mantetsu_collaboration.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_goal_mantetsu_projects
  image: goal_mantetsu_projects.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - hat
+  - generated
 
 -
  name: GFX_goal_japanese_investment
  image: goal_japanese_investment.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - handshake
+  - generated
 
 -
  name: GFX_goal_chinese_investment
  image: goal_chinese_investment.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - handshake
+  - generated
 
 -
  name: GFX_goal_golden_dragon
  image: goal_golden_dragon.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - book
+  - generated
 
 -
  name: GFX_goal_grand_marshal
  image: goal_grand_marshal.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - person
+  - generated
 
 -
  name: GFX_goal_japanese_tank_import
  image: goal_japanese_tank_import.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - tank
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_silver_reserve
  image: goal_silver_reserve.png
  tags:
-  - Kaiserreich
-  - KR
-  - resources
-  - money
+  - generated
 
 -
  name: GFX_goal_yanshan
  image: goal_yanshan.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
-  - mountain
+  - generated
 
 -
  name: GFX_goal_shanhaiguan
  image: goal_shanhaiguan.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_beijing_begonia
  image: goal_beijing_begonia.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - fist
-  - building
+  - generated
 
 -
  name: GFX_goal_fengtian_light_metals
  image: goal_fengtian_light_metals.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
+  - generated
 
 -
  name: GFX_goal_shenyang_arsenal
  image: goal_shenyang_arsenal.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
+  - generated
 
 -
  name: GFX_RUS_tsar_kyril
  image: RUS_tsar_kyril.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - person
+  - generated
 
 -
  name: GFX_RUS_tsar_dmitri
  image: RUS_tsar_dmitri.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - person
+  - generated
 
 -
  name: GFX_goal_POR_saotome
  image: goal_POR_saotome.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_angola
  image: goal_POR_angola.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_capeverde
  image: goal_POR_capeverde.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_goa
  image: goal_POR_goa.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_macau
  image: goal_POR_macau.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_mozambique
  image: goal_POR_mozambique.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_NOR_FFI
  image: goal_NOR_FFI.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_army
  image: goal_NOR_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_NOR_navy
  image: goal_NOR_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_NOR_airforce
  image: goal_NOR_airforce.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_NOR_army_airforce
  image: goal_NOR_army_airforce.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - army
-  - NOR
-  - military
+  - generated
+
 -
  name: GFX_goal_NOR_navy_airforce
  image: goal_NOR_navy_airforce.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - air
-  - military
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_DNL
  image: goal_NOR_DNL.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_syndicalist
  image: goal_NOR_syndicalist.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_NOR_secret_police
  image: goal_NOR_secret_police.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_NOR_kompani_linge
  image: goal_NOR_kompani_linge.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_democratic
  image: goal_NOR_democratic.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - flag
-  - liberty
+  - generated
 
 -
  name: GFX_goal_NOR_royal_guards
  image: goal_NOR_royal_guards.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_new_police
  image: goal_NOR_new_police.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_SAS
  image: goal_NOR_SAS.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
+  - generated
 
 -
  name: GFX_goal_NOR_scandinavia
  image: goal_NOR_scandinavia.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - flag
+  - generated
 
 -
  name: GFX_goal_NOR_nordic_council
  image: goal_NOR_nordic_council.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - DEN
-  - SWE
-  - flag
+  - generated
 
 -
  name: GFX_goal_NOR_defense_union
  image: goal_NOR_defense_union.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
+  - generated
 
 -
  name: GFX_goal_NOR_passport_convention
  image: goal_NOR_passport_convention.png
  tags:
-  - Kaiserreich
-  - KR
-  - passport
+  - generated
 
 -
  name: GFX_goal_NOR_scandi_research
  image: goal_NOR_scandi_research.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - research
+  - generated
 
 -
  name: GFX_goal_NOR_arbeidstjenesten
  image: goal_NOR_arbeidstjenesten.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - infrastructure
+  - generated
 
 -
  name: GFX_goal_NOR_greenland
  image: goal_NOR_greenland.png
  tags:
-  - Kaiserreich
-  - KR
-  - Greenland
+  - generated
 
 -
  name: GFX_goal_NOR_hirden
  image: goal_NOR_hirden.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - sword
+  - generated
 
 -
  name: GFX_goal_NOR_hirdens_flykorps
  image: goal_NOR_hirdens_flykorps.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_hirdmarinen
  image: goal_NOR_hirdmarinen.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_NOR_NS
  image: goal_NOR_NS.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_quisling_guard
  image: goal_NOR_quisling_guard.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_statspolitiet
  image: goal_NOR_statspolitiet.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
+  - generated
 
 -
  name: GFX_goal_NOR_iceland
  image: goal_NOR_iceland.png
  tags:
-  - Kaiserreich
-  - KR
-  - ICE
+  - generated
 
 -
  name: GFX_goal_NOR_norgesveldet
  image: goal_NOR_norgesveldet.png
  tags:
-  - Kaiserreich
-  - KR
-  - NOR
-  - flag
+  - generated
 
 -
  name: GFX_goal_NOR_orkney_shetland
  image: goal_NOR_orkney_shetland.png
  tags:
-  - Kaiserreich
-  - KR
-  - shetland
+  - generated
 
 -
  name: GFX_goal_SWE_railroads
  image: goal_SWE_railroads.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_landstormen
  image: goal_SWE_landstormen.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
-  - army
-  - military
-  - flag
+  - generated
 
 -
  name: GFX_goal_SWE_bofors
  image: goal_SWE_bofors.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_husqvarna
  image: goal_SWE_husqvarna.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_kth
  image: goal_SWE_kth.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_lkab
  image: goal_SWE_lkab.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_foa
  image: goal_SWE_foa.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_army
  image: goal_SWE_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_SWE_jagers
  image: goal_SWE_jagers.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
-  - animal
+  - generated
 
 -
  name: GFX_goal_SWE_landsverk
  image: goal_SWE_landsverk.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_pansartrupperna
  image: goal_SWE_pansartrupperna.png
  tags:
-  - Kaiserreich
-  - KR
-  - sword
+  - generated
 
 -
  name: GFX_goal_SWE_karl_XII
  image: goal_SWE_karl_XII.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_saab
  image: goal_SWE_saab.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
+  - generated
 
 -
  name: GFX_goal_SWE_airforce_1
  image: goal_SWE_airforce_1.png
  tags:
-  - Kaiserreich
-  - KR
-  - SWE
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_SWE_airforce_2
  image: goal_SWE_airforce_2.png
  tags:
-  - Kaiserreich
-  - KR
-  - bird
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_SWE_navy
  image: goal_SWE_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_WIP
  image: goal_WIP.png
  tags:
-  - Kaiserreich
-  - KR
-  - WIP
+  - generated
 
 -
  name: GFX_goal_caribbean
  image: goal_Caribbean.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAF
-  - flag
+  - generated
 
 -
  name: GFX_goal_SOM_stand_ready
  image: goal_SOM_stand_ready.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
-  - army
-  - military
-  - flag
+  - generated
 
 -
  name: GFX_goal_SOM_pacify_som
  image: goal_SOM_pacify_som.png
  tags:
-  - Kaiserreich
-  - KR
-  - SOM
-  - handshake
-  - flag
+  - generated
 
 -
  name: GFX_goal_POR_zambia
  image: goal_POR_zambia.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_pink_map
  image: goal_POR_pink_map.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
+  - generated
 
 -
  name: GFX_goal_POR_ban_republic
  image: goal_POR_ban_republic.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - liberty
-  - skull
+  - generated
 
 -
  name: GFX_goal_POR_autonomy
  image: goal_POR_autonomy.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - flag
+  - generated
 
 -
  name: GFX_goal_caribbean
  image: goal_Caribbean.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAF
-  - flag
+  - generated
 
 -
  name: GFX_goal_canadian_monarchy
  image: CAN_canadian_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAN
-  - flag
+  - generated
 
 -
  name: GFX_goal_british_monarchy
  image: CAN_british_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - GBR
+  - generated
 
 -
  name: GFX_goal_british_flag
  image: CAN_british_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - GBR
+  - generated
 
 -
  name: GFX_goal_psa_flag
  image: PSA.png
  tags:
-  - Kaiserreich
-  - KR
-  - PSA
-  - flag
+  - generated
 
 -
  name: GFX_goal_new_england_flag
  image: New_England.png
  tags:
-  - Kaiserreich
-  - KR
-  - NEE
-  - flag
+  - generated
 
 -
  name: GFX_goal_new_england_crown
  image: new_england_2.png
  tags:
-  - Kaiserreich
-  - KR
-  - NEE
-  - flag
+  - generated
 
 -
  name: GFX_goal_australasia_flag
  image: Australasia.png
  tags:
-  - Kaiserreich
-  - KR
-  - AST
-  - flag
+  - generated
 
 -
  name: GFX_focus_HOL_abandon_gold_standard
  image: focus_HOL_abandon_gold_standard.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
-  - gold
-  - cross
+  - generated
 
 -
  name: GFX_HOL_red_scare
  image: HOL_red_scare.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - cross
+  - generated
 
 -
  name: GFX_SIA_parliment
  image: SIA_parliment.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
+  - generated
 
 -
  name: GFX_goal_HOL_ban_paramilitary_left
  image: goal_HOL_ban_paramilitary_left.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - cross
+  - generated
 
 -
  name: GFX_goal_HOL_radsoc_paradise
  image: goal_HOL_radsoc_paradise.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_HOL_thriving_socdem
  image: goal_HOL_thriving_socdem.png
  tags:
-  - Kaiserreich
-  - KR
-  - social democracy
-  - HOL
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_foreign_policy
  image: goal_HOL_foreign_policy.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_HOL_guyana_for_alliance
  image: goal_HOL_guyana_for_alliance.png
  tags:
-  - Kaiserreich
-  - KR
-  - GUY
-  - flag
-  - CAN
+  - generated
 
 -
  name: GFX_goal_HOL_indonesian_dominion
  image: goal_HOL_indonesian_dominion.png
  tags:
-  - Kaiserreich
-  - KR
-  - INS
-  - flag
-  - HOL
-  - handshake
+  - generated
 
 -
  name: GFX_goal_HOL_surinamese_dominion
  image: goal_HOL_surinamese_dominion.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - HOL
-  - handshake
+  - generated
 
 -
  name: GFX_goal_HOL_a_new_era
  image: goal_HOL_a_new_era.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_HOL_apartheid
  image: goal_HOL_apartheid.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - military
+  - generated
 
 -
  name: GFX_goal_HOL_luchtvaartafdeling
  image: goal_HOL_luchtvaartafdeling.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_LEC_three_dragons
  image: goal_LEC_three_dragons.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
+  - generated
 
 -
  name: GFX_goal_POR_flag_of_kongo
  image: goal_POR_flag_of_kongo.png
  tags:
-  - Kaiserreich
-  - KR
-  - COG
-  - flag
+  - generated
 
 -
  name: GFX_goal_POR_imperial_irregular_navy
  image: goal_POR_imperial_irregular_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_imperial_navy
  image: goal_POR_imperial_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_POR_knights_of_portugal
  image: goal_POR_knights_of_portugal.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_matters_of_realm
  image: goal_POR_matters_of_realm.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - flag
+  - generated
 
 -
  name: GFX_goal_portugal_shield
  image: goal_POR_portugal_shield.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - flag
+  - generated
 
 -
  name: GFX_goal_POR_portugese_youth
  image: goal_POR_portugese_youth.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_POR_the_moderating_power
  image: goal_POR_the_moderating_power.png
  tags:
-  - Kaiserreich
-  - KR
-  - POR
-  - flag
-  - crown
-  - industry
+  - generated
 
 -
  name: GFX_goal_POR_the_tarrafal
  image: goal_POR_the_tarrafal.png
  tags:
-  - Kaiserreich
-  - KR
-  - handcuffs
+  - generated
 
 -
  name: GFX_MAF_focus
  image: MAF_focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - MAF
-  - flag
+  - generated
 
 -
  name: GFX_goal_SAF_national
  image: goal_SAF_national_party.png
  tags:
-  - Kaiserreich
-  - KR
-  - SAF
+  - generated
 
 -
  name: GFX_goal_SAF_dominion
  image: goal_SAF_dominion_party.png
  tags:
-  - Kaiserreich
-  - KR
-  - GBR
-  - flag
+  - generated
 
 -
  name: GFX_goal_generic_isolation
  image: goal_generic_isolation.png
  tags:
-  - Kaiserreich
-  - KR
-  - isolation
+  - generated
 
 -
  name: GFX_goal_united_kingdom
  image: goal_flag_united_kingdom.png
  tags:
-  - Kaiserreich
-  - KR
-  - GBR
-  - flag
+  - generated
 
 -
  name: GFX_goal_SAF_federation
  image: goal_SAF_federation.png
  tags:
-  - Kaiserreich
-  - KR
-  - CAN
-  - flag
+  - generated
 
 -
  name: GFX_goal_align_russia
  image: goal_align_russia.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_align_germany
  image: goal_align_germany.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - flag
-  - handshake
+  - generated
+
 -
  name: GFX_goal_align_japan
  image: goal_align_japan.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_PRF_unite_princes
  image: PRF_unite_princes.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRF
+  - generated
 
 -
  name: GFX_goal_generic_elections
  image: goal_generic_elections.png
  tags:
-  - Kaiserreich
-  - KR
-  - election
+  - generated
 
 -
  name: GFX_PRF_address_council
  image: PRF_address_council.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRF
-  - person
+  - generated
 
 -
  name: GFX_PRF_new_india
  image: PRF_new_india.png
  tags:
-  - Kaiserreich
-  - KR
-  - India
+  - generated
 
 -
  name: GFX_PRF_integrate_BHC
  image: PRF_integrate_BHC.png
  tags:
-  - Kaiserreich
-  - KR
-  - BHC
-  - army
-  - military
+  - generated
 
 -
  name: GFX_PRF_integrate_DEH
  image: PRF_integrate_DEH.png
  tags:
-  - Kaiserreich
-  - KR
-  - DEH
-  - army
-  - military
+  - generated
 
 -
  name: GFX_DEH_integrate_PRF
  image: DEH_integrate_PRF.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRF
-  - army
-  - military
+  - generated
 
 -
  name: GFX_BHC_invite_ho_chi_minh
  image: BHC_invite_ho_chi_minh.png
  tags:
-  - Kaiserreich
-  - KR
-  - BHC
-  - person
+  - generated
 
 -
  name: GFX_BHC_indochina_revolution
  image: BHC_indochina_revolution.png
  tags:
-  - Kaiserreich
-  - KR
-  - INC
-  - syndicalist
+  - generated
 
 -
  name: GFX_BHC_lucknow_summit
  image: BHC_lucknow_summit.png
  tags:
-  - Kaiserreich
-  - KR
-  - BHC
-  - DEH
-  - flag
+  - generated
 
 -
  name: GFX_goal_MAF_Tanzania_to_Uganda
  image: goal_MAF_Tanzania_to_Uganda.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
-  - infrastructure
+  - generated
 
 -
  name: GFX_generic_home_defense_bel
  image: goal_generic_home_defense_bel.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - shield
-  - flag
+  - generated
 
 -
  name: GFX_BEL_Choose_BWP
  image: Choose_BWP.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - syndicalist
+  - generated
 
 -
  name: GFX_BEL_Choose_Verdinaso
  image: Choose_Verdinaso.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
+  - generated
 
 -
  name: GFX_flanders
  image: goal_flanders.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_Cooperative
  image: goal_BEL_Cooperative.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
+  - generated
 
 -
  name: GFX_wallonia
  image: goal_wallonia.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - flag
+  - generated
 
 -
  name: GFX_BEL_support_democracy
  image: goal_BEL_support_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - liberty
-  - flag
+  - generated
 
 -
  name: GFX_BEL_Catholic_Education
  image: focus_Catholic_Education.png
  tags:
-  - Kaiserreich
-  - KR
-  - book
-  - religion
-  - catholic
+  - generated
 
 -
  name: GFX_BEL_Economic_Regions
  image: goal_Economic_Regions.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - economy
+  - generated
 
 -
  name: GFX_BEL_Reinforce_Belgicism
  image: goal_Reinforce_Belgicism.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_BEL_Improve_Spanish_Relations
  image: focus_BEL_Improve_Spanish_Relations.png
  tags:
-  - Kaiserreich
-  - KR
-  - SPR
-  - flag
-  - handshake
-  - religion
-  - catholic
+  - generated
 
 -
  name: GFX_BEL_Improve_American_Relations
  image: focus_BEL_Improve_American_Relations.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - handshake
-  - religion
+  - generated
 
 -
  name: GFX_BEL_Catholic_Construction
  image: goal_Catholic_construction.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - religion
-  - economy
+  - generated
 
 -
  name: GFX_BEL_Reclaim_Netherlands
  image: goal_Reclaim_Netherlands.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_BEL_Reclaim_France
  image: goal_Reclaim_France.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_BEL_Groote_Kuisch
  image: Groote_Kuisch.png
  tags:
-  - Kaiserreich
-  - KR
-  - person
+  - generated
 
 -
  name: GFX_BEL_Belgium_Flag
  image: Belgium_Flag.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_BEL_Belgium_Monarchy
  image: goal_BEL_belgium_first.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - crown
-  - flag
+  - generated
 
 -
  name: GFX_goal_light_tanks
  image: goal_light_tanks.png
  tags:
-  - Kaiserreich
-  - KR
-  - tank
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_BEL_belgian_rearmement
  image: goal_BEL_belgian_rearmement.png
  tags:
-  - Kaiserreich
-  - KR
-  - hat
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_Belgian_Cooperative
  image: goal_Belgian_Cooperative.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - hands
+  - generated
 
 -
  name: GFX_goal_Guldensporenslag
  image: guldensporenslag.png
  tags:
-  - Kaiserreich
-  - KR
-  - person
-  - FLN
+  - generated
 
 -
  name: GFX_goal_tblra_union_agreement
  image: tblra_union_agreement.png
  tags:
-  - Kaiserreich
-  - KR
-  - handshake
-  - industry
+  - generated
 
 -
  name: GFX_goal_VLA_lion_constitution
  image: goal_VLA_lion_constitution.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - animal
+  - generated
 
 -
  name: GFX_goal_VLA_Strijdvlag
  image: goal_VLA_Strijdvlag.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
+  - generated
 
 -
  name: GFX_goal_VLA_AVV_VVK
  image: goal_VLA_AVV_VVK.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
+  - generated
 
 -
  name: GFX_focus_abolish_flanders_council
  image: focus_abolish_flanders_council.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - flag
-  - fist
+  - generated
 
 -
  name: GFX_focus_flanders_wallonia_monarchy
  image: focus_flanders_wallonia_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - WLL
-  - flag
+  - generated
 
 -
  name: GFX_goal_Reclaim_Place
  image: goal_Reclaim_Place.png
  tags:
-  - Kaiserreich
-  - KR
-  - FLN
-  - sword
+  - generated
 
 -
  name: GFX_goal_Arms_Export
  image: goal_arms_export.png
  tags:
-  - Kaiserreich
-  - KR
-  - guns
-  - trade
+  - generated
 
 -
  name: GFX_goal_Schelle
  image: goal_Schelle.png
  tags:
-  - Kaiserreich
-  - KR
-  - industry
-  - electronics
+  - generated
 
 -
  name: GFX_goal_military_research
  image: goal_military_research.png
  tags:
-  - Kaiserreich
-  - KR
-  - research
+  - generated
 
 -
  name: GFX_goal_the_lion_roars
  image: BEL_The_Lion_Roars.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - industry
+  - generated
 
 -
  name: GFX_goal_AST_new_guard
  image: goal_AST_new_guard.png
  tags:
-  - Kaiserreich
-  - KR
-  - GBR
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_natpop_success
  image: goal_HOL_natpop_success.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_overthrow_the_system
  image: goal_HOL_overthrow_the_system.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_pataut_success
  image: goal_HOL_pataut_success.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - flag
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_HOL_abandon_the_boers
  image: goal_HOL_abandon_the_boers.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_baerle_talks
  image: goal_HOL_baerle_talks.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_cna_rules_alone
  image: goal_HOL_cna_rules_alone.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - person
+  - generated
 
 -
  name: GFX_goal_HOL_dutch_pannationalism
  image: goal_HOL_dutch_pannationalism.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_fires_of_revolution_faux
  image: goal_HOL_fires_of_revolution.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_friendship_with_belgium
  image: goal_HOL_friendship_with_belgium.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - BEL
-  - HOL
-  - handshake
+  - generated
 
 -
  name: GFX_goal_HOL_friendship_with_the_boers
  image: goal_HOL_friendship_with_the_boers.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - handshake
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_order_of_orange_nassau
  image: goal_HOL_order_of_orange_nassau.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_rebuild_binnenhof
  image: goal_HOL_rebuild_binnenhof.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_HOL_policy_belgium
  image: goal_HOL_policy_belgium.png
  tags:
-  - Kaiserreich
-  - KR
-  - BEL
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_policy_south_africa
  image: goal_HOL_policy_south_africa.png
  tags:
-  - Kaiserreich
-  - KR
-  - SAF
-  - flag
+  - generated
 
 -
  name: GFX_goal_HOL_plan_helfrich
  image: goal_HOL_plan_helfrich.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - person
+  - generated
 
 -
  name: GFX_goal_HOL_plan_doorman
  image: goal_HOL_plan_doorman.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - person
+  - generated
 
 -
  name: GFX_goal_HOL_plan_furstner
  image: goal_HOL_plan_furstner.png
  tags:
-  - Kaiserreich
-  - KR
-  - person
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_plan_winkelman
  image: goal_HOL_plan_winkelman.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - person
+  - generated
 
 -
  name: GFX_goal_HOL_plan_reijnders
  image: goal_HOL_plan_reijnders.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
-  - person
+  - generated
 
 -
  name: GFX_goal_HOL_koolhoven
  image: goal_HOL_koolhoven.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_fokker
  image: goal_HOL_fokker.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_kms
  image: goal_HOL_kms.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_wf
  image: goal_HOL_wf.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_rdm
  image: goal_HOL_rdm.png
  tags:
-  - Kaiserreich
-  - KR
-  - HOL
+  - generated
 
 -
  name: GFX_goal_HOL_D21
  image: goal_HOL_D21.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_HOL_luchtkruiser
  image: goal_HOL_luchtkruiser.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_HOL_jachtkruiser
  image: goal_HOL_jachtkruiser.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_HOL_night_fighter
  image: goal_HOL_night_fighter.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_EST_Estonian_Eagle_Focus
  image: EST_Estonian_Eagle_Focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - EST
-  - eagle
+  - generated
 
 -
  name: GFX_goal_EST_Hjalmar_Mae_Focus
  image: EST_Hjalmar_Mae_Focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - EST
-  - person
+  - generated
 
 -
  name: GFX_goal_EST_Pats_Focus
  image: EST_Pats_Focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - EST
-  - person
+  - generated
 
 -
  name: GFX_EST_Vapsid_Focus
  image: EST_Vapsid_Focus.png
  tags:
-  - Kaiserreich
-  - KR
-  - EST
+  - generated
 
 -
  name: GFX_goal_accord_with_pope
  image: goal_accord_with_pope.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
-  - person
+  - generated
 
 -
  name: GFX_PAP_roman_army
  image: PAP_roman_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
+  - generated
 
 -
  name: GFX_PAP_palatine_guard
  image: PAP_palatine_guard.png
  tags:
-  - Kaiserreich
-  - KR
-  - PAP
+  - generated
 
 -
  name: GFX_goal_PAP_crusade
  image: PAP_crusade.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_DAH_stand_our_own
  image: DAH_stand_our_own.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_DAH_No_German
  image: DAH_No_German.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
-  - GER
+  - generated
 
 -
  name: GFX_DAH_FR_Prod
  image: DAH_FR_Prod.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - infrastructure
+  - generated
 
 -
  name: GFX_DAH_Uni
  image: DAH_Uni.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
+  - generated
 
 -
  name: DAH_Thicc_Navy
  image: DAH_Thicc_Navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
-  - navy
+  - generated
 
 -
  name: DAH_Fra_Cop
  image: DAH_Fra_Cop.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - economy
+  - generated
 
 -
  name: DAH_Agaja
  image: DAH_Agaja.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
+  - generated
 
 -
  name: DAH_arms_trade
  image: DAH_arms_trade.png
  tags:
-  - Kaiserreich
-  - KR
-  - DAH
-  - guns
+  - generated
 
 -
  name: DAH_Amazons
  image: DAH_Amazons.png
  tags:
-  - Kaiserreich
-  - KR
-  - Africa
+  - generated
 
 -
  name: GFX_NATFRA_africa
  image: NATFRA_africa.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - Africa
+  - generated
 
 -
  name: GFX_NATFRA_attackgermany
  image: NATFRA_attackgermany.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_NATFRA_conscription
  image: NATFRA_conscription.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - army
-  - military
-  - handshake
-  - flag
+  - generated
 
 -
  name: GFX_NATFRA_dealwiththedevil
  image: NATFRA_dealwiththedevil.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_NATFRA_fire
  image: NATFRA_fire.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
-  - army
-  - military
+  - generated
 
 -
  name: GFX_NATFRA_flagalone
  image: NATFRA_flagalone.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
+  - generated
 
 -
  name: GFX_NATFRA_flags1
  image: NATFRA_flags1.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
+  - generated
 
 -
  name: GFX_NATFRA_flags2
  image: NATFRA_flags2.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
+  - generated
 
 -
  name: GFX_NATFRA_flags3
  image: NATFRA_flags3.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
-  - skull
+  - generated
 
 -
  name: GFX_NATFRA_francefirst
  image: NATFRA_francefirst.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_NATFRA_friendwithpoland
  image: NATFRA_friendwithpoland.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - flag
-  - POL
+  - generated
 
 -
  name: GFX_NATFRA_naturalborders
  image: NATFRA_naturalborders.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_NATFRA_rightfullborders
  image: NATFRA_rightfullborders.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_LOM_IronCrown
  image: LOM_IronCrown.png
  tags:
-  - Kaiserreich
-  - KR
-  - LOM
-  - crown
+  - generated
 
 -
  name: GFX_LOM_Milan
  image: LOM_milan.png
  tags:
-  - Kaiserreich
-  - KR
-  - LOM
+  - generated
 
 -
  name: GFX_goal_flag_siam
  image: goal_flag_siam.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - flag
+  - generated
 
 -
  name: GFX_goal_PRU_focus_dying_the_inca_red
  image: PRU_focus_dying_the_inca_red.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRU
-  - paint
+  - generated
 
 -
  name: GFX_goal_PRU_focus_teachings_of_amauta
  image: PRU_focus_teachings_of_amauta.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRU
-  - person
+  - generated
 
 -
  name: GFX_goal_PRU_focus_Caudillo_Flores
  image: PRU_focus_Caudillo_Flores.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRU
-  - person
+  - generated
 
 -
  name: GFX_goal_PRU_focus_Caudillo_Miro_Quesada
  image: PRU_focus_Caudillo_Miro_Quesada.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRU
-  - person
+  - generated
 
 -
  name: GFX_goal_PRU_focus_Caudillo_Odria
  image: PRU_focus_Caudillo_Odria.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRU
-  - person
+  - generated
 
 -
  name: GFX_goal_PRU_focus_Caudillo_Ureta
  image: PRU_focus_Caudillo_Ureta.png
  tags:
-  - Kaiserreich
-  - KR
-  - PRU
-  - person
+  - generated
 
 -
  name: GFX_goal_United_Arab_Emirates
  image: United_Arab_Emirates.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Elect_an_Al_Nahyan
  image: Elect_an_Al_Nahyan.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Elect_a_Howleitat
  image: Elect_a_Howleitat.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Elect_a_Sabah
  image: Elect_a_Sabah.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Elect_a_Hashemite
  image: Elect_a_Hashemite.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Elect_a_Rashidi
  image: Elect_a_Rashidi.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Pan_Arabism
  image: goal_Pan_Arabism.png
  tags:
-  - Kaiserreich
-  - KR
-  - JBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_Unite_Arabia
  image: goal_Unite_Arabia.png
  tags:
-  - Kaiserreich
-  - KR
-  - Arabia
+  - generated
 
 -
  name: GFX_goal_consolidating_coalitionv2
  image: goal_consolidating_coalitionv2.png
  tags:
-  - Kaiserreich
-  - KR
-  - handshake
+  - generated
 
 -
  name: GFX_goal_Settling_Nomads
  image: Settling_Nomads.png
  tags:
-  - Kaiserreich
-  - KR
-  - camel
-  - animal
+  - generated
 
 -
  name: GFX_JBS_goal_iraq
  image: JBS_goal_iraq.png
  tags:
-  - Kaiserreich
-  - KR
-  - IRQ
+  - generated
 
 -
  name: GFX_JBS_goal_syria
  image: JBS_goal_syria.png
  tags:
-  - Kaiserreich
-  - KR
-  - SYR
+  - generated
 
 -
  name: GFX_JBS_goal_syria_coins
  image: JBS_goal_syria_coins.png
  tags:
-  - Kaiserreich
-  - KR
-  - SYR
-  - money
+  - generated
 
 -
  name: GFX_JBS_goal_yemen
  image: JBS_goal_yemen.png
  tags:
-  - Kaiserreich
-  - KR
-  - YEM
+  - generated
 
 -
  name: GFX_goal_SRD_kingdom_of_italy
  image: SRD_kingdom_of_italy.png
  tags:
-  - Kaiserreich
-  - KR
-  - Italy
-  - SRD
+  - generated
 
 -
  name: GFX_goal_SRD_kingdom_of_sardinia
  image: SRD_kingdom_of_sardinia.png
  tags:
-  - Kaiserreich
-  - KR
-  - SRD
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_goal_SIC_kingdom_of_two_sicilies
  image: SIC_kingdom_of_two_sicilies.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIC
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_goal_CUB_Blackbeard
  image: CUB_Blackbeard.png
  tags:
-  - Kaiserreich
-  - KR
-  - CUB
+  - generated
 
 -
  name: GFX_goal_DOM_Air_Fuel
  image: DOM_Air_Fuel.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
-  - resource
+  - generated
 
 -
  name: GFX_goal_DOM_Recon
  image: DOM_Recon.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_syndicalist_workers
  image: goal_syndicalist_workers.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_workers_rights
  image: goal_workers_rights.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - paper
+  - generated
 
 -
  name: GFX_goal_manage_industries
  image: goal_manage_industries.png
  tags:
-  - Kaiserreich
-  - KR
-  - hand
-  - industry
+  - generated
 
 -
  name: GFX_goal_trees
  image: goal_trees.png
  tags:
-  - Kaiserreich
-  - KR
-  - nature
+  - generated
 
 -
  name: GFX_goal_agricultural_aid
  image: goal_agricultural_aid.png
  tags:
-  - Kaiserreich
-  - KR
-  - agriculture
+  - generated
 
 -
  name: GFX_goal_Workers_Paradise
  image: goal_Workers_Paradise.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - person
+  - generated
 
 -
  name: GFX_Socialist_Law
  image: Socialist_Law.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_socialist_constitution
  image: socialist_constitution.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - paper
+  - generated
 
 -
  name: GFX_goal_intergrate_the_militia
  image: goal_intergrate_the_militia.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_reform_socialist_army
  image: goal_reform_socialist_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - army
-  - military
+  - generated
 
 -
  name: GFX_GER_red_baron
  image: GER_red_baron.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_crispy_bbq
  image: goal_crispy_bbq.png
  tags:
-  - Kaiserreich
-  - KR
-  - animal
+  - generated
 
 -
  name: GFX_goal_American_Armor
  image: American_Armor.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - flag
-  - tank
-  - military
+  - generated
 
 -
  name: GFX_goal_Desert_Officers_2
  image: Desert_Officers_2.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_Agarian_Soldiers
  image: Agarian_Soldiers.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_Communist_Discourse
  image: Communist_Discourse.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
+  - generated
 
 -
  name: GFX_goal_Combined_Bomber_Offensive
  image: Combined_Bomber_Offensive.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_Automobile_Production
  image: Automobile_Production.png
  tags:
-  - Kaiserreich
-  - KR
-  - production
+  - generated
 
 -
  name: GFX_goal_USA_america_economic_miracle
  image: goal_USA_america_economic_miracle.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - economic
+  - generated
 
 -
  name: GFX_goal_GFX_ITA_psdi
  image: GFX_ITA_psdi.png
  tags:
-  - Kaiserreich
-  - KR
-  - ITA
+  - generated
 
 -
  name: GFX_goal_air_red
  image: goal_air_red.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - syndicalist
-  - military
+  - generated
 
 -
  name: GFX_goal_GFX_ITA_pli
  image: GFX_ITA_pli.png
  tags:
-  - Kaiserreich
-  - KR
-  - ITA
+  - generated
 
 -
  name: GFX_goal_GFX_ITA_pp
  image: GFX_ITA_pp.png
  tags:
-  - Kaiserreich
-  - KR
-  - ITA
+  - generated
 
 -
  name: GFX_goal_American_Service
  image: American_Service.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - handshake
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_Focus_Military_Mobilisation
  image: Focus_Military_Mobilisation.png
  tags:
-  - Kaiserreich
-  - KR
-  - production
-  - tank
+  - generated
 
 -
  name: GFX_goal_SVK_revive_matica_slovenska
  image: SVK_revive_matica_slovenska.png
  tags:
-  - Kaiserreich
-  - KR
-  - SVK
+  - generated
 
 -
  name: GFX_Georgia_Flag_icon
  image: Georgia_Flag_icon.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - flag
+  - generated
 
 -
  name: GFX_focus_geo_georgian_king
  image: focus_geo_georgian_king.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_goal_georgian_navy
  image: goal_georgian_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - GEO
-  - military
+  - generated
 
 -
  name: GFX_goal_georgian_air_force
  image: goal_georgian_air_force.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_georgian_army
  image: goal_georgian_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_GEO_air_investments
  image: goal_GEO_air_investments.png
  tags:
-  - Kaiserreich
-  - KR
-  - air
-  - money
-  - military
+  - generated
 
 -
  name: GFX_goal_GEO_wine
  image: goal_GEO_wine.png
  tags:
-  - Kaiserreich
-  - KR
-  - drinks
+  - generated
 
 -
  name: GFX_goal_CSA_master_west
  image: goal_CSA_master_west.png
  tags:
-  - Kaiserreich
-  - KR
-  - CSA
-  - flag
+  - generated
 
 -
  name: GFX_goal_america_domain
  image: america_domain.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - eagle
+  - generated
 
 -
  name: GFX_goal_america_fortress
  image: america_fortress.png
  tags:
-  - Kaiserreich
-  - KR
-  - USA
-  - shield
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_aus_fortress
  image: aus_fortress.png
  tags:
-  - Kaiserreich
-  - KR
-  - TEX
-  - shield
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_aus_handshake
  image: aus_handshake.png
  tags:
-  - Kaiserreich
-  - KR
-  - TEX
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_aus_destiny
  image: aus_destiny.png
  tags:
-  - Kaiserreich
-  - KR
-  - TEX
+  - generated
 
 -
  name: GFX_goal_Japanese_Glory
  image: Japanese_Glory.png
  tags:
-  - Kaiserreich
-  - KR
-  - JAP
-  - sword
+  - generated
 
 -
  name: GFX_goal_LEC_zhang
  image: goal_LEC_zhang.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - person
+  - generated
 
 -
  name: GFX_goal_csa
  image: goal_flag_csa.png
  tags:
-  - Kaiserreich
-  - KR
-  - CSA
-  - flag
+  - generated
 
 -
  name: GFX_goal_austria
  image: goal_flag_austria.png
  tags:
-  - Kaiserreich
-  - KR
-  - AUS
-  - flag
+  - generated
 
 -
  name: GFX_FOP_Argie_Chilean_friends
  image: FOP_Argie_Chilean_friends.png
  tags:
-  - Kaiserreich
-  - KR
-  - ARG
-  - CHL
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_SCA_focus_airforce
  image: SCA_focus_airforce.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_SCA_focus_Divided_Armies
  image: SCA_focus_Divided_Armies.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - army
-  - military
+  - generated
+
 -
  name: GFX_goal_SCA_focus_Monarchy
  image: SCA_focus_Monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - crown
-  - flag
+  - generated
 
 -
  name: GFX_goal_SCA_focus_Unified_Army
  image: SCA_focus_Unified_Army.png
  tags:
-  - Kaiserreich
-  - KR
-  - SCA
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_SCA_focus_Unified_Navy
  image: SCA_focus_Unified_Navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - SCA
-  - navy
+  - generated
 
 -
  name: GFX_goal_ideology_libsoc
  image: goal_ideology_libsoc.png
  tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - fist
+  - generated
 
 -
  name: GFX_goal_GEO_Artillery_Tactics
  image: goal_GEO_Artillery_Tactics.png
  tags:
-  - Kaiserreich
-  - KR
-  - GEO
-  - artillery
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_unknown
  image: goal_unknown.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_shine_test
  image: goal_generic_production.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_fortify_the_westwall
  image: goal_generic_construct_military.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_reichsautobahn
  image: goal_generic_construct_civilian.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_panzerwaffe
  image: goal_generic_build_tank.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_expand_the_luftwaffe
  image: goal_generic_build_airforce.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_molotov_ribbentrop_pact
  image: goal_molotov_ribbentrop_pact.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_anschluss
  image: goal_anschluss.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_rhineland
  image: goal_rhineland.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_poland_goal
  image: goal_poland_goal.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_demand_sudetenland
  image: goal_demand_sudetenland.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tripartite_pact
  image: goal_tripartite_pact.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_anti_comintern_pact
  image: goal_anti_comintern_pact.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_sever_ties_with_uk
  image: goal_tfv_sever_ties_with_uk.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_strengthen_commonwealth_ties
  image: goal_tfv_strengthen_commonwealth_ties.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_generic_tech_sharing
  image: goal_tfv_generic_tech_sharing.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_burn_the_royal_portraits
  image: goal_tfv_burn_the_royal_portraits.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_can_forced_quebec_conscription
  image: goal_tfv_can_forced_quebec_conscription.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_can_compromise_with_quebec
  image: goal_tfv_can_compromise_with_quebec.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_AST_never_gallipoli
  image: focus_AST_never_gallipoli.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_AST_rats_tobruk
  image: focus_AST_rats_tobruk.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_AST_squander_bug
  image: focus_AST_squander_bug.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_AST_war_japan
  image: focus_AST_war_japan.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_saf_anti_colonialist_crusade
  image: focus_SAF_colonialist_crusade.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_saf_support_german_coup
  image: focus_SAF_german_coup.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_saf_secure_interests_in_africa
  image: focus_SAF_secure_africa.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_goal_tfv_saf_support_ossebrandwag
  image: focus_SAF_support_ossewabrandwag.png
  tags:
-   - vanilla
+  - generated
 
 -
  name: GFX_focus_proclaim_the_restauration_of_Austria_Hungary
  image: focus_proclaim_the_restauration_of_austria_hungary.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_renounce_the_treaty_of_trianon
  image: focus_renounce_the_treaty_of_triannon.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_CZE_military_aeronautical_institute
  image: focus_cze_military_aeronautical_institute.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_CZE_german_puppet
  image: focus_cze_german_puppet.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_CZE_military_research_institute
  image: focus_cze_military_research_institute.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_YUG_zmaj
  image: focus_yug_zmaj.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_YUG_rogozarski
  image: focus_yug_rogozarski.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_YUG_ikarus
  image: focus_yug_ikarus.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_YUG_banovina_of_croatia
  image: focus_yug_banovina_of_croatia.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_YUG_pan_slavic_congress
  image: focus_yug_pan_slavic_congress.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_RAJ_all_india_forward_bloc
  image: focus_RAJ_all_india_forward_bloc.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_RAJ_british_investors
  image: focus_RAJ_british_investors.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_RAJ_clamp_down_on_corruption
  image: focus_RAJ_clamp_down_on_corruption.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_RAJ_indian_gentlemen_offcers
  image: focus_RAJ_indian_gentlemen_offcers.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_RAJ_indian_gurkhas
  image: focus_RAJ_indian_gurkhas.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_restore_the_army_of_christ
  image: focus_mex_restore_the_army_of_christ.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_soldaderas
  image: focus_mex_soldaderas.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_jefe_maximo
  image: focus_mex_jefe_maximo.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_exile_calles
  image: focus_mex_exile_calles.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_triumph_over_the_cristeros
  image: focus_mex_triumph_over_the_cristeros.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_support_general_cedillo
  image: focus_mex_support_general_cedillo.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_arrest_general_cedillo
  image: focus_mex_arrest_general_cedillo.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_caudillo_private_armies
  image: focus_mex_caudillo_private_armies.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_redeem_aztlan
  image: focus_mex_redeem_aztlan.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_mex_privatisation
  image: focus_mex_privatisation.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_special_air_service
  image: focus_eng_special_air_service.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_chiefs_of_staff_committee
  image: focus_eng_chiefs_of_staff_committee.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_decolonization
  image: focus_eng_decolonization.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_global_defense
  image: focus_eng_global_defense.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_motion_of_no_confidence
  image: focus_eng_motion_of_no_confidence.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_the_kings_party
  image: focus_eng_the_kings_party.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_unite_the_anglosphere
  image: focus_eng_unite_the_anglosphere.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_the_sun_never_sets
  image: focus_eng_the_sun_never_sets.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_liberate_the_home_of_marx
  image: focus_eng_liberate_the_home_of_marx.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_expose_the_belly_of_the_bear
  image: focus_eng_expose_the_belly_of_the_bear.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_move_to_secure_the_dominions
  image: focus_eng_move_to_secure_the_dominions.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_crush_the_dream
  image: focus_eng_crush_the_dream.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_organise_the_blackshirts
  image: focus_eng_organise_the_blackshirts.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_concessions_to_the_trade_unions
  image: focus_eng_concessions_to_the_trade_unions.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_bring_the_dominions_back_into_the_fold
  image: focus_eng_bring_the_dominions_back_into_the_fold.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_god_save_the_king
  image: focus_eng_god_save_the_king.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_eng_imperial_federation
  image: focus_eng_imperial_federation.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_reestablish_the_gold_standard
  image: focus_usa_reestablish_the_gold_standard.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_focus_on_europe
  image: focus_usa_focus_on_europe.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_focus_on_asia
  image: focus_usa_focus_on_asia.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_escort_fighters
  image: focus_usa_escort_fighters.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_build_the_pentagon
  image: focus_usa_build_the_pentagon.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_voter_registration_act
  image: focus_usa_voter_registration_act.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_union_representation_act
  image: focus_usa_union_representation_act.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_honor_the_confederacy
  image: focus_usa_honor_the_confederacy.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_guarantee_the_american_dream
  image: focus_usa_guarantee_the_american_dream.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_recruit_the_free_corps
  image: focus_usa_recruit_the_free_corps.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_usa_tank_destroyer_doctrine
  image: focus_usa_tank_destroyer_doctrine.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_britain
  image: focus_attack_britain.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_germany
  image: focus_attack_germany.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_japan
  image: focus_attack_japan.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_italy
  image: focus_usa_attack_italy.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_soviet
  image: focus_attack_soviet.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_france
  image: focus_attack_france.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_mexico
  image: focus_attack_mexico.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_china
  image: focus_attack_china.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_australia
  image: focus_attack_australia.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_india
  image: focus_attack_india.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_attack_canada
  image: focus_attack_canada.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_abandon_the_gold_standard
  image: focus_hol_abandon_the_gold_standard.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_continue_the_war_in_batavia
  image: focus_hol_continue_the_war_in_batavia.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_war_on_pacifism
  image: focus_hol_war_on_pacifism.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_philips
  image: focus_hol_philips.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_fokker
  image: focus_hol_fokker.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_daf
  image: focus_hol_daf.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_prepare_the_inundation_lines
  image: focus_hol_prepare_the_inundation_lines.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_gateway_to_europe
  image: focus_hol_gateway_to_europe.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_united_netherlands
  image: focus_hol_united_netherlands.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_legacy_of_the_de_zeven_provincien_mutiny
  image: focus_hol_legacy_of_the_de_zeven_provincien_mutiny.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_oranje_boven
  image: focus_hol_oranje_boven.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_the_only_man_in_the_dutch_government
  image: focus_hol_the_only_man_in_the_dutch_government.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_the_fourth_ally
  image: focus_hol_the_fourth_ally.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_the_zuiderzee_works
  image: focus_hol_the_zuiderzee_works.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_the_foundations_of_defense
  image: focus_hol_the_foundations_of_defense.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_hol_liberation
  image: focus_hol_liberation.png
  tags:
-  - vanilla
+  - generated
 
 -
  name: GFX_focus_russian_cooperation
  image: focus_russian_cooperation.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_focus_generic_air_defense2
  image: focus_generic_air_defense2.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
+  - generated
 
 -
  name: GFX_focus_generic_bastion_of_democracy
  image: focus_generic_bastion_of_democracy.png
  tags:
-  - Kaiserreich
-  - KR
-  - libery
-  - fortification
+  - generated
 
 -
  name: GFX_goal_generic_foreign_investments
  image: goal_generic_foreign_investments.png
  tags:
-  - Kaiserreich
-  - KR
-  - gold
-  - handshake
+  - generated
 
 -
  name: GFX_focus_SAF_colonialist_crusade2
  image: focus_SAF_colonialist_crusade2.png
  tags:
-  - Kaiserreich
-  - KR
-  - fist
-  - flag
+  - generated
 
 -
  name: GFX_goal_generic_join_faction
  image: goal_generic_join_faction.png
  tags:
-  - Kaiserreich
-  - KR
-  - flag
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_generic_armored_cars
  image: goal_generic_armored_cars.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_generic_construct_public_housing
  image: goal_generic_construct_public_housing.png
  tags:
-  - Kaiserreich
-  - KR
-  - construction
+  - generated
 
 -
  name: GFX_goal_generic_war_in_the_plate
  image: goal_generic_war_in_the_plate.png
  tags:
-  - Kaiserreich
-  - KR
-  - sword
+  - generated
 
 -
  name: GFX_focus_generic_eagle
  image: focus_generic_eagle.png
  tags:
-  - Kaiserreich
-  - KR
-  - eagle
+  - generated
 
 -
  name: GFX_focus_generic_navy_battleship3
  image: focus_generic_navy_battleship3.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_focus_generic_navy_battleship3alt
  image: focus_generic_navy_battleship3alt.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_focus_generic_oppression
  image: focus_generic_oppression.png
  tags:
-  - Kaiserreich
-  - KR
-  - government
+  - generated
 
 -
  name: GFX_focus_generic_tank_destroyer
  image: focus_generic_tank_destroyer.png
  tags:
-  - Kaiserreich
-  - KR
-  - tank
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_generic_army_tanks2
  image: goal_generic_army_tanks2.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
-  - tank
+  - generated
 
 -
  name: GFX_goal_generic_army_tanks3
  image: goal_generic_army_tanks3.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
-  - tank
+  - generated
 
 -
  name: GFX_goal_ANQ_centralization
  image: goal_ANQ_centralization.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - fist
-  - building
+  - generated
 
 -
  name: GFX_goal_ANQ_institutional_chaos
  image: goal_ANQ_institutional_chaos.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
-  - ANQ
+  - generated
 
 -
  name: GFX_goal_ANQ_rural_outreach
  image: goal_ANQ_rural_outreach.png
  tags:
-  - Kaiserreich
-  - KR
-  - agriculture
+  - generated
 
 -
  name: GFX_goal_ANQ_invite_governors
  image: goal_ANQ_invite_governors.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - person
+  - generated
 
 -
  name: GFX_goal_ANQ_relocate_nanjing
  image: goal_ANQ_relocate_nanjing.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
+  - generated
 
 -
  name: GFX_goal_ANQ_relocate_nanjing_proqing
  image: goal_ANQ_relocate_nanjing_proqing.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
+  - generated
 
 -
  name: GFX_goal_ANQ_use_anticoncessionists
  image: goal_ANQ_use_anticoncessionists.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - sword
+  - generated
 
 -
  name: GFX_goal_ANQ_smother_anticoncessionists
  image: goal_ANQ_smother_anticoncessionists.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - fist
+  - generated
 
 -
  name: GFX_goal_ANQ_patriotic_protests
  image: goal_ANQ_patriotic_protests.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - handshake
+  - generated
 
 -
  name: GFX_goal_ANQ_patriotic_contributions
  image: goal_ANQ_patriotic_contributions.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - handshake
-  - money
+  - generated
 
 -
  name: GFX_goal_ANQ_convince_intellectuals
  image: goal_ANQ_convince_intellectuals.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - handshake
+  - generated
 
 -
  name: GFX_goal_ANQ_panasian
  image: goal_ANQ_panasian.png
  tags:
-  - Kaiserreich
-  - KR
-  - Asian
-  - JAP
-  - ANQ
-  - FNG
+  - generated
 
 -
  name: GFX_goal_ANQ_court_vermilion_society
  image: goal_ANQ_court_vermilion_society.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANG
-  - handshake
+  - generated
 
 -
  name: GFX_goal_ANQ_northern_school
  image: goal_ANQ_northern_school.png
  tags:
-  - Kaiserreich
-  - KR
-  - military
-  - army
-  - ANQ
+  - generated
 
 -
  name: GFX_goal_ANQ_southern_school
  image: goal_ANQ_southern_school.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_ANQ_stand_with_fengtian
  image: goal_ANQ_stand_with_fengtian.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - flag
+  - generated
 
 -
  name: GFX_goal_ANQ_stand_with_qing
  image: goal_ANQ_stand_with_qing.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - flag
+  - generated
 
 -
  name: GFX_goal_ANQ_fengtian_loyalty
  image: goal_ANQ_fengtian_loyalty.png
  tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - star
+  - generated
 
 -
  name: GFX_goal_ANQ_qing_loyalty
  image: goal_ANQ_qing_loyalty.png
  tags:
-  - Kaiserreich
-  - KR
-  - QNG
-  - flag
+  - generated
 
 -
  name: GFX_goal_ANQ_five_stars_five_provinces
  image: goal_ANQ_five_stars_five_provinces.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
+  - generated
 
 -
  name: GFX_goal_ANQ_end_century_humiliation
  image: goal_ANQ_end_century_humiliation.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
-  - fist
+  - generated
 
 -
  name: GFX_goal_ANQ_nationalist_credibility
  image: goal_ANQ_nationalist_credibility.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
+  - generated
 
 -
  name: GFX_goal_ANQ_promote_nationalist_thought
  image: goal_ANQ_promote_nationalist_thought.png
  tags:
-  - Kaiserreich
-  - KR
-  - ANQ
+  - generated
 
 -
  name: GFX_GAL_goal_heal_nation
  image: GAL_goal_heal_nation.png
  tags:
-  - Kaiserreich
-  - KR
-  - GAL
+  - generated
 
 -
  name: GFX_GAL_goal_divide_nation
  image: GAL_goal_divide_nation.png
  tags:
-  - Kaiserreich
-  - KR
-  - GAL
+  - generated
 
 -
  name: GFX_GAL_goal_COP
  image: GAL_goal_COP.png
  tags:
-  - Kaiserreich
-  - KR
-  - GAL
-  - building
+  - generated
 
 -
  name: GFX_GAL_goal_COP_improvement
  image: GAL_goal_COP_improvement.png
  tags:
-  - Kaiserreich
-  - KR
-  - GAL
-  - building
+  - generated
 
 -
  name: GFX_focus_ger_heavy_tanks
  image: focus_ger_heavy_tanks.png
  tags:
-  - Kaiserreich
-  - KR
-  - tank
-  - military
-  - army
-  - guns
+  - generated
 
 -
  name: GFX_goal_HNN_The_Buddhist_General
  image: goal_HNN_The_Buddhist_General.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
-  - person
+  - generated
 
 -
  name: GFX_goal_HNN_Ai_You
  image: goal_HNN_Ai_You.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
+  - generated
 
 -
  name: GFX_goal_HNN_Hunt_Tang_Shengzhi
  image: goal_HNN_Hunt_Tang_Shengzhi.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
-  - person
+  - generated
 
 -
  name: GFX_goal_HNN_Huang_Shihengs_Education_Program
  image: goal_HNN_Huang_Shihengs_Education_Program.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
-  - person
+  - generated
 
 -
  name: GFX_goal_HNN_General_Hes_Plan
  image: goal_HNN_General_Hes_Plan.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
-  - person
+  - generated
 
 -
  name: GFX_goal_HNN_The_Xiang_Identity
  image: goal_HNN_The_Xiang_Identity.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
+  - generated
+
 -
  name: GFX_goal_HNN_Zun_Lao
  image: goal_HNN_Zun_Lao.png
  tags:
-  - Kaiserreich
-  - KR
-  - HNN
+  - generated
 
 -
  name: GFX_goal_LEP_qi_rules_nanjing
  image: goal_LEP_qi_rules_nanjing.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - person
+  - generated
 
 -
  name: GFX_goal_LEP_against_yiguandao
  image: goal_LEP_against_yiguandao.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - sword
+  - generated
 
 -
  name: GFX_goal_LEP_anhui
  image: goal_LEP_anhui.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
+  - generated
 
 -
  name: GFX_goal_LEP_fujian
  image: goal_LEP_fujian.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
+  - generated
 
 -
  name: GFX_goal_LEP_jiangsu
  image: goal_LEP_jiangsu.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
+  - generated
 
 -
  name: GFX_goal_LEP_jiangxi
  image: goal_LEP_jiangxi.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
+  - generated
 
 -
  name: GFX_goal_LEP_kmt_encirclement
  image: goal_LEP_kmt_encirclement.png
  tags:
-  - Kaiserreich
-  - KR
-  - KMT
-  - sword
+  - generated
 
 -
  name: GFX_goal_LEP_lec_investments
  image: goal_LEP_lec_investments.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - money
+  - generated
 
 -
  name: GFX_goal_LEP_schantung_eisenbahn
  image: goal_LEP_schantung_eisenbahn.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
+  - generated
 
 -
  name: GFX_goal_LEP_zhejiang
  image: goal_LEP_zhejiang.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
+  - generated
 
 -
  name: GFX_goal_LEP_repression
  image: goal_LEP_repression.png
  tags:
-  - Kaiserreich
-  - KR
-  - government
+  - generated
 
 -
  name: GFX_goal_LEP_coercion
  image: goal_LEP_coercion.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_LEP_governor_question
  image: goal_LEP_governor_question.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_goal_LEP_krupp_industial
  image: goal_LEP_krupp_industial.png
  tags:
-  - Kaiserreich
-  - KR
-  - GER
+  - generated
 
 -
  name: GFX_goal_LEP_selective_enforcement
  image: goal_LEP_selective_enforcement.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_goal_LEP_jiangzhe_bank
  image: goal_LEP_jiangzhe_bank.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_LEP_deutschasiatische
  image: goal_LEP_deutschasiatische.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - money
+  - generated
 
 -
  name: GFX_goal_LEP_commissioner_qi
  image: goal_LEP_commissioner_qi.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - person
+  - generated
 
 -
  name: GFX_goal_LEP_marshal_qi
  image: goal_LEP_marshal_qi.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - person
+  - generated
 
 -
  name: GFX_goal_LEP_personality_cult
  image: goal_LEP_personality_cult.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - army
-  - military
-  - handshake
+  - generated
 
 -
  name: GFX_goal_LEP_patronize_xiangshen
  image: goal_LEP_patronize_xiangshen.png
  tags:
-  - Kaiserreich
-  - KR
-  - handshake
+  - generated
 
 -
  name: GFX_goal_LEP_tea_trade
  image: goal_LEP_tea_trade.png
  tags:
-  - Kaiserreich
-  - KR
-  - tea
-  - money
+  - generated
 
 -
  name: GFX_goal_LEP_subsidize_villages
  image: goal_LEP_subsidize_villages.png
  tags:
-  - Kaiserreich
-  - KR
-  - agriculture
-  - money
+  - generated
 
 -
  name: GFX_goal_LEP_officer_initiative
  image: goal_LEP_officer_initiative.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - army
-  - military
-  - hat
+  - generated
 
 -
  name: GFX_goal_LEP_northern_school
  image: goal_LEP_northern_school.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_LEP_southern_school
  image: goal_LEP_southern_school.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - military
-  - army
+  - generated
 
 -
  name: GFX_goal_LEP_fallen_flags
  image: goal_LEP_fallen_flags.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEP
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_LEP_subsidize_villages
  image: goal_LEP_subsidize_villages.png
  tags:
-  - Kaiserreich
-  - KR
-  - agriculture
-  - money
+  - generated
 
 -
  name: GFX_goal_MON_Mongol_Identity
  image: goal_MON_Mongol_Identity.png
  tags:
-  - Kaiserreich
-  - KR
-  - MON
+  - generated
 
 -
  name: GFX_goal_MON_Statue_of_the_Khan
  image: goal_MON_Statue_of_the_Khan.png
  tags:
-  - Kaiserreich
-  - KR
-  - MON
+  - generated
 
 -
  name: GFX_goal_MON_baron_of_the_steppes
  image: goal_MON_baron_of_the_steppes.png
  tags:
-  - Kaiserreich
-  - KR
-  - MON
-  - person
+  - generated
 
 -
  name: GFX_goal_MON_we_dont_need_russia
  image: goal_MON_we_dont_need_russia.png
  tags:
-  - Kaiserreich
-  - KR
-  - RUS
-  - flag
+  - generated
 
 -
  name: GFX_goal_MON_Buddhist_Brotherhood
  image: goal_MON_Buddhist_Brotherhood.png
  tags:
-  - Kaiserreich
-  - KR
-  - MON
-  - TIB
-  - flag
-  - religion
+  - generated
 
 -
  name: GFX_goal_MON_The_Popular_Prince
  image: goal_MON_The_Popular_Prince.png
  tags:
-  - Kaiserreich
-  - KR
-  - MON
-  - person
+  - generated
 
 -
  name: GFX_goal_focus_chain_army
  image: focus_chain_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_focuscoq
  image: focuscoq.png
  tags:
-  - Kaiserreich
-  - KR
-  - animal
+  - generated
 
 -
  name: GFX_goal_focusimperialfrance7
  image: focusimperialfrance7.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - eagle
+  - generated
 
 -
  name: GFX_goal_focusrepublicanfrance
  image: focusrepublicanfrance.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
+  - generated
 
 -
  name: GFX_goal_keepingfrancetogetherbis
  image: keepingfrancetogetherbis.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - hands
+  - generated
 
 -
  name: GFX_goal_Liberty
  image: Liberty.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - liberty
+  - generated
 
 -
  name: GFX_goal_Yellow_Union
  image: Yellow_Union.png
  tags:
-  - Kaiserreich
-  - KR
-  - hand
-  - economy
+  - generated
+
 -
  name: GFX_goal_France_Monarchy
  image: France_Monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - NFA
-  - crown
+  - generated
 
 -
  name: GFX_goal_OTT_Abolish_Mecelle
  image: OTT_Abolish_Mecelle.png
  tags:
-  - Kaiserreich
-  - KR
-  - muslim
-  - paper
+  - generated
 
 -
  name: GFX_goal_OTT_Muslim_Relations
  image: OTT_Muslim_Relations.png
  tags:
-  - Kaiserreich
-  - KR
-  - muslim
-  - handshake
+  - generated
 
 -
  name: GFX_goal_OTT_Muslim_Solidarity
  image: OTT_Muslim_Solidarity.png
  tags:
-  - Kaiserreich
-  - KR
-  - muslim
+  - generated
 
 -
  name: GFX_goal_OTT_Balkan_Pact
  image: OTT_Balkan_Pact.png
  tags:
-  - Kaiserreich
-  - KR
-  - BUL
-  - SER
-  - ALB
-  - GRE
-  - flag
-  - muslim
+  - generated
 
 -
  name: GFX_goal_OTT_Railroad
  image: OTT_Railroad.png
  tags:
-  - Kaiserreich
-  - KR
-  - railroad
-  - infrastructure
+  - generated
 
 -
  name: GFX_goal_OTT_Pipeline
  image: OTT_Pipeline.png
  tags:
-  - Kaiserreich
-  - KR
-  - infrastructure
+  - generated
 
 -
  name: GFX_goal_OTT_Land_Reform
  image: OTT_Land_Reform.png
  tags:
-  - Kaiserreich
-  - KR
-  - infrastructure
-  - agriculture
+  - generated
 
 -
  name: GFX_goal_OTT_Tithe
  image: OTT_Tithe.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
+  - generated
 
 -
  name: GFX_goal_OTT_Years_of_Progress
  image: OTT_Years_of_Progress.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
-  - military
-  - production
-  - army
+  - generated
 
 -
  name: GFX_goal_OTT_Loosen_Policy
  image: OTT_Loosen_Policy.png
  tags:
-  - Kaiserreich
-  - KR
-  - money
+  - generated
 
 -
  name: GFX_goal_OTT_army_command
  image: OTT_army_command.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
-  - army
-  - military
+  - generated
 
 -
  name: GFX_goal_OTT_air_command
  image: OTT_air_command.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
-  - air
-  - military
+  - generated
 
 -
  name: GFX_goal_OTT_navy
  image: OTT_navy.png
  tags:
-  - Kaiserreich
-  - KR
-  - OTT
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_OTT_agean_sea
  image: OTT_agean_sea.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_OTT_black_sea
  image: OTT_black_sea.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_OTT_persian_gulf
  image: OTT_persian_gulf.png
  tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
+  - generated
 
 -
  name: GFX_goal_OTT_Population_Exchange
  image: OTT_Population_Exchange.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
-  - muslim
+  - generated
 
 -
  name: GFX_goal_QIE_rat
  image: goal_QIE_rat.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_manchu_symbol
  image: goal_QIE_manchu_symbol.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_ycp
  image: goal_QIE_ycp.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_ncera
  image: goal_QIE_ncera.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_zhili
  image: goal_QIE_zhili.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_president_hu
  image: goal_QIE_president_hu.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - person
+  - generated
 
 -
  name: GFX_goal_QIE_president_koo
  image: goal_QIE_president_koo.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - person
+  - generated
 
 -
  name: GFX_goal_QIE_puyi_restored
  image: goal_QIE_puyi_restored.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - person
+  - generated
 
 -
  name: GFX_goal_QIE_purge_manchu
  image: goal_QIE_purge_manchu.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_purge_YCP
  image: goal_QIE_purge_YCP.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_purge_zhili
  image: goal_QIE_purge_zhili.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_coin
  image: goal_QIE_coin.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_confucianism
  image: goal_QIE_confucianism.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_goal_QIE_destroy_lec
  image: goal_QIE_destroy_lec.png
  tags:
-  - Kaiserreich
-  - KR
-  - LEC
-  - flag
+  - generated
 
 -
  name: GFX_goal_QIE_glory
  image: goal_QIE_glory.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - flag
+  - generated
 
 -
  name: GFX_goal_QIE_kang_youwei
  image: goal_QIE_kang_youwei.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - person
+  - generated
 
 -
  name: GFX_goal_QIE_manchu_unite_china
  image: goal_QIE_manchu_unite_china.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - handshake
+  - generated
 
 -
  name: GFX_goal_QIE_modernize_monarchy
  image: goal_QIE_modernize_monarchy.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - crown
-  - flag
+  - generated
 
 -
  name: GFX_goal_QIE_zhili_unite_china
  image: goal_QIE_zhili_unite_china.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - handshake
+  - generated
 
 -
  name: GFX_goal_QIE_baoding
  image: goal_QIE_baoding.png
  tags:
-  - Kaiserreich
-  - KR
-  - building
+  - generated
 
 -
  name: GFX_goal_QIE_jiang_plan
  image: goal_QIE_jiang_plan.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - person
+  - generated
 
 -
  name: GFX_goal_QIE_liu_plan
  image: goal_QIE_liu_plan.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - person
+  - generated
 
 -
  name: GFX_goal_china_feng_yuxiang
  image: goal_china_feng_yuxiang.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - person
+  - generated
 
 -
  name: GFX_goal_china_song_zheyuan
  image: goal_china_song_zheyuan.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - person
+  - generated
 
 -
  name: GFX_goal_china_yan_xishan
  image: goal_china_yan_xishan.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - person
-  
+  - generated
 
 -
  name: GFX_goal_china_zhang_tianran
  image: goal_china_zhang_tianran.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - person
+  - generated
 
 -
  name: GFX_goal_china_yiguandao
  image: goal_china_yiguandao.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
+  - generated
 
 -
  name: GFX_goal_QIE_forbiddenpalace
  image: goal_QIE_forbiddenpalace.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - building
+  - generated
 
 -
  name: GFX_goal_QIE_gongxian_arsenal
  image: goal_QIE_gongxian_arsenal.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
+  - generated
 
 -
  name: GFX_goal_QIE_hail_to_the_qing
  image: goal_QIE_hail_to_qing.png
  tags:
-  - Kaiserreich
-  - KR
-  - QIE
-  - army
-  - military
-  - flag
+  - generated
 
 -
  name: GFX_goal_SHX_Christian_Influence
  image: goal_SHX_Christian_Influence.png
  tags:
-  - Kaiserreich
-  - KR
-  - religion
+  - generated
 
 -
  name: GFX_goal_china_federalism
  image: goal_china_federalism.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - flag
+  - generated
 
 -
  name: GFX_goal_china_federalist_deal
  image: goal_china_federalist_deal.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - flag
-  - handshake
+  - generated
 
 -
  name: GFX_goal_china_negotiations
  image: goal_china_negotiations.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - handshake
-  - flag
+  - generated
 
 -
  name: GFX_goal_china_federalist_army
  image: goal_china_federalist_army.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - army
-  - military
+  - generated
 
 -
  name: GFX_YUN_tang_dynasty
  image: YUN_tang_dynasty.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
-  - flag
-  - crown
+  - generated
 
 -
  name: GFX_YUN_goal_attack_Sichuan
  image: YUN_goal_attack_Sichuan.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: GFX_YUN_goal_attack_hunnan
  image: YUN_goal_attack_hunnan.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Exploit_Burma
  image: YUN_GFX_Goal_Exploit_Burma.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Conquer_IndoChina
  image: YUN_GFX_Goal_Conquer_IndoChina.png
  tags:
-  - Kaiserreich
-  - KR
-  - INC
-   -flag
+  - generated
 
 -
  name: YUN_GFX_Goal_Secure_Tibet
  image: YUN_GFX_Goal_Secure_Tibet.png
  tags:
-  - Kaiserreich
-  - KR
-  - TIB
-  - flag
+  - generated
 
 -
  name: YUN_GFX_Goal_The_Siamese_Threat
  image: YUN_GFX_Goal_The_Siamese_Threat.png
  tags:
-  - Kaiserreich
-  - KR
-  - SIA
-  - flag
+  - generated
 
 -
  name: YUN_GFX_Goal_LONG_YUN_NOMBA_ONE
  image: YUN_GFX_LONG_YUN_NOMBA_ONE.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
-  - person
+  - generated
 
 -
  name: YUN_GFX_Goal_The_Federalist_Project
  image: YUN_GFX_The_Federalist_Project.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
-  - army
-  - military
+  - generated
 
 -
  name: YUN_GFX_Goal_Dian_Identity
  image: YUN_GFX_Goal_Dian_Identity.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Deal_with_the_Left_KMT
  image: YUN_Deal_with_the_Left_KMT.png
  tags:
-  - Kaiserreich
-  - KR
-  - KMT
-  - fist
+  - generated
 
 -
  name: YUN_GFX_Goal_FuDian_Bank_Reorganization
  image: YUN_FuDian_Bank_Reorganization.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Secure_Coastal_China
  image: YUN_Secure_Coastal_China.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Secure_Northern_China
  image: YUN_Secure_Northern_China.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Secure_Southern_China
  image: YUN_Secure_Southern_China.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_Secure_Western_China
  image: YUN_Secure_Western_China.png
  tags:
-  - Kaiserreich
-  - KR
-  - YUN
+  - generated
 
 -
  name: YUN_GFX_Goal_A_New_China
  image: YUN_A_New_China.png
  tags:
-  - Kaiserreich
-  - KR
-  - CHI
-  - guns
+  - generated
 
 -
  name: YUN_GFX_Goal_Bamboo_King_Society
  image: YUN_Bamboo_King_Society.png
  tags:
-  - Kaiserreich
-  - KR
-  - resource
+  - generated
 
 -
  name: GFX_goal_attack_ma_clique
  image: goal_attack_ma_clique.png
  tags:
-  - Kaiserreich
-  - KR
-  - XBS
-  - flag
+  - generated
 
 -
  name: GFX_goal_TAN_hoja_niyaz
  image: goal_TAN_hoja_niyaz.png
  tags:
-  - Kaiserreich
-  - KR
-  - TAN
-  - person
+  - generated
 
 -
  name: GFX_goal_TAN_fan_yaonan
  image: goal_TAN_fan_yaonan.png
  tags:
-  - Kaiserreich
-  - KR
-  - TAN
-  - person
+  - generated
 
 -
  name: GFX_goal_TAN_ma_zhongying
  image: goal_TAN_ma_zhongying.png
  tags:
-  - Kaiserreich
-  - KR
-  - TAN
-  - person
+  - generated
 
 -
  name: GFX_goal_rolling_the_dice
  image: goal_rolling_the_dice.png
  tags:
-  - Kaiserreich
-  - KR
+  - generated
 
 -
  name: GFX_goal_AUS_armeeoberkommando
@@ -14627,7 +11520,6 @@ goals:
  image: KTG_Rubber_Farming.png
  tags:
   - Kaiserreich
-  - KR
   - rubber
   - resources
   
@@ -14636,7 +11528,6 @@ goals:
  image: PER_army.png
  tags:
   - Kaiserreich
-  - KR
   - Persia
   
 -
@@ -14644,7 +11535,6 @@ goals:
  image: promoting_buddhism.png
  tags:
   - Kaiserreich
-  - KR
   - Buddhism
   - religion
   
@@ -14653,7 +11543,6 @@ goals:
  image: SER_king.png
  tags:
   - Kaiserreich
-  - KR
   - Serbia
   - monarchy
   
@@ -14662,7 +11551,6 @@ goals:
  image: SQI_Two_Zhangs_Enter.png
  tags:
   - Kaiserreich
-  - KR
   - China
   - person
   
@@ -14671,7 +11559,6 @@ goals:
  image: SQI_Yiguandao_Influence.png
  tags:
   - Kaiserreich
-  - KR
   - China
   
 -
@@ -14679,7 +11566,6 @@ goals:
  image: SWE_focus_swedish_syndicalism.png
  tags:
   - Kaiserreich
-  - KR
   - Sweden
   - syndicalism
   - socialism
@@ -14689,7 +11575,6 @@ goals:
  image: WLL_German_Investements.png
  tags:
   - Kaiserreich
-  - KR
   - Germany
   - coins
   - economic
@@ -14699,7 +11584,6 @@ goals:
  image: WLL_German_Staff.png
  tags:
   - Kaiserreich
-  - KR
   - Germany
   - officer
   - military
@@ -14710,7 +11594,6 @@ goals:
  image: YUN_Kuomintang_Government_Initiative.png
  tags:
   - Kaiserreich
-  - KR
   - China
   
 -
@@ -14718,7 +11601,6 @@ goals:
  image: YUN_Promote_Tourism.png
  tags:
   - Kaiserreich
-  - KR
   - China
   
 -
@@ -14726,7 +11608,6 @@ goals:
  image: YUN_Sinitic_Dominance.png
  tags:
   - Kaiserreich
-  - KR
   - China
   
 -
@@ -14734,7 +11615,6 @@ goals:
  image: YUN_The_Master_of_the_East_Continent.png
  tags:
   - Kaiserreich
-  - KR
   - China
   
 -
@@ -14742,7 +11622,6 @@ goals:
  image: YUN_The_Mountain_Economy.png
  tags:
   - Kaiserreich
-  - KR
   - economic
   - mountain
   - resources
