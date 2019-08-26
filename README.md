@@ -2,7 +2,7 @@
 
 This repository holds all the icons and definitions of the [HOI4 Icon Search website](https://wyandotte.github.io/hoi4-icon-search/), an application which lists the icons of [Hearts of Iron IV](http://www.heartsofirongame.com/) to easily find the goal or idea GFX you're looking for.
 
-All rights of "vanilla" icons belong to Paradox Development Studio or Paradox Interactive. All "Kaiserreich" icons are created by the team of the [Kaiserreich mod](http://steamcommunity.com/sharedfiles/filedetails/?id=809903394).
+All rights of "vanilla" icons belong to Paradox Development Studio or Paradox Interactive. All "Kaiserreich" icons are created by the team of the [Kaiserreich mod](https://steamcommunity.com/sharedfiles/filedetails/?id=1521695605).
 
 ## Adding new icons
 
