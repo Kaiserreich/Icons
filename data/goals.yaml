@@ -7379,6 +7379,7 @@ goals:
   - KR
   - religion
   - protestantism
+
 -
  name: GFX_goal_renewed_militarism
  image: GER_renewed_militarism.png
@@ -7388,6 +7389,7 @@ goals:
   - GER
   - fist
   - flag
+
 -
  name: GFX_goal_democracy_in_prussia
  image: GER_democracy_in_prussia.png
@@ -12540,6 +12542,7 @@ goals:
   - Kaiserreich
   - KR
   - HNN
+
 -
  name: GFX_goal_HNN_Zun_Lao
  image: goal_HNN_Zun_Lao.png
@@ -14481,7 +14484,6 @@ goals:
   - Kaiserreich
   - paper
   - treaty
-  - x
 
 -
  name: GFX_goal_USA_demand_debts
@@ -14507,7 +14509,7 @@ goals:
   - Kaiserreich
   - Guatemala
   - person
-  
+
 -
  name: GFX_goal_GUA_Ubico_Takes_the_Throne
  image: GUA_Ubico_Takes_the_Throne.png
