@@ -13575,13 +13575,6 @@ goals:
   - person
 
 -
- name: GFX_goal_rolling_the_dice
- image: goal_rolling_the_dice.png
- tags:
-  - Kaiserreich
-  - KR
-
--
  name: GFX_goal_AUS_armeeoberkommando
  image: AUS_armeeoberkommando.png
  tags:
@@ -14718,4 +14711,10 @@ goals:
   - economic
   - mountain
   - resources
+
+-
+ name: GFX_goal_rolling_the_dice
+ image: goal_rolling_the_dice.png
+ tags:
+  - generated
 
