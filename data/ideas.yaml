@@ -2104,15 +2104,6 @@ ideas:
   - strike
 
 -
- name: syndicalist_industry_idea
- image: NOR_planned_economy.png
- tags:
-  - Kaiserreich
-  - KR
-  - production
-  - factory
-
--
  name: LEC_police
  image: LEC_police.png
  tags:
