@@ -7699,3 +7699,609 @@ ideas:
  tags:
   - generated
 
+-
+ name: temp_1
+ image: empty.png
+ tags:
+  - generated
+
+-
+ name: temp_2
+ image: empty.png
+ tags:
+  - generated
+
+-
+ name: temp_3
+ image: empty.png
+ tags:
+  - generated
+
+-
+ name: temp_4
+ image: empty.png
+ tags:
+  - generated
+
+-
+ name: temp_5
+ image: empty.png
+ tags:
+  - generated
+
+-
+ name: advisors_japan
+ image: idea_advisors_japan.png
+ tags:
+  - generated
+
+-
+ name: generic_syndicalist_militia
+ image: idea_generic_syndicalist_militia.png
+ tags:
+  - generated
+
+-
+ name: generic_crippled_industry
+ image: idea_generic_crippled_industry.png
+ tags:
+  - generated
+
+-
+ name: generic_destruction
+ image: idea_generic_destruction.png
+ tags:
+  - generated
+
+-
+ name: army_cooperation
+ image: idea_army_cooperation.png
+ tags:
+  - generated
+
+-
+ name: generic_migration
+ image: idea_generic_migration.png
+ tags:
+  - generated
+
+-
+ name: QIE_jade_marshal
+ image: QIE_jade_marshal.png
+ tags:
+  - generated
+
+-
+ name: nanking_commission
+ image: nanking_commision.png
+ tags:
+  - generated
+
+-
+ name: YUN_Long_Yun_idea
+ image: YUN_Long_Yun_idea.png
+ tags:
+  - generated
+
+-
+ name: YUN_Tang_Jiyao_idea
+ image: YUN_Tang_Jiyao_idea.png
+ tags:
+  - generated
+
+-
+ name: YUN_KMT_idea
+ image: YUN_GFX_Idea_KMT.png
+ tags:
+  - generated
+
+-
+ name: YUN_Federalist_idea
+ image: YUN_Federalist_idea.png
+ tags:
+  - generated
+
+-
+ name: GER_Iron_Front
+ image: GER_Iron_Front.png
+ tags:
+  - generated
+
+-
+ name: SAF_wavering_dominion_idea
+ image: SAF_wavering_dominion.png
+ tags:
+  - generated
+
+-
+ name: CAN_iedc
+ image: CAN_iedc.png
+ tags:
+  - generated
+
+-
+ name: CAN_iedc_naval
+ image: CAN_iedc_naval.png
+ tags:
+  - generated
+
+-
+ name: CAN_iedc_econ
+ image: CAN_iedc_econ.png
+ tags:
+  - generated
+
+-
+ name: CAN_iedc_const
+ image: CAN_iedc_const.png
+ tags:
+  - generated
+
+-
+ name: CAN_king_visit
+ image: CAN_king_visit.png
+ tags:
+  - generated
+
+-
+ name: CAN_exile_government
+ image: CAN_exile_government.png
+ tags:
+  - generated
+
+-
+ name: CAN_exile_military
+ image: CAN_exile_military.png
+ tags:
+  - generated
+
+-
+ name: CAN_imperial_advisors
+ image: CAN_imperial_advisors.png
+ tags:
+  - generated
+
+-
+ name: CAN_imperial_investment
+ image: CAN_imperial_investment.png
+ tags:
+  - generated
+
+-
+ name: CAN_imperial_research
+ image: CAN_imperial_research.png
+ tags:
+  - generated
+
+-
+ name: CAN_imperial_trade
+ image: CAN_imperial_trade.png
+ tags:
+  - generated
+
+-
+ name: CAN_french_tension
+ image: CAN_french_tension.png
+ tags:
+  - generated
+
+-
+ name: CAN_french_flames
+ image: CAN_french_flames.png
+ tags:
+  - generated
+
+-
+ name: CAN_french_friendship
+ image: CAN_french_friendship.png
+ tags:
+  - generated
+
+-
+ name: BHU_raven_crown
+ image: BHU_raven_crown.png
+ tags:
+  - generated
+
+-
+ name: BHU_mountain_nation
+ image: BHU_mountain_nation.png
+ tags:
+  - generated
+
+-
+ name: japanese_integration
+ image: JAP_economic_integration.png
+ tags:
+  - generated
+
+-
+ name: LEC_America_Rising
+ image: LEC_America_Rising.png
+ tags:
+  - generated
+
+-
+ name: LEC_America_Falling
+ image: LEC_America_Falling.png
+ tags:
+  - generated
+
+-
+ name: LEC_British_Rising
+ image: LEC_British_Rising.png
+ tags:
+  - generated
+
+-
+ name: LEC_British_Falling
+ image: LEC_British_Falling.png
+ tags:
+  - generated
+
+-
+ name: LEC_Germany_Rising
+ image: LEC_Germany_Rising.png
+ tags:
+  - generated
+
+-
+ name: LEC_Germany_Falling
+ image: LEC_Germany_Falling.png
+ tags:
+  - generated
+
+-
+ name: LEC_Japan_Rising
+ image: LEC_Japan_Rising.png
+ tags:
+  - generated
+
+-
+ name: LEC_Japan_Falling
+ image: LEC_Japan_Falling.png
+ tags:
+  - generated
+
+-
+ name: LEC_China_Rising
+ image: LEC_China_Rising.png
+ tags:
+  - generated
+
+-
+ name: LEC_China_Falling
+ image: LEC_China_Falling.png
+ tags:
+  - generated
+
+-
+ name: MON_buddhist_kingdom_icon
+ image: MON_buddhist_kingdom_icon.png
+ tags:
+  - generated
+
+-
+ name: MON_russian_help_icon
+ image: MON_russian_help_icon.png
+ tags:
+  - generated
+
+-
+ name: MON_9th_jebstundamba_khutuktu
+ image: MON_9th_jebstundamba_khutuktu.png
+ tags:
+  - generated
+
+-
+ name: MON_ger
+ image: MON_ger.png
+ tags:
+  - generated
+
+-
+ name: SHX_christian_statism
+ image: SHX_christian_statism.png
+ tags:
+  - generated
+
+-
+ name: SQI_dogmeat_general
+ image: SQI_dogmeat_general.png
+ tags:
+  - generated
+
+-
+ name: SQI_honored_master
+ image: SQI_honored_master.png
+ tags:
+  - generated
+
+-
+ name: SZC_opium_spread
+ image: SZC_opium_spread.png
+ tags:
+  - generated
+
+-
+ name: SZC_opium_monopoly
+ image: SZC_opium_monopoly.png
+ tags:
+  - generated
+
+-
+ name: SZC_internal_divisions
+ image: SZC_internal_divisions.png
+ tags:
+  - generated
+
+-
+ name: SZC_baoding_influence
+ image: SZC_baoding_influence.png
+ tags:
+  - generated
+
+-
+ name: SZC_baoding_alliance
+ image: SZC_baoding_alliance.png
+ tags:
+  - generated
+
+-
+ name: SZC_diarchy_neutral
+ image: SZC_diarchy_neutral.png
+ tags:
+  - generated
+
+-
+ name: SZC_diarchy_wenhui
+ image: SZC_diarchy_wenhui.png
+ tags:
+  - generated
+
+-
+ name: SZC_diarchy_xihou
+ image: SZC_diarchy_xihou.png
+ tags:
+  - generated
+
+-
+ name: XSM_destruction_gansu
+ image: XSM_gansu_destruction.png
+ tags:
+  - generated
+
+-
+ name: GXC_model_province
+ image: idea_GXC_model_province.png
+ tags:
+  - generated
+
+-
+ name: GXC_liangguang_broken
+ image: idea_GXC_liangguang_broken.png
+ tags:
+  - generated
+
+-
+ name: GXC_federal_authority_1
+ image: idea_GXC_federal_authority_1.png
+ tags:
+  - generated
+
+-
+ name: GXC_federal_authority_2
+ image: idea_GXC_federal_authority_2.png
+ tags:
+  - generated
+
+-
+ name: GXC_federal_authority_3
+ image: idea_GXC_federal_authority_3.png
+ tags:
+  - generated
+
+-
+ name: GXC_federal_authority_4
+ image: idea_GXC_federal_authority_4.png
+ tags:
+  - generated
+
+-
+ name: GXC_federal_authority_5
+ image: idea_GXC_federal_authority_5.png
+ tags:
+  - generated
+
+-
+ name: ANQ_fengtian_cooperation
+ image: ANQ_fengtian_cooperation.png
+ tags:
+  - generated
+
+-
+ name: ANQ_fengtian_cooperationNOJAP
+ image: ANQ_fengtian_cooperationNOJAP.png
+ tags:
+  - generated
+
+-
+ name: ANQ_beijing_cooperation
+ image: ANQ_beijing_cooperation.png
+ tags:
+  - generated
+
+-
+ name: ANQ_shangguan_yunxiang
+ image: ANQ_shangguan_yunxiang.png
+ tags:
+  - generated
+
+-
+ name: ANQ_black_dragon_society
+ image: ANQ_black_dragon_society.png
+ tags:
+  - generated
+
+-
+ name: ANQ_reconstruction_plan
+ image: ANQ_reconstruction_plan.png
+ tags:
+  - generated
+
+-
+ name: HNN_hopes_dashed
+ image: HNN_hopes_dashed.png
+ tags:
+  - generated
+
+-
+ name: HNN_lingfeng_temple
+ image: HNN_lingfeng_temple.png
+ tags:
+  - generated
+
+-
+ name: CHI_economic_affairs_commission
+ image: economic_affairs_commission.png
+ tags:
+  - generated
+
+-
+ name: French_Revanchism_idea
+ image: FRA_idea_revenge.png
+ tags:
+  - generated
+
+-
+ name: fin_red_cross
+ image: FIN_idea_red_cross.png
+ tags:
+  - generated
+
+-
+ name: GBR_devastation
+ image: GBR_devastation.png
+ tags:
+  - generated
+
+-
+ name: GBR_legacy_revolution
+ image: GBR_legacy_revolution.png
+ tags:
+  - generated
+
+-
+ name: GBR_morale
+ image: GBR_morale.png
+ tags:
+  - generated
+
+-
+ name: GBR_new_military
+ image: GBR_new_military.png
+ tags:
+  - generated
+
+-
+ name: ITA_republic
+ image: ITA_republic.png
+ tags:
+  - generated
+
+-
+ name: ITA_republic2
+ image: ITA_republic2.png
+ tags:
+  - generated
+
+-
+ name: ITA_federation
+ image: ITA_federation.png
+ tags:
+  - generated
+
+-
+ name: LIT_bundas_ownership
+ image: LIT_bundas_ownership.png
+ tags:
+  - generated
+
+-
+ name: LIT_bundas_controlled_ownership
+ image: LIT_bundas_controlled_ownership.png
+ tags:
+  - generated
+
+-
+ name: LIT_crown_1
+ image: LIT_crown_1.png
+ tags:
+  - generated
+
+-
+ name: LIT_crown_2
+ image: LIT_crown_2.png
+ tags:
+  - generated
+
+-
+ name: LIT_crown_3
+ image: LIT_crown_3.png
+ tags:
+  - generated
+
+-
+ name: LIT_crown_4
+ image: LIT_crown_4.png
+ tags:
+  - generated
+
+-
+ name: LIT_cultural_split_1
+ image: LIT_cultural_split_1.png
+ tags:
+  - generated
+
+-
+ name: LIT_cultural_split_2
+ image: LIT_cultural_split_2.png
+ tags:
+  - generated
+
+-
+ name: LIT_cultural_split_3
+ image: LIT_cultural_split_3.png
+ tags:
+  - generated
+
+-
+ name: LIT_cultural_split_4
+ image: LIT_cultural_split_4.png
+ tags:
+  - generated
+
+-
+ name: LIT_LSS
+ image: LIT_LSS.png
+ tags:
+  - generated
+
+-
+ name: POL_german_economic_control
+ image: POL_german_economic_control.png
+ tags:
+  - generated
+
+-
+ name: POL_royal_army
+ image: POL_royal_army.png
+ tags:
+  - generated
+
+-
+ name: SWI_empty_generalship
+ image: SWI_empty_generalship.png
+ tags:
+  - generated
+
