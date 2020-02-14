@@ -20,6 +20,7 @@ goals:
  tags:
   - vanilla
   - crown
+  - generic
 
 -
  name: GFX_focus_generic_the_giant_wakes
@@ -37,6 +38,7 @@ goals:
   - encryption
   - decryption
   - bomb
+  - generic
 
 -
  name: GFX_focus_generic_socialist_science
@@ -62,6 +64,7 @@ goals:
   - vanilla
   - soldiers
   - army
+  - generic
 
 -
  name: GFX_focus_generic_soviet_politics
@@ -133,6 +136,7 @@ goals:
   - vanilla
   - defense
   - air
+  - generic
 
 -
  name: GFX_focus_generic_coastal_fort
@@ -141,6 +145,7 @@ goals:
   - vanilla
   - defense
   - navy
+  - generic
 
 -
  name: GFX_focus_generic_paratrooper
@@ -149,6 +154,7 @@ goals:
   - vanilla
   - paratrooper
   - wings
+  - generic
 
 -
  name: GFX_focus_generic_diplomatic_treaty
@@ -156,6 +162,7 @@ goals:
  tags:
   - vanilla
   - shaking hands
+  - generic
 
 -
  name: GFX_focus_NZL_bob_semple_tank
@@ -179,6 +186,7 @@ goals:
   - vanilla
   - production
   - factory
+  - generic
 
 -
  name: GFX_goal_generic_attack_allies
@@ -196,6 +204,7 @@ goals:
   - oil
   - production
   - factory
+  - generic
 
 -
  name: GFX_goal_generic_positive_trade_relations
@@ -203,6 +212,7 @@ goals:
  tags:
   - vanilla
   - trade
+  - generic
 
 -
  name: GFX_goal_generic_military_deal
@@ -211,6 +221,7 @@ goals:
   - vanilla
   - sword
   - shaking hands
+  - generic
 
 -
  name: GFX_goal_generic_wolf_pack
@@ -228,6 +239,7 @@ goals:
   - vanilla
   - anchor
   - navy
+  - generic
 
 -
  name: GFX_goal_generic_dangerous_deal
@@ -235,6 +247,7 @@ goals:
  tags:
   - vanilla
   - shaking hands
+  - generic
 
 -
  name: GFX_goal_generic_military_sphere
@@ -242,6 +255,7 @@ goals:
  tags:
   - vanilla
   - shield
+  - generic
 
 -
  name: GFX_goal_generic_major_alliance
@@ -249,12 +263,14 @@ goals:
  tags:
   - vanilla
   - shaking hands
+  - generic
 
 -
  name: GFX_goal_generic_more_territorial_claims
  image: goal_generic_more_territorial_claims.png
  tags:
   - vanilla
+  - generic
 
 -
  name: GFX_goal_generic_major_war
@@ -262,6 +278,7 @@ goals:
  tags:
   - vanilla
   - sword
+  - generic
 
 -
  name: GFX_goal_generic_soviet_construction
@@ -280,6 +297,7 @@ goals:
   - vanilla
   - fort
   - defense
+  - generic
 
 -
  name: GFX_goal_generic_war_with_comintern
@@ -295,12 +313,14 @@ goals:
  tags:
   - vanilla
   - eagle
+  - generic
 
 -
  name: GFX_goal_generic_forceful_treaty
  image: goal_generic_forceful_treaty.png
  tags:
   - vanilla
+  - generic
 
 -
  name: GFX_goal_generic_scientific_exchange
@@ -309,6 +329,7 @@ goals:
   - vanilla
   - research
   - shaking hands
+  - generic
 
 -
  name: GFX_goal_generic_intelligence_exchange
@@ -317,6 +338,7 @@ goals:
   - vanilla
   - shaking hands
   - trade
+  - generic
 
 -
  name: GFX_goal_generic_small_arms
@@ -324,6 +346,7 @@ goals:
  tags:
   - vanilla
   - shield
+  - generic
 
 -
  name: GFX_goal_generic_trade
@@ -331,6 +354,7 @@ goals:
  tags:
   - vanilla
   - trade
+  - generic
 
 -
  name: GFX_goal_generic_consumer_goods
@@ -339,6 +363,7 @@ goals:
   - vanilla
   - consumer goods
   - production
+  - generic
 
 -
  name: GFX_goal_generic_defence
@@ -347,6 +372,7 @@ goals:
   - vanilla
   - defense
   - shield
+  - generic
 
 -
  name: GFX_goal_generic_air_production
@@ -356,6 +382,7 @@ goals:
   - air
   - production
   - factory
+  - generic
 
 -
  name: GFX_goal_generic_radar
@@ -363,12 +390,16 @@ goals:
  tags:
   - vanilla
   - radar
+  - generic
 
 -
  name: GFX_goal_generic_alliance
  image: goal_generic_alliance.png
  tags:
   - vanilla
+  - diplomacy
+  - alliance
+  - generic
 
 -
  name: GFX_goal_generic_construction2
@@ -377,6 +408,7 @@ goals:
   - vanilla
   - construction
   - resources
+  - generic
 
 -
  name: GFX_goal_generic_air_fighter2
@@ -385,6 +417,7 @@ goals:
   - vanilla
   - air
   - fighter
+  - generic
 
 -
  name: GFX_goal_generic_cavalry
@@ -392,6 +425,7 @@ goals:
  tags:
   - vanilla
   - cavalry
+  - generic
 
 -
  name: GFX_goal_generic_construction
@@ -400,6 +434,7 @@ goals:
   - vanilla
   - construction
   - factory
+  - generic
 
 -
  name: GFX_goal_generic_production2
@@ -410,6 +445,7 @@ goals:
   - factory
   - encryption
   - decryption
+  - generic
 
 -
  name: GFX_goal_generic_neutrality_focus
@@ -418,6 +454,7 @@ goals:
   - vanilla
   - neutral
   - nonaligned
+  - generic
 
 -
  name: GFX_goal_generic_secret_weapon
@@ -425,6 +462,7 @@ goals:
  tags:
   - vanilla
   - skull
+  - generic
 
 -
  name: GFX_goal_generic_navy_cruiser
@@ -432,6 +470,7 @@ goals:
  tags:
   - vanilla
   - navy
+  - generic
 
 -
  name: GFX_goal_generic_construct_naval_dockyard
@@ -441,6 +480,7 @@ goals:
   - navy
   - port
   - dockyard
+  - generic
 
 -
  name: GFX_goal_generic_air_naval_bomber
@@ -450,6 +490,7 @@ goals:
   - air
   - bomb
   - bomber
+  - generic
 
 -
  name: GFX_goal_generic_national_unity
@@ -457,6 +498,7 @@ goals:
  tags:
   - vanilla
   - hands
+  - generic
 
 -
  name: GFX_goal_generic_construct_infrastructure
@@ -466,6 +508,7 @@ goals:
   - production
   - construction
   - infrastructure
+  - generic
 
 -
  name: GFX_goal_generic_construct_mil_factory
@@ -476,6 +519,7 @@ goals:
   - construction
   - factory
   - military factory
+  - generic
 
 -
  name: GFX_goal_generic_construct_civ_factory
@@ -486,6 +530,7 @@ goals:
   - construction
   - factory
   - military factory
+  - generic
 
 -
  name: GFX_goal_generic_army_artillery2
@@ -493,6 +538,7 @@ goals:
  tags:
   - vanilla
   - artillery
+  - generic
 
 -
  name: GFX_goal_generic_army_artillery
@@ -500,6 +546,7 @@ goals:
  tags:
   - vanilla
   - artillery
+  - generic
 
 -
  name: GFX_goal_generic_army_doctrines
@@ -507,6 +554,7 @@ goals:
  tags:
   - vanilla
   - doctrine
+  - generic
 
 -
  name: GFX_goal_generic_army_tanks
@@ -514,6 +562,7 @@ goals:
  tags:
   - vanilla
   - tank
+  - generic
 
 -
  name: GFX_goal_generic_army_motorized
@@ -521,6 +570,7 @@ goals:
  tags:
   - vanilla
   - motorized
+  - generic
 
 -
  name: GFX_goal_generic_navy_doctrines_tactics
@@ -529,6 +579,7 @@ goals:
   - vanilla
   - doctrine
   - navy
+  - generic
 
 -
  name: GFX_goal_generic_navy_anti_submarine
@@ -538,6 +589,7 @@ goals:
   - submarine
   - skull
   - navy
+  - generic
 
 -
  name: GFX_goal_generic_navy_submarine
@@ -546,6 +598,7 @@ goals:
   - vanilla
   - submarine
   - navy
+  - generic
 
 -
  name: GFX_goal_generic_navy_carrier
@@ -554,6 +607,7 @@ goals:
   - vanilla
   - carrier
   - navy
+  - generic
 
 -
  name: GFX_goal_generic_navy_battleship
@@ -562,6 +616,7 @@ goals:
   - vanilla
   - navy
   - battleship
+  - generic
 
 -
  name: GFX_goal_generic_air_doctrine
@@ -570,6 +625,7 @@ goals:
   - vanilla
   - air
   - doctrine
+  - generic
 
 -
  name: GFX_goal_generic_CAS
@@ -580,6 +636,7 @@ goals:
   - air
   - skull
   - wings
+  - generic
 
 -
  name: GFX_goal_generic_air_fighter
@@ -588,6 +645,7 @@ goals:
   - vanilla
   - fighter
   - air
+  - generic
 
 -
  name: GFX_goal_generic_air_bomber
@@ -598,6 +656,7 @@ goals:
   - bomber
   - tactical bomber
   - strategic bomber
+  - generic
 
 -
  name: GFX_goal_generic_propaganda
@@ -605,6 +664,7 @@ goals:
  tags:
   - vanilla
   - propaganda
+  - generic
 
 -
  name: GFX_goal_generic_special_forces
@@ -612,6 +672,7 @@ goals:
  tags:
   - vanilla
   - sword
+  - generic
 
 -
  name: GFX_focus_wonderweapons
@@ -621,6 +682,7 @@ goals:
   - atom
   - nuclear
   - bomb
+  - generic
 
 -
  name: GFX_focus_research
@@ -628,6 +690,7 @@ goals:
  tags:
   - vanilla
   - research
+  - generic
 
 -
  name: GFX_focus_rocketry
@@ -635,6 +698,7 @@ goals:
  tags:
   - vanilla
   - rocket
+  - generic
 
 -
  name: GFX_goal_support_fascism
@@ -680,6 +744,7 @@ goals:
  tags:
   - vanilla
   - shield
+  - tank
 
 -
  name: GFX_goal_generic_build_airforce
@@ -710,6 +775,7 @@ goals:
   - vanilla
   - shield
   - shaking hands
+  - diplomacy
 
 -
  name: GFX_goal_generic_political_pressure
@@ -753,6 +819,7 @@ goals:
  image: goal_generic_position_armies.png
  tags:
   - vanilla
+  - army
 
 -
  name: GFX_goal_generic_construct_military
@@ -761,6 +828,7 @@ goals:
   - vanilla
   - fort
   - defense
+  - construction
 
 -
  name: GFX_goal_generic_construct_civilian
@@ -854,6 +922,7 @@ goals:
   - vanilla
   - tfv
   - crown
+  - britain
 
 -
  name: GFX_goal_tfv_strengthen_commonwealth_ties
@@ -863,6 +932,7 @@ goals:
   - tfv
   - crown
   - shaking hands
+  - britain
 
 -
  name: GFX_goal_tfv_generic_tech_sharing
@@ -891,6 +961,8 @@ goals:
   - vanilla
   - tfv
   - quebec
+  - canada
+  - conscription
 
 -
  name: GFX_goal_tfv_can_compromise_with_quebec
@@ -899,6 +971,7 @@ goals:
   - vanilla
   - tfv
   - quebec
+  - canada
 
 -
  name: GFX_focus_AST_never_gallipoli
@@ -907,9 +980,7 @@ goals:
   - vanilla
   - tfv
   - australia
-  - england
-  - great britain
-  - united kingdom
+  - britain
 
 -
  name: GFX_focus_AST_rats_tobruk
@@ -945,6 +1016,8 @@ goals:
   - vanilla
   - tfv
   - fist
+  - crusade
+  - south africa
 
 -
  name: GFX_goal_tfv_saf_support_german_coup
@@ -952,8 +1025,9 @@ goals:
  tags:
   - vanilla
   - tfv
-  - africa
+  - south africa
   - germany
+  - coup
 
 -
  name: GFX_goal_tfv_saf_secure_interests_in_africa
@@ -963,7 +1037,7 @@ goals:
   - tfv
   - africa
   - england
-  - great britain
+  - britain
   - united kingdom
 
 -
@@ -990,8 +1064,9 @@ goals:
   - tfv
   - india
   - england
-  - great britain
+  - britain
   - united kingdom
+  - investment
 
 -
  name: GFX_focus_RAJ_clamp_down_on_corruption
@@ -1000,8 +1075,9 @@ goals:
   - vanilla
   - tfv
   - england
-  - great britain
+  - britain
   - united kingdom
+  - corruption
 
 -
  name: GFX_focus_RAJ_indian_gentlemen_offcers
@@ -1010,6 +1086,7 @@ goals:
   - vanilla
   - tfv
   - sword
+  - india
 
 -
  name: GFX_focus_RAJ_indian_gurkhas
@@ -1018,6 +1095,7 @@ goals:
   - vanilla
   - tfv
   - sword
+  - india
 
 -
  name: GFX_focus_RAJ_indianisation_of_army
@@ -1034,6 +1112,7 @@ goals:
   - vanilla
   - tfv
   - sword
+  - india
 
 -
  name: GFX_focus_RAJ_seek_help_from_germany
@@ -1087,6 +1166,7 @@ goals:
   - KR
   - resource
   - production
+  - steel
 
 -
  name: GFX_goal_aluminium
@@ -1096,6 +1176,7 @@ goals:
   - KR
   - resource
   - production
+  - aluminium
 
 -
  name: GFX_goal_chromium
@@ -1105,6 +1186,7 @@ goals:
   - KR
   - resource
   - production
+  - chromium
 
 -
  name: GFX_goal_oil
@@ -1114,6 +1196,7 @@ goals:
   - KR
   - resource
   - production
+  - oil
 
 -
  name: GFX_goal_rubber
@@ -1123,6 +1206,7 @@ goals:
   - KR
   - resource
   - production
+  - rubber
 
 -
  name: GFX_goal_tungsten
@@ -1132,6 +1216,7 @@ goals:
   - KR
   - resource
   - production
+  - tungsten
 
 -
  name: GFX_goal_authoritarian
@@ -1238,6 +1323,7 @@ goals:
   - Kaiserreich
   - KR
   - soldiers
+  - conscription
 
 -
  name: GFX_goal_economic_control
@@ -1247,12 +1333,15 @@ goals:
   - KR
   - fist
   - production
+  - economy
+  
 -
  name: GFX_goal_state_economy
  image: goal_state_economy.png
  tags:
   - Kaiserreich
   - KR
+  - economy
 
 -
  name: GFX_goal_women_industry
@@ -1282,6 +1371,7 @@ goals:
   - tank
   - panzer
   - army
+  - russia
 
 -
  name: GFX_goal_RUS_Wrangel_plan
@@ -1292,6 +1382,7 @@ goals:
   - fist
   - artillery
   - army
+  - russia
 
 -
  name: GFX_goal_zhang_rifle
@@ -1320,6 +1411,75 @@ goals:
   - china
   - star
 -
+ name: GFX_goal_flag_somalia
+ image: goal_flag_somalia.png
+ tags:
+  - generated
+  - flag
+  - somalia
+
+-
+ name: GFX_goal_flag_new_england
+ image: goal_flag_new_england.png
+ tags:
+  - generated
+  - flag
+  - new england
+  - NEE
+
+-
+ name: GFX_goal_flag_alash_orda
+ image: goal_flag_alash_orda.png
+ tags:
+  - generated
+  - flag
+  - alash orda
+  - ALO
+
+-
+ name: GFX_goal_flag_azerbaijan
+ image: goal_flag_azerbaijan.png
+ tags:
+  - generated
+  - flag
+  - azerbaijan
+  - AZE
+
+-
+ name: GFX_goal_falklands
+ image: goal_flag_falklands.png
+ tags:
+  - generated
+  - flag
+  - falklands
+
+-
+ name: GFX_goal_northireland
+ image: goal_flag_northireland.png
+ tags:
+  - generated
+  - flag
+  - ulster
+  - northern ireland
+  - ireland
+
+-
+ name: GFX_goal_gibraltar
+ image: goal_flag_gibraltar.png
+ tags:
+  - generated
+  - flag
+  - gibraltar
+
+-
+ name: GFX_goal_malta_cross
+ image: goal_malta_cross.png
+ tags:
+  - generated
+  - flag
+  - malta
+
+-
  name: GFX_goal_afghanistan
  image: goal_flag_afghanistan.png
  tags:
@@ -1336,15 +1496,6 @@ goals:
   - KR
   - flag
   - ALO
-
--
- name: GFX_goal_flag_armenia
- image: goal_flag_armenia.png
- tags:
-  - Kaiserreich
-  - KR
-  - ARM
-  - flag
 
 -
  name: GFX_goal_armenia
@@ -1406,7 +1557,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CAN
+  - canada
   - flag
 
 -
@@ -1581,6 +1732,7 @@ goals:
   - KR
   - BHC
   - flag
+  - india
 
 -
  name: GFX_goal_india_dominion
@@ -1590,6 +1742,7 @@ goals:
   - KR
   - DEH
   - flag
+  - india
 
 -
  name: GFX_goal_india_princely_federation
@@ -1599,6 +1752,7 @@ goals:
   - KR
   - PRF
   - flag
+  - india
 
 -
  name: GFX_goal_iron_guard_romania
@@ -1792,6 +1946,7 @@ goals:
   - KR
   - PLC
   - flag
+  - poland
 
 -
  name: GFX_goal_poland
@@ -1819,6 +1974,7 @@ goals:
   - KR
   - RRM
   - flag
+  - romania
 
 -
  name: GFX_goal_russia
@@ -1826,7 +1982,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - RUS
+  - russia
   - flag
 
 -
@@ -1865,6 +2021,7 @@ goals:
   - KR
   - SOV
   - flag
+  - russia
 
 -
  name: GFX_goal_spain
@@ -1892,6 +2049,7 @@ goals:
   - Kaiserreich
   - KR
   - GBR
+  - britain
   - CAN
   - flag
 
@@ -2009,7 +2167,9 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - BM
+  - black monday
+  - bankruptcy
+  - economy
 
 -
  name: GFX_goal_orthodox_state
@@ -2062,6 +2222,8 @@ goals:
   - Kaiserreich
   - KR
   - liberty
+  - freedom
+  - democracy
 
 -
  name: GFX_goal_syndicalist_lenin
@@ -2107,6 +2269,7 @@ goals:
   - Kaiserreich
   - KR
   - trumpet
+  - conscription
 
 -
  name: GFX_goal_pol_austrian_king
@@ -2116,6 +2279,7 @@ goals:
   - KR
   - crown
   - Austria
+  - poland
 
 -
  name: GFX_goal_pol_german_king
@@ -2125,6 +2289,7 @@ goals:
   - KR
   - crown
   - Germany
+  - poland
 
 -
  name: GFX_goal_pol_lithuanian_king
@@ -2134,6 +2299,7 @@ goals:
   - KR
   - crown
   - Lithuania
+  - poland
 
 -
  name: GFX_goal_pol_polish_king
@@ -2332,6 +2498,7 @@ goals:
   - vanilla
   - dod
   - crown
+  - romania
 
 -
  name: GFX_focus_rom_coup
@@ -2349,6 +2516,7 @@ goals:
   - vanilla
   - dod
   - crown
+  - romania
 
 -
  name: GFX_focus_rom_parties_end
@@ -2356,6 +2524,7 @@ goals:
  tags:
   - vanilla
   - dod
+  - romania
 
 -
  name: GFX_focus_rom_preserve_romania
@@ -2374,6 +2543,7 @@ goals:
   - dod
   - crown
   - fist
+  - romania
 
 -
  name: GFX_focus_secret_rearmament
@@ -2428,50 +2598,6 @@ goals:
   - yugoslavia
 
 -
- name: GFX_goal_agrarian_reform
- image: GFX_goal_agrarian_reform.png
- tags:
-  - Kaiserreich
-  - KR
-  - government
-
--
- name: GFX_goal_authority
- image: GFX_goal_authority.png
- tags:
-  - Kaiserreich
-  - KR
-  - sword
-
--
- name: GFX_goal_broken_red_star
- image: GFX_goal_broken_red_star.png
- tags:
-  - Kaiserreich
-  - KR
-  - communism
-  - syndicalism
-
--
- name: GFX_goal_constitutional_guarantees
- image: GFX_goal_constitutional_guarantees.png
- tags:
-  - Kaiserreich
-  - KR
-  - treaty
-  - constitution
-
--
- name: GFX_goal_construction_engineering
- image: GFX_goal_construction_engineering.png
- tags:
-  - Kaiserreich
-  - KR
-  - construction
-  - production
-  - mines
-
--
  name: GFX_goal_generic_coastal_navy
  image: GFX_goal_generic_coastal_navy.png
  tags:
@@ -2501,22 +2627,6 @@ goals:
   - gold
 
 -
- name: GFX_goal_military_academy
- image: GFX_goal_military_academy.png
- tags:
-  - Kaiserreich
-  - KR
-  - guns
-
--
- name: GFX_goal_national_artillery
- image: GFX_goal_national_artillery.png
- tags:
-  - Kaiserreich
-  - KR
-  - artillery
-
--
  name: GFX_goal_nested_fortifications
  image: GFX_goal_nested_fortifications.png
  tags:
@@ -2524,14 +2634,6 @@ goals:
   - KR
   - fort
   - defense
-
--
- name: GFX_goal_new_treaty
- image: GFX_goal_new_treaty.png
- tags:
-  - Kaiserreich
-  - KR
-  - treaty
 
 -
  name: GFX_goal_planning_bonus
@@ -2556,6 +2658,7 @@ goals:
   - Kaiserreich
   - KR
   - pistol
+  - espionage
 
 -
  name: GFX_goal_skull_fortification
@@ -2602,6 +2705,7 @@ goals:
   - KR
   - production
   - transportation
+  - siam
 
 -
  name: GFX_SIA_jungletraining
@@ -2610,6 +2714,9 @@ goals:
   - Kaiserreich
   - KR
   - guns
+  - jungle
+  - army
+  - siam
 
 -
  name: GFX_SIA_rearmement
@@ -2618,6 +2725,8 @@ goals:
   - Kaiserreich
   - KR
   - guns
+  - army
+  - siam
 
 -
  name: GFX_SIA_tank
@@ -2627,6 +2736,7 @@ goals:
   - KR
   - tank
   - armour
+  - siam
 
 -
  name: GFX_goal_basic_oil
@@ -2636,15 +2746,7 @@ goals:
   - KR
   - production
   - resources
-
--
- name: GFX_goal_BEL_Battleship_Investements
- image: GFX_goal_BEL_Battleship_Investements.png
- tags:
-  - Kaiserreich
-  - KR
-  - ship
-  - navy
+  - oil
 
 -
  name: GFX_goal_BEL_caritas
@@ -2652,6 +2754,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
+  - belgium
 
 -
  name: GFX_goal_Centralised_Government
@@ -2661,6 +2764,7 @@ goals:
   - KR
   - government
   - fist
+  - authority
 
 -
  name: GFX_goal_Cyclotron
@@ -2687,6 +2791,7 @@ goals:
   - KR
   - ww1
   - weltkrieg
+  - flanders
 
 -
  name: GFX_goal_further_oil
@@ -2696,25 +2801,7 @@ goals:
   - KR
   - production
   - oil
-
--
- name: GFX_goal_German_Investements
- image: GFX_goal_German_Investements.png
- tags:
-  - Kaiserreich
-  - KR
-  - germany
-  - gold
-  - money
-
--
- name: GFX_goal_German_Staff
- image: GFX_goal_German_Staff.png
- tags:
-  - Kaiserreich
-  - KR
-  - germany
-  - soldiers
+  - resources
 
 -
  name: GFX_goal_KTG_Belgian_Engineers
@@ -2723,6 +2810,7 @@ goals:
   - Kaiserreich
   - KR
   - production
+  - belgium
 
 -
  name: GFX_goal_KTG_Belgian_Officers2
@@ -2731,30 +2819,9 @@ goals:
   - Kaiserreich
   - KR
   - soldier
-
--
- name: GFX_goal_KTG_Bookstack
- image: GFX_goal_KTG_Bookstack.png
- tags:
-  - Kaiserreich
-  - KR
-  - book
-
--
- name: GFX_goal_KTG_Certificate_Focus
- image: GFX_goal_KTG_Certificate_Focus.png
- tags:
-  - Kaiserreich
-  - KR
-
--
- name: GFX_goal_KTG_Colonial_Economy_Focus
- image: GFX_goal_KTG_Colonial_Economy_Focus.png
- tags:
-  - Kaiserreich
-  - KR
-  - gold
-  - money
+  - officer
+  - military
+  - army
 
 -
  name: GFX_goal_KTG_Colonial_Trinity2
@@ -2784,20 +2851,6 @@ goals:
   - production
 
 -
- name: GFX_goal_KTG_Elections
- image: GFX_goal_KTG_Elections.png
- tags:
-  - Kaiserreich
-  - KR
-
--
- name: GFX_goal_KTG_Ivory_Hunting
- image: GFX_goal_KTG_Ivory_Hunting.png
- tags:
-  - Kaiserreich
-  - KR
-
--
  name: GFX_goal_KTG_Jungle_Diamond_Mine
  image: GFX_goal_KTG_Jungle_Diamond_Mine.png
  tags:
@@ -2805,6 +2858,7 @@ goals:
   - KR
   - resources
   - diamond
+  - jungle
 
 -
  name: GFX_goal_KTG_Jungle_Gold_Mine
@@ -2814,6 +2868,7 @@ goals:
   - KR
   - resources
   - gold
+  - jungle
 
 -
  name: GFX_goal_KTG_Jungle_Railroad
@@ -2821,18 +2876,13 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - production
+  - railroad
+  - infrastructure
+  - jungle
 
 -
  name: GFX_goal_KTG_Reinstate_Chefferie
  image: GFX_goal_KTG_Reinstate_Chefferie.png
- tags:
-  - Kaiserreich
-  - KR
-
--
- name: GFX_goal_KTG_Rubber_Farming
- image: GFX_goal_KTG_Rubber_Farming.png
  tags:
   - Kaiserreich
   - KR
@@ -2844,22 +2894,6 @@ goals:
   - Kaiserreich
   - KR
   - trade
-
--
- name: GFX_goal_refugee_management
- image: GFX_goal_refugee_management.png
- tags:
-  - Kaiserreich
-  - KR
-
--
- name: GFX_goal_socialist_infrastructure
- image: GFX_goal_socialist_infrastructure.png
- tags:
-  - Kaiserreich
-  - KR
-  - production
-  - transportation
 
 -
  name: GFX_goal_army_guy
@@ -3037,15 +3071,6 @@ goals:
   - ban
 
 -
- name: GFX_goal_HOL_ban_paramilitary_left
- image: goal_HOL_ban_paramilitary_left.png
- tags:
-  - Kaiserreich
-  - KR
-  - soldiers
-  - ban
-
--
  name: GFX_goal_HOL_ban_VNH
  image: goal_HOL_ban_VNH.png
  tags:
@@ -3174,6 +3199,7 @@ goals:
   - vanilla
   - wtt
   - army
+  - china
 
 -
  name: GFX_focus_chi_british_cooperation
@@ -3182,6 +3208,8 @@ goals:
   - vanilla
   - wtt
   - UK
+  - britain
+  - china
 
 -
  name: GFX_focus_chi_collaboration_with_the_japanese
@@ -3190,6 +3218,7 @@ goals:
   - vanilla
   - wtt
   - JAP
+  - china
 
 -
  name: GFX_focus_chi_cooperation_with_the_communists
@@ -3198,7 +3227,7 @@ goals:
   - vanilla
   - wtt
   - communism
-  - CHI
+  - china
 
 -
  name: GFX_focus_chi_cooperation_with_the_nationalists
@@ -3206,6 +3235,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_examination_yuan
@@ -3213,6 +3243,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_flying_tigers
@@ -3220,6 +3251,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_legislative_yuan
@@ -3227,6 +3259,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_mission_to_germany
@@ -3234,6 +3267,8 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
+  - germany
 
 -
  name: GFX_focus_chi_mission_to_the_soviet_union
@@ -3241,6 +3276,8 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
+  - soviet union
 
 -
  name: GFX_focus_chi_mission_to_the_us
@@ -3248,6 +3285,8 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
+  - usa
 
 -
  name: GFX_focus_chi_one_china_policy
@@ -3255,6 +3294,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_proclaim_rival_government
@@ -3262,6 +3302,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_reach_out_to_france
@@ -3269,6 +3310,8 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
+  - france
 
 -
  name: GFX_focus_chi_united_front
@@ -3276,6 +3319,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_chi_whampoa_military_academy
@@ -3283,6 +3327,9 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
+  - military
+  - academy
 
 -
  name: GFX_focus_generic_aluminum
@@ -3309,6 +3356,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - china
 
 -
  name: GFX_focus_generic_combined_arms
@@ -3373,6 +3421,8 @@ goals:
   - vanilla
   - wtt
   - army
+  - military
+  - academy
 
 -
  name: GFX_focus_generic_navy_battleship2
@@ -3398,6 +3448,7 @@ goals:
   - wtt
   - rubber
   - production
+  - resources
 
 -
  name: GFX_focus_generic_steel
@@ -3407,6 +3458,7 @@ goals:
   - wtt
   - steel
   - production
+  - resources
 
 -
  name: GFX_focus_generic_tank_production
@@ -3417,6 +3469,7 @@ goals:
   - army
   - production
   - army
+  - tank
 
 -
  name: GFX_focus_generic_treaty
@@ -3425,6 +3478,7 @@ goals:
   - vanilla
   - wtt
   - treaty
+  - diplomacy
 
 -
  name: GFX_focus_generic_tungsten
@@ -3434,6 +3488,7 @@ goals:
   - wtt
   - tungsten
   - production
+  - resources
 
 -
  name: GFX_focus_ger_accept_british_naval_dominance
@@ -3442,6 +3497,8 @@ goals:
   - vanilla
   - flag
   - wtt
+  - navy
+  - britain
 
 -
  name: GFX_focus_ger_assassinate_mussolini
@@ -3449,6 +3506,8 @@ goals:
  tags:
   - vanilla
   - wtt
+  - person
+  - italy
 
 -
  name: GFX_focus_ger_break_anglo_french_colonial_hegemony
@@ -3505,7 +3564,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - GER
+  - germany
 
 -
  name: GFX_focus_ger_strike_at_the_source
@@ -3513,7 +3572,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - RUS
+  - russia
   - SOV
 
 -
@@ -3522,7 +3581,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
 
 -
  name: GFX_focus_jap_manchurian_project
@@ -3530,6 +3589,7 @@ goals:
  tags:
   - vanilla
   - wtt
+  - japan
 
 -
  name: GFX_focus_jap_pacific_guardian
@@ -3537,7 +3597,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
 
 -
  name: GFX_focus_jap_showa_restoration
@@ -3545,7 +3605,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
 
 -
  name: GFX_focus_jap_spiritual_mobilization
@@ -3553,7 +3613,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
 
 -
  name: GFX_focus_jap_strike_south
@@ -3561,7 +3621,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
 
 -
  name: GFX_focus_jap_zaibatsu
@@ -3569,7 +3629,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
 
 -
  name: GFX_focus_jap_zero
@@ -3577,7 +3637,7 @@ goals:
  tags:
   - vanilla
   - wtt
-  - JAP
+  - japan
   - air
 
 -
@@ -3605,6 +3665,7 @@ goals:
   - wtt
   - soldier
   - army
+  - china
 
 -
  name: GFX_focus_prc_maoism
@@ -3633,6 +3694,8 @@ goals:
  tags:
   - vanilla
   - wtt
+  - ideology
+  - social democrat
 
 -
  name: GFX_focus_research2
@@ -3728,7 +3791,9 @@ goals:
  image: DOM_The_Trial.png
  tags:
   - political
-  - democracy   
+  - democracy
+  - trial
+  - gavel
 
 -
  name: GFX_focus_empty_coffers
@@ -4052,6 +4117,9 @@ goals:
   - Kaiserreich
   - KR
   - navy
+  - person
+  - TRM
+  - russia
 
 -
  name: GFX_HOL_spyker
@@ -4078,6 +4146,8 @@ goals:
   - Kaiserreich
   - KR
   - flag
+  - crete
+  - greece
 
 -
  name: GFX_goal_forced_mil
@@ -4371,8 +4441,7 @@ goals:
   - Kaiserreich
   - KR
   - PRF
-  - hat
-  - flag
+  - india
 
 -
  name: GFX_PRF_plantations
@@ -4381,6 +4450,8 @@ goals:
   - Kaiserreich
   - KR
   - agriculture
+  - PRF
+  - india
 
 -
  name: GFX_Golden_Triangle_Opium_Flower
@@ -4451,6 +4522,8 @@ goals:
   - KR
   - UK
   - army
+  - GBR
+  - britain
 
 -
  name: GFX_GBR_royal_navy
@@ -4460,6 +4533,8 @@ goals:
   - KR
   - UK
   - navy
+  - GBR
+  - britain
 
 -
  name: GFX_GBR_royal_air_force
@@ -4469,6 +4544,8 @@ goals:
   - KR
   - UK
   - air
+  - GBR
+  - britain
 
 -
  name: GFX_GBR_restoration
@@ -4477,6 +4554,8 @@ goals:
   - Kaiserreich
   - KR
   - UK
+  - GBR
+  - britain
 
 -
  name: GFX_goal_EGY_austrian_tourists
@@ -5611,6 +5690,7 @@ goals:
   - KR
   - RRM
   - flag
+  - romania
 
 -
  name: GFX_goal_AST_national_university
@@ -5619,6 +5699,7 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_clarify_anzac
@@ -5627,6 +5708,7 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_maori
@@ -5635,6 +5717,7 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_white_australasia
@@ -5643,6 +5726,7 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_AFM_victory
@@ -5652,6 +5736,7 @@ goals:
   - KR
   - AST
   - flag
+  - australia
 
 -
  name: GFX_goal_AST_cockatoo_island
@@ -5660,6 +5745,7 @@ goals:
   - Kaiserreich
   - KR
   - bird
+  - australia
 
 -
  name: GFX_goal_AST_freedom_of_the_press
@@ -5672,6 +5758,7 @@ goals:
   - media
   - freedom
   - law
+  - australia
 
 -
  name: GFX_goal_AST_scrap_reserves
@@ -5681,6 +5768,7 @@ goals:
   - KR
   - navy
   - ship
+  - australia
 
 -
  name: GFX_goal_AST_state_of_army
@@ -5690,6 +5778,7 @@ goals:
   - KR
   - army
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_state_of_RAAF
@@ -5698,6 +5787,7 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_state_of_RAN
@@ -5706,6 +5796,7 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
 
 -
  name: GFX_goal_AST_upgrade_reserves
@@ -5715,6 +5806,7 @@ goals:
   - KR
   - navy
   - ship
+  - australia
 
 -
  name: GFX_goal_AST_syndicalist
@@ -5724,6 +5816,7 @@ goals:
   - KR
   - AST
   - syndicalist
+  - australia
 
 -
  name: GFX_goal_AST_monarch_officers
@@ -5734,6 +5827,7 @@ goals:
   - officer
   - army
   - Britain
+  - australia
 
 -
  name: GFX_goal_AST_empower_actu
@@ -5742,6 +5836,8 @@ goals:
   - Kaiserreich
   - KR
   - AST
+  - australia
+  - syndicalist
 
 -
  name: GFX_goal_AST_trade_commonwealth
@@ -5751,6 +5847,7 @@ goals:
   - KR
   - crown
   - trade
+  - australia
 
 -
  name: GFX_goal_AST_new_markets
@@ -5762,6 +5859,7 @@ goals:
   - economic
   - world
   - globe
+  - australia
 
 -
  name: GFX_goal_AST_skip_plebiscite
@@ -5770,6 +5868,7 @@ goals:
   - Kaiserreich
   - KR
   - election
+  - australia
 
 -
  name: GFX_goal_CAN_isac
@@ -5777,7 +5876,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - CAN
+  - canada
 
 -
  name: GFX_goal_computer_focus
@@ -5857,7 +5956,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - ITA
+  - italy
 
 -
  name: GFX_ITA_sea_bounty
@@ -5867,6 +5966,7 @@ goals:
   - KR
   - sea
   - navy
+  - italy
 
 -
  name: GFX_ITA_serene_republic
@@ -5875,6 +5975,8 @@ goals:
   - Kaiserreich
   - KR
   - building
+  - venice
+  - italy
 
 -
  name: GFX_ITA_masquerade
@@ -5882,6 +5984,8 @@ goals:
  tags:
   - Kaiserreich
   - KR
+  - venice
+  - italy
 
 -
  name: GFX_ITA_syndicalist_unite
@@ -5890,6 +5994,7 @@ goals:
   - Kaiserreich
   - KR
   - syndicalist
+  - italy
 
 -
  name: GFX_ITA_urban
@@ -5898,6 +6003,7 @@ goals:
   - Kaiserreich
   - KR
   - building
+  - italy
 
 -
  name: GFX_DAH_toll
@@ -5939,7 +6045,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - fist
 
 -
@@ -5948,7 +6054,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - army
 
 -
@@ -5957,7 +6063,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - navy
 
 -
@@ -5967,7 +6073,7 @@ goals:
   - Kaiserreich
   - KR
   - air
-  - GRE
+  - greece
 
 -
  name: GFX_GRE_hellenic_shipyard
@@ -5975,7 +6081,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
 
 -
  name: GFX_GRE_megali
@@ -5983,8 +6089,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
-  - flag
+  - greece
 
 -
  name: GFX_GRE_monarchy
@@ -5992,7 +6097,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - flag
   - crown
 
@@ -6004,6 +6109,7 @@ goals:
   - KR
   - crown
   - building
+  - greece
 
 -
  name: GFX_GRE_king_pavlos
@@ -6011,7 +6117,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - person
 
 -
@@ -6020,7 +6126,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - person
 
 -
@@ -6029,7 +6135,7 @@ goals:
  tags:
   - Kaiserreich
   - KR
-  - GRE
+  - greece
   - person
 
 -
@@ -6039,6 +6145,7 @@ goals:
   - Kaiserreich
   - KR
   - TUR
+  - greece
   - flag
   - handshake
 
@@ -6565,14 +6672,6 @@ goals:
   - Kaiserreich
   - KR
   - electronics
-
--
- name: GFX_goal_oil
- image: goal_oil.png
- tags:
-  - Kaiserreich
-  - KR
-  - resources
 
 -
  name: GFX_goal_nuclear
@@ -7301,15 +7400,6 @@ goals:
   - KR
   - SWI
   - guns
-
--
- name: GFX_goal_generic_coastal_navy
- image: goal_generic_coastal_navy.png
- tags:
-  - Kaiserreich
-  - KR
-  - navy
-  - military
 
 -
  name: GFX_goal_japanese_democracy
@@ -8469,15 +8559,6 @@ goals:
   - flag
 
 -
- name: GFX_goal_red_star_gold_wreath
- image: goal_red_star_gold_wreath.png
- tags:
-  - Kaiserreich
-  - KR
-  - syndicalist
-  - flag
-
--
  name: GFX_goal_india_council
  image: goal_india_council.png
  tags:
@@ -8566,15 +8647,6 @@ goals:
   - KR
   - building
   - JAP
-
--
- name: GFX_goal_zhang_rifle
- image: goal_zhang_rifle.png
- tags:
-  - Kaiserreich
-  - KR
-  - FNG
-  - guns
 
 -
  name: GFX_goal_beiyang_flags
@@ -11363,15 +11435,6 @@ goals:
   - flag
 
 -
- name: GFX_goal_austria
- image: goal_flag_austria.png
- tags:
-  - Kaiserreich
-  - KR
-  - AUS
-  - flag
-
--
  name: GFX_FOP_Argie_Chilean_friends
  image: FOP_Argie_Chilean_friends.png
  tags:
@@ -11453,166 +11516,10 @@ goals:
   - military
 
 -
- name: GFX_goal_unknown
- image: goal_unknown.png
- tags:
-  - vanilla
-
--
  name: GFX_goal_shine_test
  image: goal_generic_production.png
  tags:
   - vanilla
-
--
- name: GFX_goal_fortify_the_westwall
- image: goal_generic_construct_military.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_reichsautobahn
- image: goal_generic_construct_civilian.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_panzerwaffe
- image: goal_generic_build_tank.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_expand_the_luftwaffe
- image: goal_generic_build_airforce.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_molotov_ribbentrop_pact
- image: goal_molotov_ribbentrop_pact.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_anschluss
- image: goal_anschluss.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_rhineland
- image: goal_rhineland.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_poland_goal
- image: goal_poland_goal.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_demand_sudetenland
- image: goal_demand_sudetenland.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tripartite_pact
- image: goal_tripartite_pact.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_anti_comintern_pact
- image: goal_anti_comintern_pact.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_sever_ties_with_uk
- image: goal_tfv_sever_ties_with_uk.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_strengthen_commonwealth_ties
- image: goal_tfv_strengthen_commonwealth_ties.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_generic_tech_sharing
- image: goal_tfv_generic_tech_sharing.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_burn_the_royal_portraits
- image: goal_tfv_burn_the_royal_portraits.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_can_forced_quebec_conscription
- image: goal_tfv_can_forced_quebec_conscription.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_can_compromise_with_quebec
- image: goal_tfv_can_compromise_with_quebec.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_AST_never_gallipoli
- image: focus_AST_never_gallipoli.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_AST_rats_tobruk
- image: focus_AST_rats_tobruk.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_AST_squander_bug
- image: focus_AST_squander_bug.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_AST_war_japan
- image: focus_AST_war_japan.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_saf_anti_colonialist_crusade
- image: focus_SAF_colonialist_crusade.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_saf_support_german_coup
- image: focus_SAF_german_coup.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_saf_secure_interests_in_africa
- image: focus_SAF_secure_africa.png
- tags:
-  - vanilla
-
--
- name: GFX_goal_tfv_saf_support_ossebrandwag
- image: focus_SAF_support_ossewabrandwag.png
- tags:
-   - vanilla
 
 -
  name: GFX_focus_proclaim_the_restauration_of_Austria_Hungary
@@ -11671,36 +11578,6 @@ goals:
 -
  name: GFX_focus_YUG_pan_slavic_congress
  image: focus_yug_pan_slavic_congress.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_RAJ_all_india_forward_bloc
- image: focus_RAJ_all_india_forward_bloc.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_RAJ_british_investors
- image: focus_RAJ_british_investors.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_RAJ_clamp_down_on_corruption
- image: focus_RAJ_clamp_down_on_corruption.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_RAJ_indian_gentlemen_offcers
- image: focus_RAJ_indian_gentlemen_offcers.png
- tags:
-  - vanilla
-
--
- name: GFX_focus_RAJ_indian_gurkhas
- image: focus_RAJ_indian_gurkhas.png
  tags:
   - vanilla
 
@@ -13760,12 +13637,6 @@ goals:
   - Finland
 
 -
- name: GFX_goal_Dismantle_French_Education
- image: FLN_Dismantle_French_Education.png
- tags:
-  - Kaiserreich
-
--
  name: GFX_goal_refugee_management
  image: focus_refugee_management.png
  tags:
@@ -13854,40 +13725,12 @@ goals:
   - agriculture
 
 -
- name: GFX_goal_arisaka
- image: goal_arisaka.png
- tags:
-  - Kaiserreich
-  - Japan
-
--
  name: GFX_goal_authority
  image: goal_authority.png
  tags:
   - Kaiserreich
   - sword
   - authority
-
--
- name: GFX_goal_basic_oil
- image: goal_Basic_Oil.png
- tags:
-  - Kaiserreich
-  - oil
-  - resources
-
--
- name: GFX_goal_beiyang_star
- image: goal_beiyang_star.png
- tags:
-  - Kaiserreich
-  - China
-
--
- name: GFX_goal_BEL_caritas
- image: goal_BEL_caritas.png
- tags:
-  - Kaiserreich
 
 -
  name: GFX_goal_broken_red_star
@@ -14169,20 +14012,6 @@ goals:
   - generic
 
 -
- name: GFX_goal_FLN_Poppys
- image: goal_FLN_Poppys.png
- tags:
-  - Kaiserreich
-
--
- name: GFX_goal_further_oil
- image: goal_Further_Oil.png
- tags:
-  - Kaiserreich
-  - oil
-  - resources
-
--
  name: GFX_goal_generic_army_cooperation
  image: goal_generic_army_cooperation.png
  tags:
@@ -14379,22 +14208,6 @@ goals:
   - generic
 
 -
- name: GFX_goal_gold_reserve
- image: goal_gold_reserve.png
- tags:
-  - Kaiserreich
-  - gold
-  - money
-
--
- name: GFX_goal_Centralised_Government
- image: goal_government_centralised_icon.png
- tags:
-  - Kaiserreich
-  - government
-  - authority
-
--
  name: GFX_goal_imprison_opposition1
  image: goal_imprison_opposition1.png
  tags:
@@ -14436,14 +14249,6 @@ goals:
   - army
   - military
   - artillery
-
--
- name: GFX_goal_nested_fortifications
- image: goal_nested_fortifications.png
- tags:
-  - Kaiserreich
-  - fortification
-  - military
 
 -
  name: GFX_goal_new_treaty
@@ -14512,15 +14317,6 @@ goals:
   - person
 
 -
- name: GFX_goal_KTG_Belgian_Officers2
- image: KTG_Belgian_Officers2.png
- tags:
-  - Kaiserreich
-  - officer
-  - military
-  - army
-
--
  name: GFX_goal_KTG_Bookstack
  image: KTG_Bookstack.png
  tags:
@@ -14561,31 +14357,6 @@ goals:
   - Kaiserreich
   - ivory
   - elephant
-
--
- name: GFX_goal_KTG_Jungle_Diamond_Mine
- image: KTG_Jungle_Diamond_Mine.png
- tags:
-  - Kaiserreich
-  - diamond
-  - jungle
-
--
- name: GFX_goal_KTG_Jungle_Gold_Mine
- image: KTG_Jungle_Gold_Mine.png
- tags:
-  - Kaiserreich
-  - gold
-  - jungle
-
--
- name: GFX_goal_KTG_Jungle_Railroad
- image: KTG_Jungle_Railroad.png
- tags:
-  - Kaiserreich
-  - railroad
-  - infrastructure
-  - jungle
 
 -
  name: GFX_goal_KTG_Rubber_Farming
@@ -14716,1865 +14487,2048 @@ goals:
  name: GFX_goal_rolling_the_dice
  image: goal_rolling_the_dice.png
  tags:
-  - generated
+  - dice
 
 -
  name: GFX_goal_generic_coal_mining
  image: goal_generic_coal_mining.png
  tags:
-  - generated
+  - resources
+  - coal
+  - production
+  - generic
 
 -
  name: GFX_goal_china_MON_banner
  image: goal_china_MON_banner.png
  tags:
-  - generated
-
--
- name: GFX_goal_flag_somalia
- image: goal_flag_somalia.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_new_england
- image: goal_flag_new_england.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_alash_orda
- image: goal_flag_alash_orda.png
- tags:
-  - generated
-
--
- name: GFX_goal_flag_azerbaijan
- image: goal_flag_azerbaijan.png
- tags:
-  - generated
-
--
- name: GFX_goal_falklands
- image: goal_flag_falklands.png
- tags:
-  - generated
-
--
- name: GFX_goal_northireland
- image: goal_flag_northireland.png
- tags:
-  - generated
-
--
- name: GFX_goal_gibraltar
- image: goal_flag_gibraltar.png
- tags:
-  - generated
-
--
- name: GFX_goal_malta_cross
- image: goal_malta_cross.png
- tags:
-  - generated
+  - china
+  - mongolia
 
 -
  name: GFX_goal_generic_ban_elections
  image: goal_generic_ban_elections.png
  tags:
-  - generated
+  - election
+  - generic
+  - ban
 
 -
  name: GFX_goal_generic_buy_ships
  image: goal_generic_buy_ships.png
  tags:
-  - generated
+  - navy
+  - ship
+  - generic
 
 -
  name: GFX_goal_generic_castle
  image: goal_generic_castle.png
  tags:
-  - generated
+  - castle
+  - generic
 
 -
  name: GFX_goal_workers_for_business
  image: goal_workers_for_business.png
  tags:
-  - generated
+  - worker
+  - labor
+  - economy
 
 -
  name: GFX_goal_Fight_for_Freedom
  image: goal_Fight_for_Freedom.png
  tags:
-  - generated
+  - freedom
+  - democracy
 
 -
  name: GFX_goal_social_reforms
  image: goal_social_reforms.png
  tags:
-  - generated
+  - reform
+  - generic
+  - government
 
 -
  name: GFX_goal_agency
  image: goal_agency.png
  tags:
-  - generated
+  - government
+  - papers
+  - reform
+  - generic
 
 -
  name: GFX_goal_healthcare
  image: goal_healthcare.png
  tags:
-  - generated
+  - generic
+  - health
 
 -
  name: GFX_goal_islamic_healthcare
  image: goal_islamic_healthcare.png
  tags:
-  - generated
+  - generic
+  - islam
+  - religion
+  - health
 
 -
  name: GFX_goal_bicycle_infantry
  image: goal_bicycle_infantry.png
  tags:
-  - generated
+  - generic
+  - bicycle
+  - army
+  - military
 
 -
  name: GFX_goal_the_gender_issue
  image: goal_the_gender_issue.png
  tags:
-  - generated
+  - china
+  - female
+  - women
 
 -
  name: GFX_goal_agrarian_soldiers
  image: goal_agrarian_soldiers.png
  tags:
-  - generated
+  - agrarian
+  - army
+  - military
 
 -
  name: GFX_goal_agrarian_socialism
  image: goal_agrarian_socialism.png
  tags:
-  - generated
+  - agrarian
+  - socialist
+  - syndicalist
 
 -
  name: GFX_goal_generic_globe
  image: goal_generic_globe.png
  tags:
-  - generated
+  - generic
+  - earth
+  - globe
+  - world
 
 -
  name: GFX_goal_generic_lightbulb
  image: goal_generic_lightbulb.png
  tags:
-  - generated
+  - generic
+  - bulb
+  - research
 
 -
  name: GFX_goal_generic_army_training
  image: goal_generic_army_training.png
  tags:
-  - generated
+  - generic
+  - army
+  - training
+  - academy
+  - military
 
 -
  name: GFX_goal_generic_build_housing
  image: goal_generic_build_housing.png
  tags:
-  - generated
+  - generic
+  - construction
+  - housing
 
 -
  name: GFX_goal_generic_railroad
  image: goal_generic_railroad.png
  tags:
-  - generated
+  - generic
+  - railroad
+  - infrastructure
+  - construction
 
 -
  name: GFX_goal_generic_corporatism
  image: goal_generic_corporatism.png
  tags:
-  - generated
+  - generic
+  - economy
+  - corporation
 
 -
  name: GFX_goal_generic_workers_democracy
  image: goal_generic_workers_democracy.png
  tags:
-  - generated
+  - generic
+  - syndicalism
+  - star
 
 -
  name: GFX_goal_generic_railway_construction
  image: goal_generic_railway_construction.png
  tags:
-  - generated
+  - generic
+  - railway
+  - construction
+  - infrastructure
 
 -
  name: GFX_goal_generic_heavy_tank
  image: goal_generic_heavy_tank.png
  tags:
-  - generated
+  - generic
+  - tank
+  - army
+  - military
 
 -
  name: GFX_goal_ANQ_undermine_anticoncessionists
  image: goal_ANQ_undermine_anticoncessionists.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_economic_nationalism
  image: goal_ANQ_economic_nationalism.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_Zaibatsu_Contracts
  image: goal_ANQ_zaibatsu_contracts.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_Caifa_Contracts
  image: goal_ANQ_caifa_contracts.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_Dalu_Yinhang
  image: goal_ANQ_dalu_yinhang.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_hunt_hanjian_1
  image: goal_ANQ_hunt_hanjian_1.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_hunt_hanjian_2
  image: goal_ANQ_hunt_hanjian_2.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_okura_bank_loans_1
  image: goal_ANQ_okura_bank_loans_1.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ANQ_okura_bank_loans_2
  image: goal_ANQ_okura_bank_loans_2.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ARM_Vali_Kazim_Karabekir
  image: goal_ARM_Vali_Kazim_Karabekir.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_ARM_hunt_for_Nzhdeh
  image: goal_ARM_hunt_for_Nzhdeh.png
  tags:
-  - generated
+  - ANQ
+  - china
 
 -
  name: GFX_goal_AUS_ausgleich
  image: goal_AUS_ausgleich.png
  tags:
-  - generated
+  - AUS
+  - austria
 
 -
  name: GFX_BAT_walter_zapp_SEF
  image: BAT_walter_zapp_SEF.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_BAT_Barons_Vairogs
  image: BAT_Barons_Vairogs.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_BAT_funding_Zander
  image: BAT_funding_Zander.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_BAT_air_force_focus
  image: BAT_air_force_focus.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_BAT_army_focus
  image: BAT_army_focus.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_BAT_coat_of_arms_focus
  image: BAT_coat_of_arms_focus.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_BAT_navy_focus
  image: BAT_navy_focus.png
  tags:
-  - generated
+  - BAT
 
 -
  name: GFX_goal_CAN_airforce
  image: goal_CAN_airforce.png
  tags:
-  - generated
+  - canada
 
 -
  name: GFX_goal_CAN_army
  image: goal_CAN_army.png
  tags:
-  - generated
+  - canada
 
 -
  name: GFX_goal_CAN_explore_north
  image: goal_CAN_explore_north.png
  tags:
-  - generated
+  - canada
+  - bear
+  - explore
+  - north
 
 -
  name: GFX_goal_CAN_navy
  image: goal_CAN_navy.png
  tags:
-  - generated
+  - canada
 
 -
  name: GFX_goal_CAN_parliament
  image: goal_CAN_parliament.png
  tags:
-  - generated
+  - canada
+  - parliament
 
 -
  name: GFX_goal_CHI_YUN_zhu_peide
  image: goal_CHI_YUN_zhu_peide.png
  tags:
-  - generated
+  - YUN
+  - china
 
 -
  name: GFX_goal_FRA_french_revanchism
  image: FRA_french_revanchism.png
  tags:
-  - generated
+  - FRA
 
 -
  name: GFX_goal_FRA_kill_the_eagle
  image: FRA_kill_the_eagle.png
  tags:
-  - generated
+  - FRA
 
 -
  name: GFX_goal_FRA_demand_Alsace
  image: FRA_demand_Alsace.png
  tags:
-  - generated
+  - FRA
 
 -
  name: GFX_goal_FRA_develop_NOR
  image: NOR_develop.png
  tags:
-  - generated
+  - FRA
+  - NOR
 
 -
  name: GFX_goal_FRA_develop_BHA
  image: BHA_develop.png
  tags:
-  - generated
+  - FRA
+  - BHC
 
 -
  name: GFX_goal_FRA_develop_CHL
  image: CHL_develop.png
  tags:
-  - generated
+  - FRA
+  - CHL
 
 -
  name: GFX_goal_FRA_develop_ENG
  image: ENG_develop.png
  tags:
-  - generated
+  - FRA
+  - ENG
 
 -
  name: GFX_goal_FRA_develop_SRI
  image: SRI_develop.png
  tags:
-  - generated
+  - FRA
+  - SRI
+  - italy
 
 -
  name: GFX_goal_FRA_develop_MEX
  image: MEX_develop.png
  tags:
-  - generated
+  - FRA
+  - MEX
 
 -
  name: GFX_goal_FRA_develop_CNT
  image: CNT_develop.png
  tags:
-  - generated
+  - FRA
+  - CNT
 
 -
  name: GFX_goal_FRA_develop
  image: FRA_develop.png
  tags:
-  - generated
+  - FRA
 
 -
  name: GFX_goal_FRA_liberate_Iberia
  image: FRA_liberate_Iberia.png
  tags:
-  - generated
+  - FRA
 
 -
  name: GFX_goal_FRA_Internationale_Congress
  image: FRA_Internationale_Congress.png
  tags:
-  - generated
+  - FRA
+  - flags
 
 -
  name: GFX_goal_FRA_liberate_AH
  image: FRA_liberate_AH.png
  tags:
-  - generated
+  - FRA
 
 -
  name: GFX_goal_CUB_regional_diplomacy
  image: CUB_regional_diplomacy.png
  tags:
-  - generated
+  - CUB
+  - caribbean
+  - handshake
 
 -
  name: GFX_goal_DEI_army
  image: goal_DEI_army.png
  tags:
-  - generated
+  - DEI
 
 -
  name: GFX_goal_DEI_navy
  image: goal_DEI_navy.png
  tags:
-  - generated
+  - DEI
 
 -
  name: GFX_goal_DEI_airforce
  image: goal_DEI_airforce.png
  tags:
-  - generated
+  - DEI
 
 -
  name: GFX_goal_ETS_authentic_religion
  image: ETS_authentic_religion.png
  tags:
-  - generated
+  - ETS
+  - religion
+  - islam
 
 -
  name: GFX_EGY_Radio_Free_Cairo
  image: EGY_Radio_Free_Cairo.png
  tags:
-  - generated
+  - EGY
+  - radio
 
 -
  name: GFX_EGY_Palestine_Defence
  image: EGY_Palestine_Defence.png
  tags:
-  - generated
+  - EGY
+  - soldier
+  - shield
+  - army
+  - military
 
 -
  name: GFX_EGY_Operation_Abu
  image: EGY_Operation_Abu.png
  tags:
-  - generated
+  - EGY
 
 -
  name: GFX_EGY_Coordinate_with_Al_Ahd
  image: EGY_Coordinate_with_Al_Ahd.png
  tags:
-  - generated
+  - EGY
 
 -
  name: GFX_EGY_Coordinate_with_Al_Fatat
  image: EGY_Coordinate_with_Al_Fatat.png
  tags:
-  - generated
+  - EGY
 
 -
  name: GFX_EGY_Third_Arab_Congress
  image: EGY_Third_Arab_Congress.png
  tags:
-  - generated
+  - EGY
+  - pyramid
 
 -
  name: GFX_EGY_Liberate_Tripolitania
  image: EGY_Liberate_Tripolitania.png
  tags:
-  - generated
+  - EGY
+  - libya
 
 -
  name: GFX_goal_FNG_chinese_flying_corps
  image: FNG_chinese_flying_corps.png
  tags:
-  - generated
+  - FNG
+  - china
 
 -
  name: GFX_goal_FNG_commission_japanese_ships
  image: FNG_commission_japanese_ships.png
  tags:
-  - generated
+  - FNG
+  - china
 
 -
  name: GFX_goal_FNG_unification_by_subjugation
  image: goal_FNG_unification_by_subjugation.png
  tags:
-  - generated
+  - FNG
+  - china
 
 -
  name: GFX_goal_FNG_grand_marshal
  image: goal_FNG_grand_marshal.png
  tags:
-  - generated
+  - FNG
+  - china
 
 -
  name: GFX_goal_FNG_artillery_tactics
  image: goal_FNG_artillery_tactics.png
  tags:
-  - generated
+  - FNG
+  - china
 
 -
  name: GFX_goal_FIN_promote_the_red_cross
  image: goal_FIN_promote_the_red_cross.png
  tags:
-  - generated
+  - FIN
+  - health
+  - cross
 
 -
  name: GFX_goal_GER_colonial_administration
  image: GER_colonial_administration.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Helfferichplan
  image: GER_Helfferichplan.png
  tags:
-  - generated
+  - germany
+  - person
 
 -
  name: GFX_goal_Rathenauplan
  image: GER_Rathenauplan.png
  tags:
-  - generated
+  - germany
+  - person
 
 -
  name: GFX_goal_Tarnow_Baade_Plan
  image: GER_Tarnow-Baade-Plan.png
  tags:
-  - generated
+  - germany
+  - person
 
 -
  name: GFX_goal_Binnenwirtschaft
  image: GER_Binnenwirtschaft.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Ban_against_Luxuries
  image: GER_Ban_against_Luxuries.png
  tags:
-  - generated
+  - generic
+  - car
+  - ban
+  - luxury
 
 -
  name: GFX_goal_Empower_the_Reichsbank
  image: GER_Empower_the_Reichsbank.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Winterhilfe
  image: GER_Winterhilfe.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Querverbindung
  image: GER_Querverbindung.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Reichsamt
  image: GER_Reichsamt.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Reichstag
  image: GER_Reichstag.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Deutsches_Heer
  image: GER_Deutsches_Heer.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Deutsche_Luftflotte
  image: GER_Deutsche_Luftflotte.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Kaiserliche_Marine
  image: GER_Kaiserliche_Marine.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Krupp_Artillery
  image: GER_Krupp_Artillery.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Brabag
  image: GER_Brabag.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Panzerschokolade
  image: GER_Panzerschokolade.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_Ufa_War_Propaganda
  image: GER_Ufa_War_Propaganda.png
  tags:
-  - generated
+  - germany
 
 -
  name: GFX_goal_greek_shield
  image: goal_greek_shield.png
  tags:
-  - generated
+  - greece
 
 -
  name: GFX_ITA_bastico
  image: goal_ITA_bastico.png
  tags:
-  - generated
+  - italy
+  - person
 
 -
  name: GFX_ITA_debono
  image: goal_ITA_debono.png
  tags:
-  - generated
+  - italy
+  - person
 
 -
  name: GFX_ITA_graziani
  image: goal_ITA_graziani.png
  tags:
-  - generated
+  - italy
+  - person
 
 -
  name: GFX_SIC_messe
  image: goal_SIC_messe.png
  tags:
-  - generated
+  - italy
+  - SIC
+  - person
 
 -
  name: GFX_ITA_united
  image: goal_ITA_united.png
  tags:
-  - generated
+  - italy
 
 -
  name: GFX_SRI_united
  image: goal_SRI_united.png
  tags:
-  - generated
+  - italy
+  - SRI
 
 -
  name: GFX_SRD_united
  image: goal_SRD_united.png
  tags:
-  - generated
+  - italy
+  - SRD
 
 -
  name: GFX_ITA_irridentism
  image: goal_ITA_irridentism.png
  tags:
-  - generated
+  - italy
 
 -
  name: GFX_SRI_irridentism
  image: goal_SRI_irridentism.png
  tags:
-  - generated
+  - italy
+  - SRI
 
 -
  name: GFX_SRD_irridentism
  image: goal_SRD_irridentism.png
  tags:
-  - generated
+  - italy
+  - SRD
 
 -
  name: GFX_ITA_federation
  image: goal_ITA_federation.png
  tags:
-  - generated
+  - italy
 
 -
  name: GFX_SIC_attack_csa
  image: goal_SIC_attack_csa.png
  tags:
-  - generated
+  - italy
+  - SRI
+  - SIC
 
 -
  name: GFX_SIC_empire
  image: goal_SIC_empire.png
  tags:
-  - generated
+  - SIC
+  - italy
 
 -
  name: GFX_SIC_confederation
  image: goal_SIC_confederation.png
  tags:
-  - generated
+  - SIC
+  - italy
 
 -
  name: GFX_goal_JAP_tokyo_conf
  image: goal_JAP_tokyo_conf.png
  tags:
-  - generated
+  - japan
 
 -
  name: GFX_goal_JAP_meet_india
  image: goal_JAP_meet_india.png
  tags:
-  - generated
+  - japan
+  - india
 
 -
  name: GFX_goal_JAP_target_australasia
  image: goal_JAP_target_australasia.png
  tags:
-  - generated
+  - generic
+  - australia
 
 -
  name: GFX_goal_JAP_target_gea
  image: goal_JAP_target_gea.png
  tags:
-  - generated
+  - japan
+  - GEA
 
 -
  name: GFX_goal_JAP_target_indonesia
  image: goal_JAP_target_indonesia.png
  tags:
-  - generated
+  - generic
+  - indonesia
 
 -
  name: GFX_goal_JAP_target_hawaii
  image: goal_JAP_target_hawaii.png
  tags:
-  - generated
+  - generic
+  - hawaii
 
 -
  name: GFX_goal_JAP_target_india
  image: goal_JAP_target_india.png
  tags:
-  - generated
+  - generic
+  - india
 
 -
  name: GFX_goal_JAP_target_phillipines
  image: goal_JAP_target_phillipines.png
  tags:
-  - generated
+  - PHI
+  - phillipines
 
 -
  name: GFX_goal_JAP_target_siam
  image: goal_JAP_target_siam.png
  tags:
-  - generated
+  - siam
 
 -
  name: GFX_goal_JAP_target_indochina
  image: goal_JAP_target_indochina.png
  tags:
-  - generated
+  - generic
+  - indochina
 
 -
  name: GFX_goal_JAP_industry
  image: goal_JAP_industry.png
  tags:
-  - generated
+  - japan
 
 -
  name: GFX_JAP_Hawaii_Colony
  image: Hawaii_Colony.png
  tags:
-  - generated
+  - japan
 
 -
  name: GFX_JAP_sakura_tree
  image: JAP_sakura_tree.png
  tags:
-  - generated
+  - japan
+  - tree
 
 -
  name: GFX_LEC_german_arrow
  image: LEC_german_arrow.png
  tags:
-  - generated
+  - LEC
+  - china
+  - germany
 
 -
  name: GFX_LEC_japanese_arrow
  image: LEC_japanese_arrow.png
  tags:
-  - generated
+  - LEC
+  - china
+  - japan
 
 -
  name: GFX_goal_LIT_Academy
  image: goal_LIT_Academy.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Airforce
  image: goal_LIT_Airforce.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_ANBO_FAC
  image: goal_LIT_ANBO_FAC.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_ANBO_IDEA
  image: goal_LIT_ANBO_IDEA.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_ANBOVIII_1
  image: goal_LIT_ANBOVIII_1.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Army_Reform_Broken
  image: goal_LIT_Army_Reform_Broken.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Army_Reform_Fixed
  image: goal_LIT_Army_Reform_Fixed.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_BELLIT
  image: goal_LIT_BELLIT.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Bund
  image: goal_LIT_Bund.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Bund_Curtail
  image: goal_LIT_Bund_Curtail.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Dec
  image: goal_LIT_Dec.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_King
  image: goal_LIT_King.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Litvak
  image: goal_LIT_Litvak.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Litvin
  image: goal_LIT_Litvin.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_LSS
  image: goal_LIT_LSS.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_LTS
  image: goal_LIT_LTS.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Mil_Reforms
  image: goal_LIT_Mil_Reforms.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Mobilise
  image: goal_LIT_Mobilise.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Naval
  image: goal_LIT_Naval.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_PruLit
  image: goal_LIT_PruLit.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Rastikis_Reforms
  image: goal_LIT_Rastikis_Reforms.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Shared
  image: goal_LIT_Shared.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_SouthernG
  image: goal_LIT_SouthernG.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_goal_LIT_Tautos_Vadas
  image: goal_LIT_Tautos_Vadas.png
  tags:
-  - generated
+  - LIT
 
 -
  name: GFX_LOM_Ambrosia
  image: LOM_ambrosia.png
  tags:
-  - generated
+  - LOM
+  - italy
 
 -
  name: GFX_LOM_University_Milan
  image: LOM_university_milan.png
  tags:
-  - generated
+  - LOM
+  - italy
 
 -
  name: GFX_LOM_Lombardy
  image: LOM_Lombardy.png
  tags:
-  - generated
+  - LOM
+  - italy
 
 -
  name: GFX_LOM_Lombard_King
  image: LOM_lombard_king.png
  tags:
-  - generated
+  - LOM
+  - italy
 
 -
  name: GFX_goal_XSM_moving_forward
  image: moving_forward.png
  tags:
-  - generated
+  - XSM
+  - china
 
 -
  name: GFX_goal_XSM_staying_put
  image: staying_put.png
  tags:
-  - generated
+  - XSM
+  - china
 
 -
  name: GFX_goal_XSM_the_hard_general
  image: the_hard_general.png
  tags:
-  - generated
+  - XSM
+  - china
 
 -
  name: GFX_goal_XSM_the_kind_general
  image: the_kind_general.png
  tags:
-  - generated
+  - XSM
+  - china
 
 -
  name: GFX_goal_XSM_the_military_civilian_administration
  image: the_military_civilian_administration.png
  tags:
-  - generated
+  - XSM
+  - china
 
 -
  name: GFX_goal_MAF_white_phosphorus
  image: goal_MAF_white_phosphorus.png
  tags:
-  - generated
+  - MAF
 
 -
  name: GFX_goal_NOR_SFCoup
  image: goal_NOR_SFCoup.png
  tags:
-  - generated
-
+  - NOR
 -
  name: GFX_goal_OTT_Restrict_Foreign_Exchange_Regime
  image: OTT_Restrict_Foreign_Exchange_Regime.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_TPC_deal
  image: OTT_TPC_deal.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Ziraat_Bankasi
  image: OTT_Ziraat_Bankasi.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Sumerbank
  image: OTT_Sumerbank.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Reeling_in_Anatolian_Vilayets
  image: OTT_Reeling_in_Anatolian_Vilayets.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Reeling_in_Arab_Vilayets
  image: OTT_Reeling_in_Arab_Vilayets.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Expand_the_Halkevleri_Program
  image: OTT_Expand_the_Halkevleri_Program.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Tribunals_of_Progress
  image: OTT_Tribunals_of_Progress.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Association_of_Muslim_Nations
  image: OTT_Association_of_Muslim_Nations.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Khedivate_Restored
  image: OTT_Khedivate_Restored.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Sudan_Question
  image: OTT_Sudan_Question.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Yemeni_Question
  image: OTT_Yemeni_Question.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Maghreb_Ties
  image: OTT_Maghreb_Ties.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Arab_Peninsula
  image: OTT_Arab_Peninsula.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Ties_Orient
  image: OTT_Ties_Orient.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Military_Mission
  image: OTT_Military_Mission.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Islamic_Education
  image: OTT_Islamic_Education.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Integrate_Armenia
  image: OTT_Integrate_Armenia.png
  tags:
-  - generated
+  - OTT
+  - ARM
 
 -
  name: GFX_goal_OTT_Integrate_Libya
  image: OTT_Integrate_Libya.png
  tags:
-  - generated
+  - OTT
+  - libya
 
 -
  name: GFX_goal_OTT_Integrate_Yemen
  image: OTT_Integrate_Yemen.png
  tags:
-  - generated
+  - OTT
+  - YEM
 
 -
  name: GFX_goal_OTT_Integrate_Azerbaijan
  image: OTT_Integrate_Azerbaijan.png
  tags:
-  - generated
+  - OTT
+  - AZE
 
 -
  name: GFX_goal_OTT_Integrate_Egypt
  image: OTT_Integrate_Egypt.png
  tags:
-  - generated
+  - OTT
+  - EGY
 
 -
  name: GFX_goal_OTT_Integrate_Sudan
  image: OTT_Integrate_Sudan.png
  tags:
-  - generated
+  - OTT
+  - SUD
 
 -
  name: GFX_goal_OTT_Integrate_Kurdistan
  image: OTT_Integrate_Kurdistan.png
  tags:
-  - generated
+  - OTT
+  - KUR
 
 -
  name: GFX_goal_OTT_Integrate_Khuzestan
  image: OTT_Integrate_Khuzestan.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_OTT_Sublime_Porte
  image: OTT_Sublime_Porte.png
  tags:
-  - generated
+  - OTT
 
 -
  name: GFX_goal_PAL_Food_Import
  image: PAL_Food_Import.png
  tags:
-  - generated
+  - agriculture
+  - food
+  - generic
 
 -
  name: GFX_goal_PAL_Private_Investement
  image: PAL_Private_Investement.png
  tags:
-  - generated
+  - generic
+  - investment
+  - economy
+  - money
 
 -
  name: GFX_goal_PAL_Closed_Immigration
  image: PAL_Closed_Immigration.png
  tags:
-  - generated
+  - generic
+  - ban
+  - immigration
 
 -
  name: GFX_goal_PAL_Irrigation_Program
  image: PAL_Irrigation_Program.png
  tags:
-  - generated
+  - generic
+  - agriculture
+  - irrigation
 
 -
  name: GFX_goal_PAL_Russian_Refugees
  image: PAL_Russian_Refugees.png
  tags:
-  - generated
+  - russia
 
 -
  name: GFX_goal_PAL_American_Refugees
  image: PAL_American_Refugees.png
  tags:
-  - generated
+  - america
+  - usa
 
 -
  name: GFX_goal_PAL_Eastern_European_Refugees
  image: PAL_Eastern_European_Refugees.png
  tags:
-  - generated
+  - PAL
 
 -
  name: GFX_goal_PAL_Algerian_Refugees
  image: PAL_Algerian_Refugees.png
  tags:
-  - generated
+  - PAL
 
 -
  name: GFX_goal_IRQ_Red_Crescent
  image: IRQ_Red_Crescent.png
  tags:
-  - generated
+  - IRQ
+  - health
+  - crescent
 
 -
  name: GFX_goal_IRQ_Home_of_Civilisation
  image: IRQ_Home_of_Civilisation.png
  tags:
-  - generated
+  - IRQ
 
 -
  name: GFX_goal_POL_saxon_king
  image: focus_pol_saxon_king.png
  tags:
-  - generated
+  - POL
 
 -
  name: GFX_goal_POL_light_tanks
  image: goal_POL_light_tanks.png
  tags:
-  - generated
+  - POL
+  - tank
+  - army
 
 -
  name: GFX_goal_POL_recon_aircraft
  image: goal_POL_recon_aircraft.png
  tags:
-  - generated
+  - generic
+  - air
+  - recon
 
 -
  name: GFX_goal_POL_industry_lublin
  image: goal_POL_industry_lublin.png
  tags:
-  - generated
+  - POL
 
 -
  name: GFX_goal_POL_industry_warsaw
  image: goal_POL_industry_warsaw.png
  tags:
-  - generated
+  - POL
 
 -
  name: GFX_goal_POL_kingdom
  image: goal_POL_kingdom.png
  tags:
-  - generated
+  - POL
 
 -
  name: GFX_goal_QIE_destroy_LEC
  image: goal_QIE_destroy_LEC.png
  tags:
-  - generated
+  - QIE
+  - china
 
 -
  name: GFX_goal_QIE_reorganize_warlord_divisions
  image: goal_QIE_reorganize_warlord_divisions.png
  tags:
-  - generated
+  - QIE
+  - china
 
 -
  name: GFX_goal_QIE_beijing_government
  image: goal_QIE_beijing_government.png
  tags:
-  - generated
+  - QIE
+  - china
 
 -
  name: GFX_goal_RUS_white_legacy
  image: goal_RUS_white_legacy.png
  tags:
-  - generated
+  - russia
 
 -
  name: GFX_goal_SZC_opium_crackdown
  image: goal_SZC_opium_crackdown.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_opium_tax
  image: goal_SZC_opium_tax.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_opium_monopoly
  image: goal_SZC_opium_monopoly.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_salt
  image: goal_SZC_salt.png
  tags:
-  - generated
+  - generic
+  - salt
+  - resource
 
 -
  name: GFX_goal_SZC_dujiangyan_irrigation_system
  image: goal_SZC_dujiangyan_irrigation_system.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_improvised_farming_machinery
  image: goal_SZC_improvised_farming_machinery.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_silk
  image: goal_SZC_silk.png
  tags:
-  - generated
+  - generic
+  - silk
+  - resource
+  - textile
 
 -
  name: GFX_goal_SZC_textiles
  image: goal_SZC_textiles.png
  tags:
-  - generated
+  - generic
+  - resource
+  - textile
 
 -
  name: GFX_goal_SZC_military
  image: goal_SZC_military.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_create_sichuan_arsenal
  image: goal_SZC_create_sichuan_arsenal.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_Yang_Sen
  image: goal_SZC_Yang_Sen.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_Liu_Cunhou
  image: goal_SZC_Liu_Cunhou.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_Deng_Xihou
  image: goal_SZC_Deng_Xihou.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_Liu_Wenhui
  image: goal_SZC_Liu_Wenhui.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_the_diarchy
  image: goal_SZC_the_diarchy.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_the_lord_of_sichuan
  image: goal_SZC_the_lord_of_sichuan.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_break_with_tradition
  image: goal_SZC_break_with_tradition.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_flag
  image: goal_SZC_flag.png
  tags:
-  - generated
+  - SZC
+  - china
+  - flag
 
 -
  name: GFX_goal_SZC_flag_2
  image: goal_SZC_flag_2.png
  tags:
-  - generated
+  - SZC
+  - china
+  - flag
 
 -
  name: GFX_goal_SZC_legacy_of_the_academy
  image: goal_SZC_legacy_of_the_academy.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_family_matters
  image: goal_SZC_family_matters.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_last_bastion_of_federalism
  image: goal_SZC_last_bastion_of_federalism.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_recover_the_first_province
  image: goal_SZC_recover_the_first_province.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_rally_the_zhili_remnants
  image: goal_SZC_rally_the_zhili_remnants.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_zhili_army
  image: goal_SZC_zhili_army.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_northern_doctrine
  image: goal_SZC_northern_doctrine.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SZC_southern_doctrine
  image: goal_SZC_southern_doctrine.png
  tags:
-  - generated
+  - SZC
+  - china
 
 -
  name: GFX_goal_SAF_army
  image: goal_SAF_army.png
  tags:
-  - generated
+  - SAF
 
 -
  name: GFX_goal_SAF_navy
  image: goal_SAF_navy.png
  tags:
-  - generated
+  - SAF
 
 -
  name: GFX_goal_SAF_airforce
  image: goal_SAF_airforce.png
  tags:
-  - generated
+  - SAF
 
 -
  name: GFX_goal_SAF_reform_voting_law
  image: goal_SAF_reform_voting_law.png
  tags:
-  - generated
+  - generic
+  - election
+  - voting
+  - reform
+  - handshake
 
 -
  name: GFX_goal_SAF_wine
  image: goal_SAF_wine.png
  tags:
-  - generated
+  - SAF
 
 -
  name: GFX_goal_GXC_northern_school
  image: goal_GXC_northern_school.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_GXC_southern_school
  image: goal_GXC_southern_school.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_GXC_Second_Guangdong_Arsenal
  image: goal_GXC_Second_Guangdong_Arsenal.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_GXC_Guangdong_Arsenal
  image: goal_GXC_Guangdong_Arsenal.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_GXC_CZGP
  image: goal_GXC_CZGP.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_GXC_conference
  image: goal_GXC_conference.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_GXC_new_model_army
  image: goal_GXC_new_model_army.png
  tags:
-  - generated
+  - GXC
+  - china
 
 -
  name: GFX_goal_SWE_focus_ehrensvard
  image: SWE_focus_ehrensvard.png
  tags:
-  - generated
+  - SWE
 
 -
  name: GFX_goal_SWE_focus_jung
  image: SWE_focus_jung.png
  tags:
-  - generated
+  - SWE
 
 -
  name: GFX_goal_SWE_focus_gyllenkrok
  image: SWE_focus_gyllenkrok.png
  tags:
-  - generated
+  - SWE
 
 -
  name: GFX_goal_SWE_focus_bagge
  image: SWE_focus_bagge.png
  tags:
-  - generated
+  - SWE
 
 -
  name: GFX_goal_SWE_focus_hansson
  image: SWE_focus_hansson.png
  tags:
-  - generated
+  - SWE
 
 -
  name: GFX_goal_SWI_government
  image: goal_SWI_government.png
  tags:
-  - generated
+  - SWI
 
 -
  name: GFX_goal_SWI_language
  image: SWI_language.png
  tags:
-  - generated
+  - SWI
 
 -
  name: GFX_goal_SWI_peace_at_last
  image: SWI_peace_at_last.png
  tags:
-  - generated
+  - SWI
 
 -
  name: GFX_goal_SWI_international_aid
  image: SWI_international_aid.png
  tags:
-  - generated
+  - generic
+  - aid
+  - handshake
 
 -
  name: GFX_goal_SWI_peace_and_stability
  image: SWI_peace_and_stability.png
  tags:
-  - generated
+  - SWI
 
 -
  name: GFX_goal_SWI_reconciliation
  image: SWI_reconciliation.png
  tags:
-  - generated
+  - SWI
 
 -
  name: GFX_goal_SWI_workers_army
  image: SWI_workers_army.png
  tags:
-  - generated
+  - SWI
 
 -
  name: GFX_goal_ukr_stabilize_west
  image: focus_UKR_stabilize_west.png
  tags:
-  - generated
+  - UKR
 
 -
  name: GFX_GBR_big_ben
  image: goal_GBR_big_ben.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_british_money
  image: goal_GBR_british_money.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_lead_entente
  image: goal_GBR_lead_entente.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_exile_fleets
  image: goal_GBR_exile_fleets.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_westerminster_dec
  image: goal_GBR_westerminster_dec.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_fate_of_unions
  image: goal_GBR_fate_of_unions.png
  tags:
-  - generated
+  - generic
+  - syndicalist
+  - worker
+  - labour
+  - union
 
 -
  name: GFX_GBR_britannia
  image: goal_GBR_britannia.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_five_eyes
  image: goal_GBR_five_eyes.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_imperial_chemical
  image: goal_GBR_imperial_chemical.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_marconi
  image: goal_GBR_marconi.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_hawker
  image: goal_GBR_hawker.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_bbc
  image: goal_GBR_bbc.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_exchequer
  image: goal_GBR_exchequer.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_GBR_labour_party
  image: goal_GBR_labour_party.png
  tags:
-  - generated
+  - GBR
+  - Britain
 
 -
  name: GFX_goal_USA_victory
  image: goal_USA_victory.png
  tags:
-  - generated
+  - USA
 
 -
  name: GFX_goal_CSA_victory
  image: goal_CSA_victory.png
  tags:
-  - generated
+  - CSA
 
 -
  name: GFX_goal_PSA_victory
  image: goal_PSA_victory.png
  tags:
-  - generated
+  - CAL
 
 -
  name: GFX_goal_AUS_victory
  image: goal_AUS_victory.png
  tags:
-  - generated
+  - TEX
 
 -
  name: GFX_goal_integrate_the_militia
  image: goal_integrate_the_militia.png
  tags:
-  - generated
+  - generic
+  - syndicalist
+  - army
+  - military
 
 -
  name: GFX_USA_goal_jcs
  image: USA_goal_jcs.png
  tags:
-  - generated
+  - USA
 
 -
  name: GFX_goal_PAR_The_Estigarribato
  image: goal_PAR_The_Estigarribato.png
  tags:
-  - generated
+  - PAR
 
 -
  name: GFX_goal_PAR_Paz_y_Justicia
  image: goal_PAR_Paz_y_Justicia.png
  tags:
-  - generated
+  - PAR
 
 -
  name: GFX_goal_PAR_Colorado_Resurgence
  image: goal_PAR_Colorado_Resurgence.png
  tags:
-  - generated
+  - PAR
 
 -
  name: GFX_goal_ECU_Isidro_takes_the_reins_of_the_government
  image: goal_ECU_Isidro_takes_the_reins_of_the_government.png
  tags:
-  - generated
+  - ECU
 
 -
  name: GFX_goal_ECU_Gallo_Steps_In
  image: goal_ECU_Gallo_Steps_In.png
  tags:
-  - generated
+  - ECU
 
 -
  name: GFX_goal_COL_State_of_Emergency
  image: goal_COL_State_of_Emergency.png
  tags:
-  - generated
+  - COL
 
 -
  name: GFX_goal_VEN_Another_AD_term
  image: goal_VEN_Another_AD_term.png
  tags:
-  - generated
+  - VEN
 
 -
  name: GFX_goal_VEN_URD_Presidency
  image: goal_VEN_URD_Presidency.png
  tags:
-  - generated
+  - VEN
 
 -
  name: GFX_goal_MEX_Sinarquist_Coup
  image: goal_MEX_Sinarquist_Coup.png
  tags:
-  - generated
+  - MEX
 
 -
  name: GFX_goal_MEX_Establish_the_Maximato
  image: goal_MEX_Establish_the_Maximato.png
  tags:
-  - generated
+  - MEX
 
 -
  name: GFX_goal_PAN_Create_the_Universidad_de_Panama
  image: goal_PAN_Create_the_Universidad_de_Panama.png
  tags:
-  - generated
+  - PAN
 
 -
  name: GFX_goal_PAN_canal_in_crisis
  image: goal_PAN_canal_in_crisis.png
  tags:
-  - generated
+  - PAN
+  - canal
 
 -
  name: GFX_goal_ARG_secure_la_pampa
  image: GFX_ARG_secure_la_pampa.png
  tags:
-  - generated
+  - ARG
 
 -
  name: GFX_goal_ARG_YPF_Expansion
  image: goal_ARG_YPF_Expansion.png
  tags:
-  - generated
+  - ARG
 
 -
  name: GFX_goal_ARG_Woes_of_the_Christmas_Coup
  image: goal_ARG_Woes_of_the_Christmas_Coup.png
  tags:
-  - generated
+  - ARG
 
 -
  name: GFX_goal_ARG_Partido_Socialista
  image: GFX_ARG_Partido_Socialista.png
  tags:
-  - generated
+  - AEG
 
 -
  name: GFX_goal_URG_Partido_Colorado
  image: GFX_URG_Partido_Colorado.png
  tags:
-  - generated
+  - URG
 
 -
  name: GFX_goal_URG_Partido_Nacional
  image: GFX_URG_Partido_Nacional.png
  tags:
-  - generated
+  - URG
 
 -
  name: GFX_goal_URG_The_Terra_Dictatorship
  image: goal_URG_The_Terra_Dictatorship.png
  tags:
-  - generated
+  - URG
 
 -
  name: GFX_goal_URG_Partido_Socialista_de_Uruguay
  image: goal_URG_Partido_Socialista_de_Uruguay.png
  tags:
-  - generated
+  - URG
 
